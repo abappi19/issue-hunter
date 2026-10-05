@@ -1,14 +1,18 @@
 # software-mansion/react-native-screens
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
-- Unassigned: 17+
+- Unassigned: 19+
 - [View all unassigned issues](https://github.com/software-mansion/react-native-screens/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#4789 App crashed on Android 16.](https://github.com/software-mansion/react-native-screens/issues/4789) | 3 |
+| [#4785 [iOS] A presented formSheet keeps resizing its old ScrollView after Fabric recycles it into another screen](https://github.com/software-mansion/react-native-screens/issues/4785) | 1 |
+| [#4781 Bottom tab bar and scroll edge effect flash with a dark color after switching between tabs](https://github.com/software-mansion/react-native-screens/issues/4781) | 0 |
+| [#4780 Content is moved under the transparent screen header when focusing a text input inside a scroll view](https://github.com/software-mansion/react-native-screens/issues/4780) | 0 |
 | [#4777 [Android][Fabric] Screen adopt() calls setSize on every clone, forcing a full layout pass on every commit (e.g. every scroll frame)](https://github.com/software-mansion/react-native-screens/issues/4777) | 1 |
 | [#4769 [iOS] formSheet with a native header: ScrollView sized to the full sheet height, last rows can't be scrolled into view](https://github.com/software-mansion/react-native-screens/issues/4769) | 0 |
 | [#4767 [iOS 27] Large title jumps sideways when a stacked search bar becomes active](https://github.com/software-mansion/react-native-screens/issues/4767) | 0 |
@@ -24,5 +28,3 @@ Most recently opened:
 | [#4664 [Android][NativeTabs] SafeAreaView reports a zero interface inset, so screen content is not inset by the tab bar](https://github.com/software-mansion/react-native-screens/issues/4664) | 5 |
 | [#4612 [Android] No autofill session is ever started for TextInputs on a pushed screen](https://github.com/software-mansion/react-native-screens/issues/4612) | 3 |
 | [#4605 [iOS 26] formSheet Liquid Glass flares on tap; sheetPresentationController.backgroundEffect is never set](https://github.com/software-mansion/react-native-screens/issues/4605) | 3 |
-| [#4591 [iOS] Two RNSScreenStack instances dismissing the same modal chain leave _updatingModals stuck and an orphaned presented VC (black window, JS alive)](https://github.com/software-mansion/react-native-screens/issues/4591) | 3 |
-| [#4551 Android/Fabric: onPress dead on background screen after orientation change (stale measure; androidResetScreenShadowStateOnOrientationChangeEnabled)](https://github.com/software-mansion/react-native-screens/issues/4551) | 2 |

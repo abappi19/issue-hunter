@@ -1,17 +1,18 @@
 # formbricks/formbricks
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
-- Unassigned: 72+
+- Unassigned: 74+
 - [View all unassigned issues](https://github.com/formbricks/formbricks/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#9493 Support pre-provisioned external PostgreSQL for SpiceDB in Docker Compose](https://github.com/formbricks/formbricks/issues/9493) | 0 |
+| [#9504 personal-email-domains list is missing private.icloud.com (new Sign in with Apple relay domain)](https://github.com/formbricks/formbricks/issues/9504) | 0 |
+| [#9493 Support pre-provisioned external PostgreSQL for SpiceDB in Docker Compose](https://github.com/formbricks/formbricks/issues/9493) | 1 |
 | [#9455 [Docs] One-Click Setup: mention AAAA records and IPv6 firewall rules](https://github.com/formbricks/formbricks/issues/9455) | 0 |
-| [#9454 Fix one-click Docker installation on Debian and report repository failures](https://github.com/formbricks/formbricks/issues/9454) | 0 |
+| [#9454 Fix one-click Docker installation on Debian and report repository failures](https://github.com/formbricks/formbricks/issues/9454) | 1 |
 | [#8728 Add Zenith as a managed hosting option in the README](https://github.com/formbricks/formbricks/issues/8728) | 1 |
 | [#8715 Publishing an untouched survey rewrites its plain-text headline as rich-text HTML](https://github.com/formbricks/formbricks/issues/8715) | 3 |
 | [#8709 Add the option to specify a reason for single select or multi select questions similar to the "Other" field](https://github.com/formbricks/formbricks/issues/8709) | 2 |
@@ -81,3 +82,4 @@ Most recently opened:
 | [#6234 Org owner only receives acceptance email when invitee signs up, not when logging in](https://github.com/formbricks/formbricks/issues/6234) | 0 |
 | [#6204 Allow to configure OpenGraph description](https://github.com/formbricks/formbricks/issues/6204) | 2 |
 | [#6169 Enterprise Application not working behind a reverse proxy](https://github.com/formbricks/formbricks/issues/6169) | 0 |
+| [#6167 Support for PeerTube video embedding](https://github.com/formbricks/formbricks/issues/6167) | 1 |

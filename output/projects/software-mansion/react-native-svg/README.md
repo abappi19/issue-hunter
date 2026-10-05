@@ -1,6 +1,6 @@
 # software-mansion/react-native-svg
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
 - Unassigned: 22+
 - [View all unassigned issues](https://github.com/software-mansion/react-native-svg/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)

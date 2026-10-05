@@ -1,8 +1,8 @@
 # getsentry/sentry-react-native
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
-- Unassigned: 90+
+- Unassigned: 88+
 - [View all unassigned issues](https://github.com/getsentry/sentry-react-native/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -97,5 +97,3 @@ Most recently opened:
 | [#3403 Only send debug images referenced in the iOS profile](https://github.com/getsentry/sentry-react-native/issues/3403) | 0 |
 | [#3258 Add tunnel support for react native](https://github.com/getsentry/sentry-react-native/issues/3258) | 9 |
 | [#3189 Add before-capture-callback and debouncing for screenshots/view hierarchy](https://github.com/getsentry/sentry-react-native/issues/3189) | 2 |
-| [#3065 Persist user information across app launches](https://github.com/getsentry/sentry-react-native/issues/3065) | 0 |
-| [#2924 Support for gradle-play-publisher](https://github.com/getsentry/sentry-react-native/issues/2924) | 3 |

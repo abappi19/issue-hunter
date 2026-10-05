@@ -1,14 +1,15 @@
 # docker/compose
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
-- Unassigned: 41
+- Unassigned: 42
 - [View all unassigned issues](https://github.com/docker/compose/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#14283 [BUG] Warns about uid/gid, but with inline configs they do work](https://github.com/docker/compose/issues/14283) | 2 |
 | [#14259 pre_start hooks: per_replica: true is accepted by the schema but always rejected at runtime](https://github.com/docker/compose/issues/14259) | 0 |
 | [#14250 Broken "contributing to docker" link in CONTRIBUTING.md](https://github.com/docker/compose/issues/14250) | 0 |
 | [#14232 Add opt-in ordered replica startup with health-based readiness](https://github.com/docker/compose/issues/14232) | 6 |

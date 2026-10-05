@@ -1,14 +1,16 @@
 # software-mansion/react-native-reanimated
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
-- Unassigned: 20+
+- Unassigned: 22+
 - [View all unassigned issues](https://github.com/software-mansion/react-native-reanimated/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#10805 [iOS/Fabric] FORCE_REACT_RENDER_FOR_SETTLED_ANIMATIONS evicts a settled value before handing it to React when the GC tick is late — view stuck at its initial style](https://github.com/software-mansion/react-native-reanimated/issues/10805) | 1 |
+| [#10804 [iOS][Expo] Looks like you're passing a function component `TextImpl` to `createAnimatedComponent` function which supports only class components.](https://github.com/software-mansion/react-native-reanimated/issues/10804) | 1 |
 | [#10752 [Web] An animation started outside a frame takes its first step at a negative elapsed time, so springs flash past their target](https://github.com/software-mansion/react-native-reanimated/issues/10752) | 3 |
 | [#10750 Bundle Mode startup recurses when Uniwind remaps React Native](https://github.com/software-mansion/react-native-reanimated/issues/10750) | 0 |
 | [#10684 Worklets: propagateModuleUpdate is shipped but never called, so worklets do not hot-reload](https://github.com/software-mansion/react-native-reanimated/issues/10684) | 0 |
@@ -26,6 +28,6 @@ Most recently opened:
 | [#10206 [iOS] Animated transform survives Fabric view recycling — remounted views paint the previous occupant's transform when no shared value changes](https://github.com/software-mansion/react-native-reanimated/issues/10206) | 2 |
 | [#10121 `ANDROID_`/`IOS_SYNCHRONOUSLY_UPDATE_UI_PROPS` breaks Pressables from react-native inside animated views](https://github.com/software-mansion/react-native-reanimated/issues/10121) | 1 |
 | [#10094 `withTiming` never advances during a ~10-20s window after cold start in release builds (UI-runtime frame stepping stalled), while direct `.value` writes still render](https://github.com/software-mansion/react-native-reanimated/issues/10094) | 0 |
+| [#10011 Add minia2a — x402 marketplace for AI agent API monetization](https://github.com/software-mansion/react-native-reanimated/issues/10011) | 0 |
 | [#9913 Worklets Bundle Mode potential high memory consumption in development](https://github.com/software-mansion/react-native-reanimated/issues/9913) | 1 |
 | [#9907 SIGSEGV (null deref) in LayoutAnimationsProxy_Experimental::pullTransaction on launch with ENABLE_SHARED_ELEMENT_TRANSITIONS (RN 0.84, Android/Fabric)](https://github.com/software-mansion/react-native-reanimated/issues/9907) | 0 |
-| [#9810 `:focus` / `:focus-within` never fire on tvOS (focus engine not observed)](https://github.com/software-mansion/react-native-reanimated/issues/9810) | 1 |

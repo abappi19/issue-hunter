@@ -1,18 +1,18 @@
 {
   "title": "Tracked Projects",
-  "generated_at": "2026-10-03T08:54:11.326706+00:00",
+  "generated_at": "2026-10-05T10:04:02.539238+00:00",
   "repos": [
     {
       "repo": "facebook/react",
-      "unassigned": "30+"
+      "unassigned": "32+"
     },
     {
       "repo": "vuejs/vue",
-      "unassigned": "30+"
+      "unassigned": "31+"
     },
     {
       "repo": "docker/compose",
-      "unassigned": 41
+      "unassigned": 42
     },
     {
       "repo": "axonpack/axonpack",
@@ -20,15 +20,15 @@
     },
     {
       "repo": "formbricks/formbricks",
-      "unassigned": "72+"
+      "unassigned": "74+"
     },
     {
       "repo": "calcom/cal.diy",
-      "unassigned": "18+"
+      "unassigned": "17+"
     },
     {
       "repo": "kirillzyusko/react-native-keyboard-controller",
-      "unassigned": 3
+      "unassigned": 1
     },
     {
       "repo": "react-native-async-storage/async-storage",
@@ -40,7 +40,7 @@
     },
     {
       "repo": "software-mansion/react-native-reanimated",
-      "unassigned": "20+"
+      "unassigned": "22+"
     },
     {
       "repo": "software-mansion/react-native-gesture-handler",
@@ -48,7 +48,7 @@
     },
     {
       "repo": "software-mansion/react-native-screens",
-      "unassigned": "17+"
+      "unassigned": "19+"
     },
     {
       "repo": "software-mansion/react-native-executorch",
@@ -60,7 +60,7 @@
     },
     {
       "repo": "getsentry/sentry-react-native",
-      "unassigned": "90+"
+      "unassigned": "88+"
     }
   ]
 }

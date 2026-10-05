@@ -1,8 +1,8 @@
 # calcom/cal.diy
 
-Generated: 2026-10-03T08:54:11.326706+00:00
+Generated: 2026-10-05T10:04:02.539238+00:00
 
-- Unassigned: 18+
+- Unassigned: 17+
 - [View all unassigned issues](https://github.com/calcom/cal.diy/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -12,7 +12,7 @@ Most recently opened:
 | [#30271 Date overrides split into duplicate days, and today's override disappears, when the server TZ is not UTC](https://github.com/calcom/cal.diy/issues/30271) | 1 |
 | [#30269 Allow Google Meet as location when the destination calendar is Outlook / Office 365](https://github.com/calcom/cal.diy/issues/30269) | 1 |
 | [#30266 Duration limits are checked in the server time zone at booking time](https://github.com/calcom/cal.diy/issues/30266) | 0 |
-| [#30264 Add-to-calendar links truncate event names containing & or #](https://github.com/calcom/cal.diy/issues/30264) | 2 |
+| [#30264 Add-to-calendar links truncate event names containing & or #](https://github.com/calcom/cal.diy/issues/30264) | 3 |
 | [#30258 Feature Request: Add cancellation cutoff before an event](https://github.com/calcom/cal.diy/issues/30258) | 2 |
 | [#30256 timezones: picker lists Europe/Kiev instead of Europe/Kyiv](https://github.com/calcom/cal.diy/issues/30256) | 3 |
 | [#30255 companion: timezone picker has no search across 417 entries](https://github.com/calcom/cal.diy/issues/30255) | 4 |
@@ -26,4 +26,3 @@ Most recently opened:
 | [#30195 [CalDAV] Booking page offers slots that fail at submit with "No available users found"](https://github.com/calcom/cal.diy/issues/30195) | 0 |
 | [#30194 Flexible payment options for bookings](https://github.com/calcom/cal.diy/issues/30194) | 2 |
 | [#30193 Embed: let the host page set the booker language](https://github.com/calcom/cal.diy/issues/30193) | 1 |
-| [#30173 Automatically treat declined calendar events as "free" for availability](https://github.com/calcom/cal.diy/issues/30173) | 1 |
