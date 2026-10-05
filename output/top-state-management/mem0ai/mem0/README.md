@@ -1,23 +1,26 @@
 # mem0ai/mem0
 
-Generated: 2026-10-03T09:43:20.309717+00:00
+Generated: 2026-10-05T11:15:05.594142+00:00
 
-- Unassigned: 71+
+- Unassigned: 72+
 - [View all unassigned issues](https://github.com/mem0ai/mem0/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#7535 Search ranks an outdated memory above its update: `score_and_rank` has no recency term (follow-up to #4896)](https://github.com/mem0ai/mem0/issues/7535) | 2 |
+| [#7546 VectorStoreBase.list returns nested list — ChromaDB and LangChain stores affected](https://github.com/mem0ai/mem0/issues/7546) | 2 |
+| [#7542 search and add paths throw "TypeError: this.client.search is not a function" on mem0ai@3.0.7](https://github.com/mem0ai/mem0/issues/7542) | 1 |
+| [#7541 AWS Bedrock: Nova no-tools path uses non-Converse message/parse shapes](https://github.com/mem0ai/mem0/issues/7541) | 0 |
+| [#7535 Search ranks an outdated memory above its update: `score_and_rank` has no recency term (follow-up to #4896)](https://github.com/mem0ai/mem0/issues/7535) | 5 |
 | [#7531 hermes-plugin-mem0: telemetry on by default, memory_id not path-encoded in self-hosted mode, mem0ai uninstallable on win-arm64](https://github.com/mem0ai/mem0/issues/7531) | 0 |
 | [#7529 bug(memory): AND condition silently overwrites a sibling top-level filter key](https://github.com/mem0ai/mem0/issues/7529) | 1 |
 | [#7527 bug(vector_stores/qdrant): "Payload indexes have no effect" warning on default config; entity store treats shared local client as remote](https://github.com/mem0ai/mem0/issues/7527) | 4 |
 | [#7526 OpenAI LLM: support custom default_headers (needed for OpenCode Go / session-header relays)](https://github.com/mem0ai/mem0/issues/7526) | 2 |
-| [#7523 bug(llms): o4-mini is not classified as a reasoning model, so temperature/top_p/max_tokens are sent on every call](https://github.com/mem0ai/mem0/issues/7523) | 2 |
+| [#7523 bug(llms): o4-mini is not classified as a reasoning model, so temperature/top_p/max_tokens are sent on every call](https://github.com/mem0ai/mem0/issues/7523) | 3 |
 | [#7522 bug(llms): _get_supported_params silently drops every caller kwarg on reasoning models](https://github.com/mem0ai/mem0/issues/7522) | 2 |
 | [#7518 mem0-ts: fastembed ^2.1.0 downloads models from a Qdrant GCS bucket that is being shut down](https://github.com/mem0ai/mem0/issues/7518) | 0 |
-| [#7516 ElasticsearchDB.get() returns None for a backend failure, which already means "no such vector"](https://github.com/mem0ai/mem0/issues/7516) | 2 |
+| [#7516 ElasticsearchDB.get() returns None for a backend failure, which already means "no such vector"](https://github.com/mem0ai/mem0/issues/7516) | 3 |
 | [#7514 Controlled 3-arm experiment on mem0 write-time compression (full artifacts) + a DolphinBench recompute offer](https://github.com/mem0ai/mem0/issues/7514) | 0 |
 | [#7513 Memory export lacks a canonical JSON conformance path — strict profile v1 + cross-engine vectors ready (follow-up to #7497)](https://github.com/mem0ai/mem0/issues/7513) | 0 |
 | [#7504 _safe_deepcopy_config blanks credentials on clones that are then used to open a connection](https://github.com/mem0ai/mem0/issues/7504) | 2 |
@@ -32,7 +35,7 @@ Most recently opened:
 | [#7488 TypeScript: Gemini Embedding 2 batches collapse to one vector and lose memories](https://github.com/mem0ai/mem0/issues/7488) | 3 |
 | [#7483 bug(vector_stores/pinecone): OR / NOT filters are sent as {"$or": {"$eq": [...]}} and every such search fails with HTTP 400](https://github.com/mem0ai/mem0/issues/7483) | 2 |
 | [#7482 bug(vector_stores/pinecone): euclidean indexes return raw squared distance as the score, so Memory.search drops the nearest memories](https://github.com/mem0ai/mem0/issues/7482) | 1 |
-| [#7480 AWS Bedrock _parse_response: a valid empty content block list hits [0] and comes back as "Error parsing response"](https://github.com/mem0ai/mem0/issues/7480) | 0 |
+| [#7480 AWS Bedrock _parse_response: a valid empty content block list hits [0] and comes back as "Error parsing response"](https://github.com/mem0ai/mem0/issues/7480) | 1 |
 | [#7475 Claude Code plugin: MCP server ignores the user_id option, so searches use the OS account name](https://github.com/mem0ai/mem0/issues/7475) | 2 |
 | [#7473 Claude Code plugin (Windows): flush worker's git calls flash console windows — DETACHED_PROCESS should be CREATE_NO_WINDOW](https://github.com/mem0ai/mem0/issues/7473) | 1 |
 | [#7470 bug(cli): search --filter with a top-level AND/OR drops the -u/--agent-id/--app-id/--run-id scope](https://github.com/mem0ai/mem0/issues/7470) | 2 |
@@ -78,5 +81,3 @@ Most recently opened:
 | [#7317 _extract_count recurses into non-dict model_dump(), allocating ~2GB before silently returning None](https://github.com/mem0ai/mem0/issues/7317) | 3 |
 | [#7314 PGVector destructor closes externally supplied connection_pool](https://github.com/mem0ai/mem0/issues/7314) | 1 |
 | [#7313 Docs: BaseEmbedderConfig says openai_base_url defaults to api.openai.com, but two env vars come first](https://github.com/mem0ai/mem0/issues/7313) | 2 |
-| [#7302 Deepseek Harness: canceled recall marks undelivered memories as seen](https://github.com/mem0ai/mem0/issues/7302) | 4 |
-| [#7294 [mem0-ts] PGVector store has no 'error' listener on its pg Client — server-side connection termination crashes the host process, and the client never reconnects](https://github.com/mem0ai/mem0/issues/7294) | 2 |

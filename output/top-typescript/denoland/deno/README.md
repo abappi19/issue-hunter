@@ -1,16 +1,22 @@
 # denoland/deno
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 46+
+- Unassigned: 48+
 - [View all unassigned issues](https://github.com/denoland/deno/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#36961 deno lint --fix resets file permissions](https://github.com/denoland/deno/issues/36961) | 0 |
+| [#36960 Missing HTTP_STATUS_* constants in node:http2.constants polyfill](https://github.com/denoland/deno/issues/36960) | 0 |
+| [#36959 zsh: `deno -A` + `Tab` filename completions broken](https://github.com/denoland/deno/issues/36959) | 0 |
+| [#36954 `deno publish --dry-run` does not check for `actorNotScopeMember`](https://github.com/denoland/deno/issues/36954) | 0 |
+| [#36953 bug: if socket polluted, it leads to an internal error](https://github.com/denoland/deno/issues/36953) | 0 |
+| [#36950 Deno Desktop: upstreaming a series of fixes and features (stable app origin, deep links, window API, …)](https://github.com/denoland/deno/issues/36950) | 2 |
+| [#36948 desktop: staged update is swapped in by the already-loaded old dylib, so it runs one launch late and rollback never covers it](https://github.com/denoland/deno/issues/36948) | 0 |
 | [#36943 Cross-process locking for DENO_DIR and build outputs (Cargo-style cache locks)](https://github.com/denoland/deno/issues/36943) | 0 |
-| [#36941 napi: crash when a callback throws and returns an invalid napi_value; napi_create_dataview returns napi_ok after throwing](https://github.com/denoland/deno/issues/36941) | 0 |
 | [#36937 node:fs.watch: watcher reopened right after its directory is recreated gets no events](https://github.com/denoland/deno/issues/36937) | 0 |
 | [#36934 Incorrect operator in `Deno.lint.BinaryExpression` declaration](https://github.com/denoland/deno/issues/36934) | 0 |
 | [#36932 Deno desktop: options to turn off CEF background networking and to answer permission requests](https://github.com/denoland/deno/issues/36932) | 0 |
@@ -25,7 +31,7 @@ Most recently opened:
 | [#36910 deno_core: snapshotting a JsRuntimeForSnapshot restored from a snapshot drops inherited extension sources; the next restore segfaults](https://github.com/denoland/deno/issues/36910) | 0 |
 | [#36904 `Headers` does not reject values containing CR / LF and leading / trailing whitespace](https://github.com/denoland/deno/issues/36904) | 2 |
 | [#36899 `deno bundle` gives confusing error message when dependency is newer than `min-dep-age`](https://github.com/denoland/deno/issues/36899) | 0 |
-| [#36898 v2.9.7 is not published on npm](https://github.com/denoland/deno/issues/36898) | 0 |
+| [#36898 v2.9.7 is not published on npm](https://github.com/denoland/deno/issues/36898) | 1 |
 | [#36897 desktop: allow to bundle additional files in the installer](https://github.com/denoland/deno/issues/36897) | 1 |
 | [#36896 deno desktop - since macOS 27.0 in dev & webview only windows open with white screen for short period before page rendered.](https://github.com/denoland/deno/issues/36896) | 0 |
 | [#36891 Install matching `@types/*` packages with `--save-types` flag and `saveTypes` option](https://github.com/denoland/deno/issues/36891) | 0 |
@@ -51,7 +57,3 @@ Most recently opened:
 | [#36830 deno desktop --allow-net support](https://github.com/denoland/deno/issues/36830) | 0 |
 | [#36829 deno pack warns for a fully typed private runtime module with no public declaration dependency](https://github.com/denoland/deno/issues/36829) | 0 |
 | [#36824 Missing uv_get_osfhandle export causes a crash](https://github.com/denoland/deno/issues/36824) | 0 |
-| [#36822 WebTransport: close() sends no FIN, abort() no RESET; streams released only on GC, so sessions stall after 100 streams](https://github.com/denoland/deno/issues/36822) | 0 |
-| [#36821 node:http: unread POST body stalls keep-alive connection after an early response](https://github.com/denoland/deno/issues/36821) | 0 |
-| [#36813 console.table() Number coercion regression for signed radix strings](https://github.com/denoland/deno/issues/36813) | 0 |
-| [#36812 Support a FIPS 140-validated crypto provider (pluggable/build-time crypto backend)](https://github.com/denoland/deno/issues/36812) | 0 |

@@ -1,14 +1,19 @@
 # payloadcms/payload
 
-Generated: 2026-10-03T09:42:50.069915+00:00
+Generated: 2026-10-05T11:14:26.946312+00:00
 
-- Unassigned: 33+
+- Unassigned: 29+
 - [View all unassigned issues](https://github.com/payloadcms/payload/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#18491 3.90: relationship access constraint is appended to the caller's `where` in place — a join field's configured `where` grows on every read until queries hang](https://github.com/payloadcms/payload/issues/18491) | 0 |
+| [#18490 plugin-mcp: revalidatePath/revalidateTag called in hooks during MCP tool calls are silently dropped](https://github.com/payloadcms/payload/issues/18490) | 0 |
+| [#18489 `schedulePublish` server function queues an empty `schedulePublish` job when deleting a scheduled event](https://github.com/payloadcms/payload/issues/18489) | 0 |
+| [#18480 Jobs: `updateJobs` never rolls back when `db.updateJobs` throws, leaking a pool connection per failure (postgres)](https://github.com/payloadcms/payload/issues/18480) | 0 |
+| [#18476 Locale switcher bypasses LeaveWithoutSaving: unsaved changes are discarded on a locale switch (regression of #7215 by #11387)](https://github.com/payloadcms/payload/issues/18476) | 0 |
 | [#18465 createVersion / createGlobalVersion rewrite every older version's latest flag on each save](https://github.com/payloadcms/payload/issues/18465) | 1 |
 | [#18462 SQL adapters & Data Corruption: block rows are stranded in the old numbered table when a block's placements are renumbered, and reappear as duplicates on the next save](https://github.com/payloadcms/payload/issues/18462) | 0 |
 | [#18452 bug: conditional tab visibility is submitted as document data](https://github.com/payloadcms/payload/issues/18452) | 1 |
@@ -33,12 +38,3 @@ Most recently opened:
 | [#18352 storage-s3: only the first upload in a process is stored (Local API, Cloudflare R2)](https://github.com/payloadcms/payload/issues/18352) | 1 |
 | [#18348 Autosave drops an edit made while a queued autosave is in flight](https://github.com/payloadcms/payload/issues/18348) | 0 |
 | [#18339 [plugin-ecommerce] initiatePayment never validates variants (variant check nested inside product-only branch)](https://github.com/payloadcms/payload/issues/18339) | 0 |
-| [#18338 [plugin-ecommerce] Variant hooks call findByID without req, so variants can't be created in the same transaction as their product](https://github.com/payloadcms/payload/issues/18338) | 0 |
-| [#18335 3.90: apiKey/enableAPIKey render as stray editable fields after generate, regenerate or revoke (website template)](https://github.com/payloadcms/payload/issues/18335) | 0 |
-| [#18334 slugField: creating a published doc without a slug fails "Slug is required" since 3.90.2 (regression from #18181)](https://github.com/payloadcms/payload/issues/18334) | 0 |
-| [#18332 Polymorphic join: one target collection's read access disables or filters the whole join (folder view shows "No Results")](https://github.com/payloadcms/payload/issues/18332) | 1 |
-| [#18331 Field afterRead hooks run even when field read access is denied](https://github.com/payloadcms/payload/issues/18331) | 1 |
-| [#18329 Plugins lack a consistent enabled/disabled option](https://github.com/payloadcms/payload/issues/18329) | 0 |
-| [#18325 db-postgres, db-sqlite: like and contains read % and _ in the search value as wildcards](https://github.com/payloadcms/payload/issues/18325) | 0 |
-| [#18324 generate:types (and other bin commands) hang forever with 100% CPU when tsconfig has a relative rootDir like "./"](https://github.com/payloadcms/payload/issues/18324) | 1 |
-| [#18316 Folders(v3): Changing folder on draft documents does not reflect in folder view until published](https://github.com/payloadcms/payload/issues/18316) | 2 |

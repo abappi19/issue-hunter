@@ -1,6 +1,6 @@
 # ChatGPTNextWeb/NextChat
 
-Generated: 2026-10-03T09:42:50.069915+00:00
+Generated: 2026-10-05T11:14:26.946312+00:00
 
 - Unassigned: 38+
 - [View all unassigned issues](https://github.com/ChatGPTNextWeb/NextChat/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,7 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#6912 [Bug] Secret values should not be used as env on vercel](https://github.com/ChatGPTNextWeb/NextChat/issues/6912) | 0 |
 | [#6885 [Bug] nextchatweb容器被入侵了](https://github.com/ChatGPTNextWeb/NextChat/issues/6885) | 2 |
 | [#6883 [Feature Request] docs: PZERO BASE_URL example (do not append /v1)](https://github.com/ChatGPTNextWeb/NextChat/issues/6883) | 1 |
 | [#6881 Proposal: AnyLLM as a provider preset — one OpenAI-compatible endpoint for 24+ Chinese & international models](https://github.com/ChatGPTNextWeb/NextChat/issues/6881) | 0 |
@@ -46,4 +47,3 @@ Most recently opened:
 | [#6679 [Feature Request] Gemini 3 intergartion](https://github.com/ChatGPTNextWeb/NextChat/issues/6679) | 0 |
 | [#6678 使用deepseek api 无法发送图片](https://github.com/ChatGPTNextWeb/NextChat/issues/6678) | 2 |
 | [#6671 Is OpenAI the only available provider in custom api?](https://github.com/ChatGPTNextWeb/NextChat/issues/6671) | 0 |
-| [#6669 [Feature Request]针对模型自定义请求模版](https://github.com/ChatGPTNextWeb/NextChat/issues/6669) | 1 |

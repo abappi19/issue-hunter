@@ -1,14 +1,23 @@
 # obra/superpowers
 
-Generated: 2026-10-03T09:42:25.196854+00:00
+Generated: 2026-10-05T11:13:54.472669+00:00
 
-- Unassigned: 57+
+- Unassigned: 60+
 - [View all unassigned issues](https://github.com/obra/superpowers/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#2458 executing-plans: a test-writing step should end in its own run](https://github.com/obra/superpowers/issues/2458) | 1 |
+| [#2456 key need made](https://github.com/obra/superpowers/issues/2456) | 0 |
+| [#2455 executing-plans and subagent-driven-development: the main/master consent rule does not defer to a declared branch policy](https://github.com/obra/superpowers/issues/2455) | 0 |
+| [#2454 Prompt audit against Claude Fable 5.1: pressure language and update suppressors in using-superpowers, executing-plans, subagent-driven-development](https://github.com/obra/superpowers/issues/2454) | 0 |
+| [#2453 writing-plans Review Focus: name three edge classes that verified plans still missed (largest allowed value, failure after a side effect, rapid successive writes)](https://github.com/obra/superpowers/issues/2453) | 0 |
+| [#2452 writing-plans / test-driven-development: a test for a protective layer is evidence only once it fails when the layer is weakened](https://github.com/obra/superpowers/issues/2452) | 0 |
+| [#2451 subagent-driven-development / executing-plans: the final report should be derived from a plan-to-diff mapping, not written freely](https://github.com/obra/superpowers/issues/2451) | 0 |
+| [#2450 subagent-driven-development: a fix round that changes an interface leaves later tasks' plan text calling the old one](https://github.com/obra/superpowers/issues/2450) | 0 |
+| [#2449 systematic-debugging: check the hypothesis against the user's own data before reporting it as the cause](https://github.com/obra/superpowers/issues/2449) | 0 |
 | [#2447 Screenshot (Oct 2, 2026 10:45:15 PM)](https://github.com/obra/superpowers/issues/2447) | 0 |
 | [#2446 Final whole-branch review: code-reviewer.md re-derives the diff and has no model slot, contrary to SDD's Final Review](https://github.com/obra/superpowers/issues/2446) | 0 |
 | [#2445 test-driven-development and subagent-driven-development disagree on running the full suite after a fix](https://github.com/obra/superpowers/issues/2445) | 0 |
@@ -16,7 +25,7 @@ Most recently opened:
 | [#2440 task-reviewer-prompt: requiring file:line for every passed check makes reviewers compute line numbers from diff offsets](https://github.com/obra/superpowers/issues/2440) | 1 |
 | [#2437 writing-plans: per-task "run tests" + "commit" steps make compiled-language plans very slow — allow batching](https://github.com/obra/superpowers/issues/2437) | 0 |
 | [#2436 task-brief: an unclosed fence makes one task's brief absorb every later task, at exit 0 (Claude Code)](https://github.com/obra/superpowers/issues/2436) | 0 |
-| [#2435 subagent-driven-development: in an unattended run, a step that needs a human at the screen should move to the next available tool, not be dropped](https://github.com/obra/superpowers/issues/2435) | 0 |
+| [#2435 subagent-driven-development: in an unattended run, a step that needs a human at the screen should move to the next available tool, not be dropped](https://github.com/obra/superpowers/issues/2435) | 1 |
 | [#2434 brainstorming: check YAGNI cuts against the goals the user stated, not only the features they named](https://github.com/obra/superpowers/issues/2434) | 0 |
 | [#2433 writing-plans: user-facing text that describes app behaviour should cite the code it describes](https://github.com/obra/superpowers/issues/2433) | 0 |
 | [#2432 writing-plans: verifying a security boundary needs adversarial probes (encoded paths, concurrency), not happy-path negatives](https://github.com/obra/superpowers/issues/2432) | 0 |
@@ -46,23 +55,17 @@ Most recently opened:
 | [#2391 OpenCode V2 plugin: bootstrap is injected on the 'context' hook only, so every compaction request misses the prompt cache](https://github.com/obra/superpowers/issues/2391) | 1 |
 | [#2386 test-driven-development is not invoked for a plain "add a function" request, even with the using-superpowers injection present](https://github.com/obra/superpowers/issues/2386) | 2 |
 | [#2378 brainstorming: spec metadata renders as one line, and there's no design-doc template](https://github.com/obra/superpowers/issues/2378) | 0 |
-| [#2377 Pressure-language bootstrap and narration suppressors degrade behavior on current Claude models](https://github.com/obra/superpowers/issues/2377) | 2 |
+| [#2377 Pressure-language bootstrap and narration suppressors degrade behavior on current Claude models](https://github.com/obra/superpowers/issues/2377) | 3 |
 | [#2376 Open a rendered HTML preview of the saved spec or plan in the browser](https://github.com/obra/superpowers/issues/2376) | 0 |
 | [#2373 verification-before-completion / writing-skills: three gaps (unverified regex, process.exit skips self-test cleanup, newline doesn't gate a commit)](https://github.com/obra/superpowers/issues/2373) | 0 |
 | [#2372 Codex Desktop: brainstorming approval gates skipped after skill read (6.4.1)](https://github.com/obra/superpowers/issues/2372) | 4 |
 | [#2368 SDD: opt-in DAG/wave execution for independent plan tasks (not Agent Teams)](https://github.com/obra/superpowers/issues/2368) | 0 |
 | [#2356 Optional parallel tester role in subagent-driven-development's task review step](https://github.com/obra/superpowers/issues/2356) | 1 |
 | [#2344 RELEASE-NOTES say a deleted .superpowers/sdd/progress.md can be recovered from git log; it cannot](https://github.com/obra/superpowers/issues/2344) | 1 |
-| [#2342 executing-plans: task-done ledgers the last log line as the test result, so `node --test` runs record `# duration_ms …` instead of pass/fail](https://github.com/obra/superpowers/issues/2342) | 9 |
+| [#2342 executing-plans: task-done ledgers the last log line as the test result, so `node --test` runs record `# duration_ms …` instead of pass/fail](https://github.com/obra/superpowers/issues/2342) | 11 |
 | [#2332 Workflow has first-class specs/plans but no durable QA/acceptance artifact layer](https://github.com/obra/superpowers/issues/2332) | 8 |
 | [#2316 finishing-a-development-branch: PR review has no lifecycle transition back to merge/release](https://github.com/obra/superpowers/issues/2316) | 2 |
 | [#2314 writing-plans: discover and reuse available QA tools before inventing bespoke verification](https://github.com/obra/superpowers/issues/2314) | 2 |
 | [#2309 writing-plans: self-review misses task-state/DAG closure in executable plans](https://github.com/obra/superpowers/issues/2309) | 8 |
 | [#2307 SDD helper scripts prompt for an app on Windows when invoked from PowerShell](https://github.com/obra/superpowers/issues/2307) | 0 |
 | [#2298 subagent-driven-development: review-package renders commit subjects only, so the task reviewer reports commit-body disclosures as undisclosed changes](https://github.com/obra/superpowers/issues/2298) | 1 |
-| [#2293 subagent-driven-development: the ledger records no in-flight task, so an outage mid-task re-dispatches work that is already committed](https://github.com/obra/superpowers/issues/2293) | 0 |
-| [#2292 writing-skills: GREEN measures compliance, not outcome](https://github.com/obra/superpowers/issues/2292) | 2 |
-| [#2286 verification-before-completion: the skill requires fresh evidence but never asks where the evidence came from](https://github.com/obra/superpowers/issues/2286) | 5 |
-| [#2285 writing-plans: expected values in verification steps are asserted, not produced — and can be contradicted by the plan's own text](https://github.com/obra/superpowers/issues/2285) | 2 |
-| [#2282 subagent-driven-development: implementer dispatches are gated on nothing — briefs get referenced unwritten and todo state never updates](https://github.com/obra/superpowers/issues/2282) | 1 |
-| [#2277 systematic-debugging ships its pressure-test fixtures inside the skill directory; they open with "This is a real scenario. You must choose and act"](https://github.com/obra/superpowers/issues/2277) | 3 |

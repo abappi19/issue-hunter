@@ -1,15 +1,19 @@
 # ruvnet/RuView
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 19+
+- Unassigned: 23+
 - [View all unassigned issues](https://github.com/ruvnet/RuView/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#2122 Tutorial and information on how to block the signal](https://github.com/ruvnet/RuView/issues/2122) | 0 |
+| [#2154 Esp32CsiParser drops real ESP32-S3 frames with more than 256 subcarriers](https://github.com/ruvnet/RuView/issues/2154) | 0 |
+| [#2150 Request for evidence matrix: which headline sensing claims are actually validated on live ESP32 hardware?](https://github.com/ruvnet/RuView/issues/2150) | 0 |
+| [#2139 GaussianMap::decay compounds across calls, so confidence depends on how often it runs](https://github.com/ruvnet/RuView/issues/2139) | 0 |
+| [#2136 mmWave probe would identify an LD6002B or LD6004 as an MR60BHA2 and read its work mode as breathing rate](https://github.com/ruvnet/RuView/issues/2136) | 0 |
+| [#2135 A committed adaptive model with 41.5% training accuracy loads automatically when the server starts from v2/](https://github.com/ruvnet/RuView/issues/2135) | 0 |
 | [#2099 UI: with `RUVIEW_API_TOKEN` set and no token in the browser, the dashboard retries forever](https://github.com/ruvnet/RuView/issues/2099) | 0 |
 | [#2098 `provision.py --tdm-slot/--tdm-total` is stored in NVS but nothing uses it](https://github.com/ruvnet/RuView/issues/2098) | 0 |
 | [#2097 Status says `live_unverified` with zero frames received; unknown `--source` is accepted](https://github.com/ruvnet/RuView/issues/2097) | 0 |

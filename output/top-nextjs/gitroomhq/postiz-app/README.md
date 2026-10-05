@@ -1,14 +1,16 @@
 # gitroomhq/postiz-app
 
-Generated: 2026-10-03T09:42:50.069915+00:00
+Generated: 2026-10-05T11:14:26.946312+00:00
 
-- Unassigned: 44+
+- Unassigned: 49+
 - [View all unassigned issues](https://github.com/gitroomhq/postiz-app/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#2199 Invite link registration is broken: always creates a new org for the invited user, invite context silently dropped (15-min cookie vs 2-day JWT)](https://github.com/gitroomhq/postiz-app/issues/2199) | 0 |
+| [#2198 Feature request: warn when registering an organization whose name matches an existing org (self-host UX)](https://github.com/gitroomhq/postiz-app/issues/2198) | 0 |
 | [#2197 Feature: use a ChatGPT subscription for Postiz AI features (Sign in with ChatGPT plan usage)](https://github.com/gitroomhq/postiz-app/issues/2197) | 0 |
 | [#2196 Posts with images fail](https://github.com/gitroomhq/postiz-app/issues/2196) | 0 |
 | [#2187 Public API / MCP report 0 video credits while the web app shows credits (subscription.createdAt not loaded for API key & OAuth orgs)](https://github.com/gitroomhq/postiz-app/issues/2187) | 0 |
@@ -53,3 +55,6 @@ Most recently opened:
 | [#1862 Public API `/public/v1/upload` always returns `originalName: null`, breaking display name in Media Library](https://github.com/gitroomhq/postiz-app/issues/1862) | 0 |
 | [#1861 Webhooks always fire with an empty body: sendWebhooks() receives the provider's post id instead of the internal post id](https://github.com/gitroomhq/postiz-app/issues/1861) | 0 |
 | [#1857 v2.22.1 has broken backend](https://github.com/gitroomhq/postiz-app/issues/1857) | 2 |
+| [#1854 Postiz Cloud TikTok Direct Post fails with reached_active_user_cap](https://github.com/gitroomhq/postiz-app/issues/1854) | 1 |
+| [#1847 LinkedIn: first comments show literal backslashes before #, (, ) — LTF escaping applied to the plain-text Comments API](https://github.com/gitroomhq/postiz-app/issues/1847) | 0 |
+| [#1845 Missing viewport meta tag breaks mobile rendering](https://github.com/gitroomhq/postiz-app/issues/1845) | 0 |

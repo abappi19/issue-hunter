@@ -1,14 +1,20 @@
 # Dokploy/dokploy
 
-Generated: 2026-10-03T09:42:50.069915+00:00
+Generated: 2026-10-05T11:14:26.946312+00:00
 
-- Unassigned: 51+
+- Unassigned: 49+
 - [View all unassigned issues](https://github.com/Dokploy/dokploy/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#5586 Webhook deployments do not set serverId, so all servers share one build queue](https://github.com/Dokploy/dokploy/issues/5586) | 1 |
+| [#5581 Server terminal and remote terminal windows collapse instantly on browser zoom](https://github.com/Dokploy/dokploy/issues/5581) | 1 |
+| [#5580 Preview deployments for stacked PRs](https://github.com/Dokploy/dokploy/issues/5580) | 1 |
+| [#5579 processEnvVars does not substitute variables in [[config.env]] tables](https://github.com/Dokploy/dokploy/issues/5579) | 1 |
+| [#5576 feat(ai): allow custom HTTP headers per AI provider configuration](https://github.com/Dokploy/dokploy/issues/5576) | 1 |
+| [#5574 [UI Bug] Tooltips remain visible and overlap open modals on Remote Servers page](https://github.com/Dokploy/dokploy/issues/5574) | 1 |
 | [#5565 Docker pull often fails with private registry Gitlab during a deployment (Docker compose)](https://github.com/Dokploy/dokploy/issues/5565) | 1 |
 | [#5557 Notification bug (Slack): Build error notification message is exposing SSH keys in notification payload](https://github.com/Dokploy/dokploy/issues/5557) | 2 |
 | [#5555 Permissions: ticking a project should grant access to its services, including future ones](https://github.com/Dokploy/dokploy/issues/5555) | 1 |
@@ -27,7 +33,7 @@ Most recently opened:
 | [#5524 Database backups require gzip/shell inside the DB container, breaking hardened images (e.g. Docker Hardened Images)](https://github.com/Dokploy/dokploy/issues/5524) | 2 |
 | [#5514 Dokploy does not use HTTP_PROXY/HTTPS_PROXY for Node.js fetch requests](https://github.com/Dokploy/dokploy/issues/5514) | 1 |
 | [#5511 Phase vault provider: testConnection fails with "401: Token expired or deleted" using a valid Service Account token](https://github.com/Dokploy/dokploy/issues/5511) | 3 |
-| [#5509 Additional Port Mappings: two entries sharing the same targetPort silently overwrite each other (last one wins)](https://github.com/Dokploy/dokploy/issues/5509) | 2 |
+| [#5509 Additional Port Mappings: two entries sharing the same targetPort silently overwrite each other (last one wins)](https://github.com/Dokploy/dokploy/issues/5509) | 3 |
 | [#5508 Vault/secrets-provider interpolation doesn't work in the managed database's fields](https://github.com/Dokploy/dokploy/issues/5508) | 1 |
 | [#5504 Orphaned docker-stats monitoring interval keeps rewriting stats files every 1.3s after the websocket closes (~8.7 GB/day of disk writes)](https://github.com/Dokploy/dokploy/issues/5504) | 1 |
 | [#5503 500 error when managing domains / HTTPS in Dokploy UI](https://github.com/Dokploy/dokploy/issues/5503) | 1 |
@@ -52,11 +58,3 @@ Most recently opened:
 | [#5435 v0.30.6 image ships empty /app/node_modules/postgres/package.json → ERR_INVALID_PACKAGE_CONFIG](https://github.com/Dokploy/dokploy/issues/5435) | 1 |
 | [#5434 Dokploy installation won't converge under Podroid](https://github.com/Dokploy/dokploy/issues/5434) | 1 |
 | [#5433 Application Run Command cannot run chained startup scripts](https://github.com/Dokploy/dokploy/issues/5433) | 1 |
-| [#5425 Deleting a project leaves orphaned Secret Vault assignments](https://github.com/Dokploy/dokploy/issues/5425) | 2 |
-| [#5420 Feature request: mark a domain as internal-only, restricted to operator-defined trusted networks](https://github.com/Dokploy/dokploy/issues/5420) | 1 |
-| [#5419 Add managed, restricted Docker API access for Traefik without exposing container secrets](https://github.com/Dokploy/dokploy/issues/5419) | 3 |
-| [#5417 Regression: Dockerfile build context defaults to the Dockerfile's own directory again (PR #5271 reverted the fix from #5231)](https://github.com/Dokploy/dokploy/issues/5417) | 2 |
-| [#5412 backup.create silently no-ops for a database on a remote server](https://github.com/Dokploy/dokploy/issues/5412) | 1 |
-| [#5403 Cron jobs never register on a fresh install: initCronJobs returns early because the owner does not exist yet](https://github.com/Dokploy/dokploy/issues/5403) | 3 |
-| [#5397 [BUG] : Container restart when using compose services](https://github.com/Dokploy/dokploy/issues/5397) | 2 |
-| [#5395 Feature Request: Comprehensive Enterprise & Whitelabeling UX Enhancements](https://github.com/Dokploy/dokploy/issues/5395) | 1 |

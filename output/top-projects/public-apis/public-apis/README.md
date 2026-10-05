@@ -1,15 +1,16 @@
 # public-apis/public-apis
 
-Generated: 2026-10-03T09:42:25.196854+00:00
+Generated: 2026-10-05T11:13:54.472669+00:00
 
-- Unassigned: 5+
+- Unassigned: 6+
 - [View all unassigned issues](https://github.com/public-apis/public-apis/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#7646 邀请 public-apis 加入 GithubStarMate，让更多人发现你的作品](https://github.com/public-apis/public-apis/issues/7646) | 0 |
+| [#7702 API](https://github.com/public-apis/public-apis/issues/7702) | 0 |
+| [#7696 https://210.56.48.38/link/c5a65f39ee7ba76e4f802c0f93a8a5bc 魔法免费白嫖，我仇人的，比较慢](https://github.com/public-apis/public-apis/issues/7696) | 0 |
 | [#7625 Mater ](https://github.com/public-apis/public-apis/issues/7625) | 0 |
 | [#7622 Add Shopify Change Intelligence - Shopify Monitoring API](https://github.com/public-apis/public-apis/issues/7622) | 0 |
 | [#7585 Add GroundTruth - 2026 US Tariff & Landed Cost API](https://github.com/public-apis/public-apis/issues/7585) | 1 |

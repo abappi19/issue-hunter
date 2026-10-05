@@ -1,6 +1,6 @@
 # angular/angular
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
 - Unassigned: 31+
 - [View all unassigned issues](https://github.com/angular/angular/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,14 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#71182 Angular Router can restart navigation forever when a guard returns a redirect cycle, wedging SSR workers](https://github.com/angular/angular/issues/71182) | 0 |
+| [#71181 docs: Usage of signals outside of signal form to drive rules?](https://github.com/angular/angular/issues/71181) | 0 |
+| [#71178 docs: route resource params reading queryParams()['key'] inline still refetches on unrelated query changes (22.2.0)](https://github.com/angular/angular/issues/71178) | 1 |
+| [#71172 NG8011 is reported when an `@let` declaration is next to the projected node of a control flow block](https://github.com/angular/angular/issues/71172) | 0 |
+| [#71164 docs/skills: no `getErrors()` example for signal forms](https://github.com/angular/angular/issues/71164) | 0 |
+| [#71162 Inline `<svg>` at the root of a control flow block is not matched by an `ng-content` tag selector](https://github.com/angular/angular/issues/71162) | 0 |
+| [#71160 Support [disabled] attribute on [formField] inputs](https://github.com/angular/angular/issues/71160) | 1 |
+| [#71155 Reactive Forms: formControlName with no matching control crashes in production with a raw TypeError](https://github.com/angular/angular/issues/71155) | 8 |
 | [#71149 Signal forms: submit() runs the action before debounced child values are synced](https://github.com/angular/angular/issues/71149) | 0 |
 | [#71147 bug(schematics): signal queries/style schematics run more than once](https://github.com/angular/angular/issues/71147) | 0 |
 | [#71138 Hydration cleanup mutates arrays stored in @let when the @let is read from a nested view](https://github.com/angular/angular/issues/71138) | 2 |
@@ -32,11 +40,3 @@ Most recently opened:
 | [#70926 Angular SSR: Domino active formatting reconstruction can cause heap exhaustion](https://github.com/angular/angular/issues/70926) | 2 |
 | [#70923 Destroying a transplanted view twice removes another live view from change detection](https://github.com/angular/angular/issues/70923) | 0 |
 | [#70919 Route-level resources: feedback on previous-value semantics, parallel loads, typed errors, and input type safety](https://github.com/angular/angular/issues/70919) | 1 |
-| [#70906 feat(router): provide component-level afterAttach/afterDetach/beforeDetach hooks for routed components](https://github.com/angular/angular/issues/70906) | 0 |
-| [#70905 feat(elements): expose custom element connected-disconnected lifecycle to the Angular component](https://github.com/angular/angular/issues/70905) | 0 |
-| [#70884 Validate async signal leaks resource internals](https://github.com/angular/angular/issues/70884) | 4 |
-| [#70856 Add HttpClient.query() for the HTTP QUERY method](https://github.com/angular/angular/issues/70856) | 0 |
-| [#70840 Signal Forms: array items that share the tracking symbol (spread copy) share one field — writes land in the wrong row; frozen items throw](https://github.com/angular/angular/issues/70840) | 3 |
-| [#70815 Add signal form config option to process async validation even when sync errors are present](https://github.com/angular/angular/issues/70815) | 0 |
-| [#70801 Built-in @while Control Flow Block](https://github.com/angular/angular/issues/70801) | 8 |
-| [#70790 [vscode language service extension] Rename its references automatically when selector changes](https://github.com/angular/angular/issues/70790) | 1 |

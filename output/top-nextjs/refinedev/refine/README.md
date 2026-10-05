@@ -1,14 +1,15 @@
 # refinedev/refine
 
-Generated: 2026-10-03T09:42:50.069915+00:00
+Generated: 2026-10-05T11:14:26.946312+00:00
 
-- Unassigned: 21
+- Unassigned: 22
 - [View all unassigned issues](https://github.com/refinedev/refine/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#7624 [DOC]](https://github.com/refinedev/refine/issues/7624) | 1 |
 | [#7623 [FEAT] TDK CLI integration: run a refine app as a local TDK resource](https://github.com/refinedev/refine/issues/7623) | 0 |
 | [#7620 [FEAT] Add support to shadcn v4.x.x](https://github.com/refinedev/refine/issues/7620) | 3 |
 | [#7616 [BUG] hasura getList throws "v.toUpperCase is not a function" when sorting by a relation field with graphql-default](https://github.com/refinedev/refine/issues/7616) | 0 |

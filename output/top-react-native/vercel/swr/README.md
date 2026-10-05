@@ -1,8 +1,8 @@
 # vercel/swr
 
-Generated: 2026-10-03T09:43:01.413532+00:00
+Generated: 2026-10-05T11:14:41.029470+00:00
 
-- Unassigned: 44+
+- Unassigned: 43+
 - [View all unassigned issues](https://github.com/vercel/swr/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -52,4 +52,3 @@ Most recently opened:
 | [#3055 Type-narrowing doesn't work](https://github.com/vercel/swr/issues/3055) | 14 |
 | [#3046 `revalidateOnMount` With Fallback triggers `isLoading` instead of `isValidating`](https://github.com/vercel/swr/issues/3046) | 2 |
 | [#3042 When using useSWRInfinite with {revalidateOnMount: true, revalidateFirstPage: false}, if there is a useLayoutEffect, the component will not make a new request when it is mounted.](https://github.com/vercel/swr/issues/3042) | 2 |
-| [#3040 onSuccess not called after upgrading from Expo 51 to 52](https://github.com/vercel/swr/issues/3040) | 3 |

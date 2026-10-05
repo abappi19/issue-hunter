@@ -1,28 +1,25 @@
 # coollabsio/coolify
 
-Generated: 2026-10-03T09:42:50.069915+00:00
+Generated: 2026-10-05T11:14:26.946312+00:00
 
-- Unassigned: 50+
+- Unassigned: 47+
 - [View all unassigned issues](https://github.com/coollabsio/coolify/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#12079 [Bug]: Service Compose parser discards non-creating bind options and registers managed storage](https://github.com/coollabsio/coolify/issues/12079) | 0 |
+| [#12094 [Bug]: SigNoz template: ClickHouse system logs grow without limit](https://github.com/coollabsio/coolify/issues/12094) | 1 |
+| [#12083 API: custom_nginx_configuration is written to default.conf base64-encoded and cannot be cleared](https://github.com/coollabsio/coolify/issues/12083) | 2 |
 | [#12077 [Bug]: Railpack fails with Node.js v26 + pnpm v11](https://github.com/coollabsio/coolify/issues/12077) | 0 |
 | [#12076 [Bug]: S3 storage fails with cURL error 7 - custom DNS (1.1.1.1) drops A records on truncated UDP answer](https://github.com/coollabsio/coolify/issues/12076) | 1 |
-| [#12075 [Bug]: DNS entries modal copy buttons show success but copy nothing on http instances](https://github.com/coollabsio/coolify/issues/12075) | 1 |
-| [#12074 [Bug]: /settings/backup returns 500 "Attempt to read property "executions" on null" when coolify-db has no scheduled backup](https://github.com/coollabsio/coolify/issues/12074) | 0 |
 | [#12071 [Bug] MCP: initialize returns error for unsupported protocol version instead of negotiating (breaks Claude.ai custom connectors)](https://github.com/coollabsio/coolify/issues/12071) | 0 |
 | [#12067 [Bug]: Sentinel is restarted every minute on non-root SSH servers without Docker group access](https://github.com/coollabsio/coolify/issues/12067) | 0 |
-| [#12060 [Bug]: R2 backup uploads fail with "The S3 destination may not support streaming uploads."](https://github.com/coollabsio/coolify/issues/12060) | 1 |
-| [#12059 [Bug]: SSH retry replays database backup upload commands and causes Docker container-name conflicts](https://github.com/coollabsio/coolify/issues/12059) | 0 |
 | [#12057 Compose `${VAR:?error}` stores the error message as the value instead of failing](https://github.com/coollabsio/coolify/issues/12057) | 0 |
 | [#12036 Long-form bind mappings lose read_only and bind options during application parsing](https://github.com/coollabsio/coolify/issues/12036) | 0 |
 | [#12034 Server validation rejects Arch-derived distros: validateOS() reads ID and ignores ID_LIKE](https://github.com/coollabsio/coolify/issues/12034) | 1 |
 | [#12033 Server validation rejects Arch-derived distros: validateOS() reads ID and ignores ID_LIKE](https://github.com/coollabsio/coolify/issues/12033) | 0 |
-| [#12031 [Bug]: force_domain_override is ignored for docker_compose_domains when creating an application via the API](https://github.com/coollabsio/coolify/issues/12031) | 0 |
+| [#12031 [Bug]: force_domain_override is ignored for docker_compose_domains when creating an application via the API](https://github.com/coollabsio/coolify/issues/12031) | 1 |
 | [#12017 [Bug]: Deleting an incomplete GitHub App source renders name on null](https://github.com/coollabsio/coolify/issues/12017) | 0 |
 | [#12016 [Bug]: PATCH /applications/{uuid} rejects documented github_app_uuid field](https://github.com/coollabsio/coolify/issues/12016) | 0 |
 | [#12014 [Bug]: POST /api/v1/services rejects connect_to_docker_network for docker_compose_raw services (422 "field is not allowed")](https://github.com/coollabsio/coolify/issues/12014) | 0 |

@@ -1,14 +1,17 @@
 # laurent22/joplin
 
-Generated: 2026-10-03T09:43:01.413532+00:00
+Generated: 2026-10-05T11:14:41.029470+00:00
 
-- Unassigned: 84+
+- Unassigned: 82+
 - [View all unassigned issues](https://github.com/laurent22/joplin/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#16750 Web: Decrypting sync items is slow](https://github.com/laurent22/joplin/issues/16750) | 0 |
+| [#16745 Table editor: Pressing Enter during IME composition blurs cell and inserts text outside table](https://github.com/laurent22/joplin/issues/16745) | 0 |
+| [#16743 AI Chat: inconsistent behaviour for private-network providers](https://github.com/laurent22/joplin/issues/16743) | 0 |
 | [#16734 iOS: Double selection in Markdown editor](https://github.com/laurent22/joplin/issues/16734) | 2 |
 | [#16733 iOS: Selection handles sometimes styled inconsistently or cut off near the start/end of notes](https://github.com/laurent22/joplin/issues/16733) | 0 |
 | [#16721 Desktop: Upgrade app banner shows the wrong minimum app version](https://github.com/laurent22/joplin/issues/16721) | 2 |
@@ -75,10 +78,9 @@ Most recently opened:
 | [#16336 Disallow locked notes in shared notebooks](https://github.com/laurent22/joplin/issues/16336) | 2 |
 | [#16328 Joplin's internal Backup Plugin, despite having a dedicated temp folder set, still uses the tmp folder located in the profile's directory](https://github.com/laurent22/joplin/issues/16328) | 4 |
 | [#16327 Enable R8/app optimisation for Android (Google Play requirement Feb 2027)](https://github.com/laurent22/joplin/issues/16327) | 2 |
-| [#16323 Missing 🎯 emoji](https://github.com/laurent22/joplin/issues/16323) | 5 |
+| [#16323 Missing 🎯 emoji](https://github.com/laurent22/joplin/issues/16323) | 6 |
 | [#16316 Whiteboard: Accessibility: Cannot edit text card content from a screen reader/keyboard-only interface](https://github.com/laurent22/joplin/issues/16316) | 3 |
-| [#16314 Web Clipper doesn't persist Notebook selection between sessions or expose a way to set a default](https://github.com/laurent22/joplin/issues/16314) | 1 |
-| [#16311 Rich Text editor: attachment links not clickable, and PDFs are not previewed inline (regression vs. embedded viewer in Markdown mode)](https://github.com/laurent22/joplin/issues/16311) | 2 |
+| [#16315 Table editor: Accessibility: Editor is difficult to use without a mouse/pointing device](https://github.com/laurent22/joplin/issues/16315) | 4 |
 | [#16310 Fatal error on launch: "Invalid layout component: chatPanel"](https://github.com/laurent22/joplin/issues/16310) | 3 |
 | [#16291 Long running SQL queries should not block execution of other SQL](https://github.com/laurent22/joplin/issues/16291) | 4 |
 | [#16290 Desktop: "Link to note" button inserts Markdown link syntax in HTML notes](https://github.com/laurent22/joplin/issues/16290) | 0 |
@@ -89,7 +91,3 @@ Most recently opened:
 | [#16265 [Feature Request] Add MCP endpoint to joplin/server (headless mode)](https://github.com/laurent22/joplin/issues/16265) | 3 |
 | [#16262 Cannot destructure property 'tile' of 'l.pop(...)' as it is undefined.](https://github.com/laurent22/joplin/issues/16262) | 2 |
 | [#16241 Android: shared attachments open inside Joplin's task instead of as their own app](https://github.com/laurent22/joplin/issues/16241) | 3 |
-| [#16240 Android: attached files are stored as `application/octet-stream`, ignoring the file extension](https://github.com/laurent22/joplin/issues/16240) | 0 |
-| [#16239 Desktop: Conflict Resolution  UI](https://github.com/laurent22/joplin/issues/16239) | 2 |
-| [#16233 Whiteboard: When a whiteboard note is trashed, the whiteboard is fully editable instead of being readonly](https://github.com/laurent22/joplin/issues/16233) | 1 |
-| [#16210 [Bug] macOS tray startup creates blank fullscreen Space](https://github.com/laurent22/joplin/issues/16210) | 2 |

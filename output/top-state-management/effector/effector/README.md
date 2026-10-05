@@ -1,14 +1,15 @@
 # effector/effector
 
-Generated: 2026-10-03T09:43:20.309717+00:00
+Generated: 2026-10-05T11:15:05.594142+00:00
 
-- Unassigned: 73+
+- Unassigned: 72+
 - [View all unassigned issues](https://github.com/effector/effector/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#1352 docs: clarify completion order when effects update a store](https://github.com/effector/effector/issues/1352) | 0 |
 | [#1344 effector-vue: nested reactivity of useVModel and useGate is broken on Vue 3.5](https://github.com/effector/effector/issues/1344) | 0 |
 | [#1340 RFC: fix scope, SSR and lifecycle bugs in effector-vue/composition without breaking changes](https://github.com/effector/effector/issues/1340) | 0 |
 | [#1338 [Docs] Part language picker is hidden on effector.dev docs page](https://github.com/effector/effector/issues/1338) | 0 |
@@ -80,5 +81,3 @@ Most recently opened:
 | [#778 Get index in `useList` hook simultaneously with `getKey`](https://github.com/effector/effector/issues/778) | 1 |
 | [#775 Differtents factorie SIDs for client and server Next.js units](https://github.com/effector/effector/issues/775) | 4 |
 | [#769 Typeguards in `match` of `split` are not working in config overload](https://github.com/effector/effector/issues/769) | 1 |
-| [#757 Using moduleResolution NodeNext breaks type definitions for importing](https://github.com/effector/effector/issues/757) | 3 |
-| [#754 [forest] Inline mount](https://github.com/effector/effector/issues/754) | 0 |

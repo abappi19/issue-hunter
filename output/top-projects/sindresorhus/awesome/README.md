@@ -1,6 +1,6 @@
 # sindresorhus/awesome
 
-Generated: 2026-10-03T09:42:25.196854+00:00
+Generated: 2026-10-05T11:13:54.472669+00:00
 
 - Unassigned: 10+
 - [View all unassigned issues](https://github.com/sindresorhus/awesome/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,7 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#4343 Add minia2a to AI Agents section — x402 marketplace for agent services](https://github.com/sindresorhus/awesome/issues/4343) | 0 |
 | [#4094 Need clarification on AI assistance policy after PR rejection](https://github.com/sindresorhus/awesome/issues/4094) | 10 |
 | [#3642 Differentiating Unmainatined Repos](https://github.com/sindresorhus/awesome/issues/3642) | 17 |
 | [#3606 "inline" table of contents and contribution guidelines seems more cleaner](https://github.com/sindresorhus/awesome/issues/3606) | 16 |
@@ -18,4 +19,3 @@ Most recently opened:
 | [#1972 Manifesto - Table of contents](https://github.com/sindresorhus/awesome/issues/1972) | 22 |
 | [#1810 Removing broken links from lists](https://github.com/sindresorhus/awesome/issues/1810) | 10 |
 | [#1619 Lint Awesome itself](https://github.com/sindresorhus/awesome/issues/1619) | 1 |
-| [#1365 Suggestion: Add CI to automate heavy PR load](https://github.com/sindresorhus/awesome/issues/1365) | 9 |

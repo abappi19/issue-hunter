@@ -1,17 +1,17 @@
 # storybookjs/storybook
 
-Generated: 2026-10-03T09:43:01.413532+00:00
+Generated: 2026-10-05T11:14:41.029470+00:00
 
-- Unassigned: 27+
+- Unassigned: 24+
 - [View all unassigned issues](https://github.com/storybookjs/storybook/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#36570 Blanket /// <reference types="node" /> in node-logger types pollutes consumer typechecks](https://github.com/storybookjs/storybook/issues/36570) | 0 |
+| [#36570 Blanket /// <reference types="node" /> in node-logger types pollutes consumer typechecks](https://github.com/storybookjs/storybook/issues/36570) | 1 |
 | [#36555 [Bug]: Controls queries host docgen for stories from composed refs](https://github.com/storybookjs/storybook/issues/36555) | 2 |
-| [#36530 [Bug]: excludeDecorators doesn't work inside the Source doc block](https://github.com/storybookjs/storybook/issues/36530) | 3 |
+| [#36530 [Bug]: excludeDecorators doesn't work inside the Source doc block](https://github.com/storybookjs/storybook/issues/36530) | 4 |
 | [#36528 [Vulnerability - Severity: high]: @storybook/builder-webpack5  pins  webpack-dev-middleware@^6  which has a high-severity path traversal (GHSA-g84c-rxfj-3j2c)](https://github.com/storybookjs/storybook/issues/36528) | 1 |
 | [#36504 [Bug]: TooltipProvider does not add aria-describedby on generic tooltips](https://github.com/storybookjs/storybook/issues/36504) | 0 |
 | [#36471 [Bug]: Story index caches "Could not parse import/exports with acorn" for a story file that changes during indexing](https://github.com/storybookjs/storybook/issues/36471) | 1 |
@@ -22,7 +22,7 @@ Most recently opened:
 | [#36441 [Bug]: Angular-Vite: Description omits JSDoc @example content](https://github.com/storybookjs/storybook/issues/36441) | 0 |
 | [#36438 Controls: radio, radioWithLabels and inlineRadio render as "-" in the core template stories](https://github.com/storybookjs/storybook/issues/36438) | 0 |
 | [#36437 [Bug]: addon-vitest reports wrong source lines for story files in 10.6.0 (CSF plugin maps to the original file, then Vite maps again)](https://github.com/storybookjs/storybook/issues/36437) | 0 |
-| [#36423 [Bug]: Angular (angular-vite): switching a toolbar global on a docs page logs NG05104 once per story](https://github.com/storybookjs/storybook/issues/36423) | 1 |
+| [#36423 [Bug]: Angular (angular-vite): switching a toolbar global on a docs page logs NG05104 once per story](https://github.com/storybookjs/storybook/issues/36423) | 0 |
 | [#36415 [Bug]: Tanstack Router: Typesafety Gaps, query params is not typed, path params is not required](https://github.com/storybookjs/storybook/issues/36415) | 0 |
 | [#36386 [Bug]: addon-vitest imports every story file, including ones its own tag filter has already excluded](https://github.com/storybookjs/storybook/issues/36386) | 0 |
 | [#36364 [Bug]: @storybook/addon-mcp hangs on GET /mcp awaiting infinite stream](https://github.com/storybookjs/storybook/issues/36364) | 1 |
@@ -33,6 +33,3 @@ Most recently opened:
 | [#36285 [Bug]: nextjs-vite builds a next-image virtual module from an unresolved alias, failing with "unexpected NUL byte" on Vite >= 8.1](https://github.com/storybookjs/storybook/issues/36285) | 0 |
 | [#36281 [Bug]: Actions: SecurityError serializing a React event when the manager contains a cross-origin iframe](https://github.com/storybookjs/storybook/issues/36281) | 2 |
 | [#36280 Storybook 11 Support](https://github.com/storybookjs/storybook/issues/36280) | 0 |
-| [#36269 [Bug]: `importModule()` calling `register()`/`registerHooks()` crashes under Jest 30.5+ (e.g. via `@storybook/test-runner`) — #35337's fix doesn't cover this](https://github.com/storybookjs/storybook/issues/36269) | 2 |
-| [#36267 [Bug]: MCP does not include subcomponents in Vue](https://github.com/storybookjs/storybook/issues/36267) | 1 |
-| [#36266 [Bug]: Vue docgen server is missing slot support](https://github.com/storybookjs/storybook/issues/36266) | 2 |

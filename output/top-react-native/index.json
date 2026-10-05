@@ -1,14 +1,14 @@
 {
   "title": "Top React Native Projects",
-  "generated_at": "2026-10-03T09:43:01.413532+00:00",
+  "generated_at": "2026-10-05T11:14:41.029470+00:00",
   "repos": [
     {
       "repo": "react/react-native",
-      "unassigned": "26+"
+      "unassigned": "17+"
     },
     {
       "repo": "storybookjs/storybook",
-      "unassigned": "27+"
+      "unassigned": "24+"
     },
     {
       "repo": "enaqx/awesome-react",
@@ -16,15 +16,15 @@
     },
     {
       "repo": "appwrite/appwrite",
-      "unassigned": "16+"
+      "unassigned": "29+"
     },
     {
       "repo": "laurent22/joplin",
-      "unassigned": "84+"
+      "unassigned": "82+"
     },
     {
       "repo": "expo/expo",
-      "unassigned": "6+"
+      "unassigned": "13+"
     },
     {
       "repo": "dkhamsing/open-source-ios-apps",
@@ -56,19 +56,19 @@
     },
     {
       "repo": "vercel/swr",
-      "unassigned": "44+"
+      "unassigned": "43+"
     },
     {
       "repo": "karakeep-app/karakeep",
-      "unassigned": "47+"
+      "unassigned": "46+"
     },
     {
       "repo": "maotoumao/MusicFree",
-      "unassigned": "94+"
+      "unassigned": "93+"
     },
     {
       "repo": "zulip/zulip",
-      "unassigned": "25+"
+      "unassigned": "27+"
     },
     {
       "repo": "react-native-elements/react-native-elements",
@@ -80,7 +80,7 @@
     },
     {
       "repo": "pubkey/rxdb",
-      "unassigned": 4
+      "unassigned": 5
     }
   ]
 }

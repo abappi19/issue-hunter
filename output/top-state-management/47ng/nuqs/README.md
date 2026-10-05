@@ -1,6 +1,6 @@
 # 47ng/nuqs
 
-Generated: 2026-10-03T09:43:20.309717+00:00
+Generated: 2026-10-05T11:15:05.594142+00:00
 
 - Unassigned: 19
 - [View all unassigned issues](https://github.com/47ng/nuqs/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)

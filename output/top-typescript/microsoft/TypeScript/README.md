@@ -1,18 +1,26 @@
 # microsoft/TypeScript
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 44+
+- Unassigned: 49+
 - [View all unassigned issues](https://github.com/microsoft/TypeScript/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#64635 API server reports TS2345 for a call that tsc accepts on the same project](https://github.com/microsoft/TypeScript/issues/64635) | 0 |
+| [#64634 [api] Add `parseConfigFileTextToJson()` helper](https://github.com/microsoft/TypeScript/issues/64634) | 0 |
+| [#64631 [api] A nested request from a resolveModuleName callback gets another request's answer](https://github.com/microsoft/TypeScript/issues/64631) | 0 |
+| [#64630 [api] Static and callback module resolutions drop resolvedUsingTsExtension, raising TS2876](https://github.com/microsoft/TypeScript/issues/64630) | 0 |
+| [#64629 [api] createPrograms with a non-composite projectReferences entry crashes the API server](https://github.com/microsoft/TypeScript/issues/64629) | 0 |
+| [#64628 JSDoc `@private` / `@protected` are dropped in declaration emit for properties declared by constructor assignment](https://github.com/microsoft/TypeScript/issues/64628) | 2 |
+| [#64627 `import defer "./a.js"` is accepted without an error, and the output drops `defer`](https://github.com/microsoft/TypeScript/issues/64627) | 0 |
+| [#64625 Declaration emit re-walks a package.json `exports` map for every declaration (module specifier cache not shared across node builders)](https://github.com/microsoft/TypeScript/issues/64625) | 0 |
+| [#64623 [ServerErrors][TypeScript] main vs ](https://github.com/microsoft/TypeScript/issues/64623) | 3 |
+| [#64622 [ServerErrors][JavaScript] main vs ](https://github.com/microsoft/TypeScript/issues/64622) | 4 |
 | [#64618 Non-enum CLI options with multiple values separated by comma and space aren't whitespace trimmed](https://github.com/microsoft/TypeScript/issues/64618) | 0 |
-| [#64614 TS 7 declaration emit writes unbound type parameters (TOutputOut, $Output) into .d.ts where 6.0 emits any](https://github.com/microsoft/TypeScript/issues/64614) | 0 |
-| [#64613 [ServerErrors][TypeScript] main vs ](https://github.com/microsoft/TypeScript/issues/64613) | 17 |
-| [#64612 [ServerErrors][JavaScript] main vs ](https://github.com/microsoft/TypeScript/issues/64612) | 7 |
+| [#64614 TS 7 declaration emit writes unbound type parameters (TOutputOut, $Output) into .d.ts where 6.0 emits any](https://github.com/microsoft/TypeScript/issues/64614) | 1 |
 | [#64611 In-memory virtual file overlay over LSP without faking `didOpen`](https://github.com/microsoft/TypeScript/issues/64611) | 0 |
 | [#64610 Associate companion files with `ProjectService` without Content Mappers](https://github.com/microsoft/TypeScript/issues/64610) | 0 |
 | [#64605 TS5115 in published Zod 4.5–4.6 types after #64372](https://github.com/microsoft/TypeScript/issues/64605) | 0 |
@@ -50,6 +58,3 @@ Most recently opened:
 | [#64265 No batched `getContextualType` in 7.1 API](https://github.com/microsoft/TypeScript/issues/64265) | 0 |
 | [#64253 Anonymous Symbol Properties](https://github.com/microsoft/TypeScript/issues/64253) | 0 |
 | [#64251 Object with all context-sensitive properties requires at least one non-context-sensitive property for inference to work](https://github.com/microsoft/TypeScript/issues/64251) | 4 |
-| [#64231 Parser misinterprets async() calls in conditional expressions as async arrow functions](https://github.com/microsoft/TypeScript/issues/64231) | 3 |
-| [#64228 Incorrect TS1111 when using private generator function in JS](https://github.com/microsoft/TypeScript/issues/64228) | 5 |
-| [#64213 The `strict` option is confusing since TypeScript 6](https://github.com/microsoft/TypeScript/issues/64213) | 2 |

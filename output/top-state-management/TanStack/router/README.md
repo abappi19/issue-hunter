@@ -1,8 +1,8 @@
 # TanStack/router
 
-Generated: 2026-10-03T09:43:20.309717+00:00
+Generated: 2026-10-05T11:15:05.594142+00:00
 
-- Unassigned: 25+
+- Unassigned: 23+
 - [View all unassigned issues](https://github.com/TanStack/router/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -32,5 +32,3 @@ Most recently opened:
 | [#8464 Early hints emit as=script on rel=modulepreload, producing "preloaded but not used" warnings for every route chunk](https://github.com/TanStack/router/issues/8464) | 2 |
 | [#8448 parseLocation keeps the raw publicHref when rewrite is set, so a non-canonical search string re-runs every loader after hydration](https://github.com/TanStack/router/issues/8448) | 0 |
 | [#8447 start-plugin-core: the dev server-fn id validator's recovery can never succeed — it transforms under the one flag that skips the compile](https://github.com/TanStack/router/issues/8447) | 1 |
-| [#8446 If you pass createServerOnlyFn(...) directly as an argument to createServerFn().handler(), it will generate a broken server function.](https://github.com/TanStack/router/issues/8446) | 3 |
-| [#8437 Start: the Vite plugin and `tsr generate` write different routeTree.gen.ts (Start footer added, then stripped)](https://github.com/TanStack/router/issues/8437) | 1 |

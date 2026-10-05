@@ -1,17 +1,18 @@
 # strapi/strapi
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 15+
+- Unassigned: 16+
 - [View all unassigned issues](https://github.com/strapi/strapi/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#27911 Server code requires the types-only @strapi/types package at runtime, keeping it and typedoc in every production install](https://github.com/strapi/strapi/issues/27911) | 0 |
 | [#27891 Relation shorthand treats documentIds that start with a digit as numeric ids (parseInt in isNumeric)](https://github.com/strapi/strapi/issues/27891) | 2 |
 | [#27882 DELETE /auth/sessions/:sessionId does not declare its path param, so strapi openapi generate emits an invalid spec](https://github.com/strapi/strapi/issues/27882) | 2 |
-| [#27878 New Media Library delete dialog discards the server error message](https://github.com/strapi/strapi/issues/27878) | 2 |
+| [#27878 New Media Library delete dialog discards the server error message](https://github.com/strapi/strapi/issues/27878) | 3 |
 | [#27836 Filter "in" with empty parameter returns all entries](https://github.com/strapi/strapi/issues/27836) | 1 |
 | [#27833 Dependency clarification/update request: react-router@6.30.6 and GHSA-337j-9hxr-rhxg](https://github.com/strapi/strapi/issues/27833) | 0 |
 | [#27832 Dependency update request: stream-json@1.9.1 affected by GHSA-528h-pc64-c93x](https://github.com/strapi/strapi/issues/27832) | 0 |

@@ -1,14 +1,15 @@
 # rrousselGit/riverpod
 
-Generated: 2026-10-03T09:43:20.309717+00:00
+Generated: 2026-10-05T11:15:05.594142+00:00
 
-- Unassigned: 10
+- Unassigned: 11
 - [View all unassigned issues](https://github.com/rrousselGit/riverpod/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#4904 Weak selectAsync listeners eagerly initialize otherwise unused providers](https://github.com/rrousselGit/riverpod/issues/4904) | 2 |
 | [#4895 persist(): UnmountedRefException when an autoDispose AsyncNotifier is disposed before the storage read finishes](https://github.com/rrousselGit/riverpod/issues/4895) | 0 |
 | [#4882 TickerMode resume still throws setState() during build when the resumed provider has a diamond dependency (3.4.3)](https://github.com/rrousselGit/riverpod/issues/4882) | 1 |
 | [#4839 riverpod_lint 3.1.7/3.1.8 hang `dart analyze` on stable Dart, work on 3.13 beta](https://github.com/rrousselGit/riverpod/issues/4839) | 5 |

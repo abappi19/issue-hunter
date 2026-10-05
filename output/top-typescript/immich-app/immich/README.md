@@ -1,16 +1,23 @@
 # immich-app/immich
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 46+
+- Unassigned: 45+
 - [View all unassigned issues](https://github.com/immich-app/immich/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#32091 Empty trash and Restore all buttons are enabled when trash is empty](https://github.com/immich-app/immich/issues/32091) | 0 |
+| [#32085 [web] People search does not respect the currently selected People filter](https://github.com/immich-app/immich/issues/32085) | 0 |
+| [#32083 Workflow actions still run after a filter step halts the run (workflow_log result=halted, asset archived/added to album anyway)](https://github.com/immich-app/immich/issues/32083) | 0 |
+| [#32082 Memories are released at midnight UTC instead of server local time](https://github.com/immich-app/immich/issues/32082) | 0 |
+| [#32076 Face detection never matches metadata-imported faces on large originals – IoU scale factor in handleDetectFaces is inverted](https://github.com/immich-app/immich/issues/32076) | 0 |
+| [#32054 [web] hidden people remain shared after using "unselect all" in cluster group People sharing](https://github.com/immich-app/immich/issues/32054) | 0 |
+| [#32052 [web] Managing People sharing within a cluster group is currently cumbersome when trying to stop sharing people with another user.](https://github.com/immich-app/immich/issues/32052) | 1 |
+| [#32046 ROCm / MIGraphX causes reproducible GPU wedge on AMD Hawk Point / gfx1103 during model compilation](https://github.com/immich-app/immich/issues/32046) | 1 |
 | [#32040 [mobile] Year-only date range is formatted like a number](https://github.com/immich-app/immich/issues/32040) | 0 |
-| [#32037 [web] "View album" button in success toast does not navigate to destination album](https://github.com/immich-app/immich/issues/32037) | 0 |
 | [#32034 [web] Memory cover photo still shows old orientation after rotating the photo](https://github.com/immich-app/immich/issues/32034) | 0 |
 | [#32026 [v3.3.0-rc.1] Unable to uncheck 'Share everyone' in people sharing cluster with hidden people](https://github.com/immich-app/immich/issues/32026) | 0 |
 | [#32024 [v3.3.0-rc.1] People with no shared assets are shown to other users in 'People cluster group'](https://github.com/immich-app/immich/issues/32024) | 0 |
@@ -19,7 +26,7 @@ Most recently opened:
 | [#31855 AssetExtractMetadata: asset_exif.rating overflows integer column (derived value, not corrupted input) - duration × 9,000,000 for one pattern](https://github.com/immich-app/immich/issues/31855) | 3 |
 | [#31829 Samsung DNG 1.7 (JPEG XL) RAW previews render dark/green — PreviewJXL read as the finished preview](https://github.com/immich-app/immich/issues/31829) | 0 |
 | [#31826 Filtered Facial Recognition query stops using face_index after VectorChord 0.5.3 -> 1.1.1](https://github.com/immich-app/immich/issues/31826) | 1 |
-| [#31825 Partial GPano panorama renders as a black screen in the web viewer](https://github.com/immich-app/immich/issues/31825) | 3 |
+| [#31825 Partial GPano panorama renders as a black screen in the web viewer](https://github.com/immich-app/immich/issues/31825) | 5 |
 | [#31803 Face editor bounding box cannot be moved or resized using touch on iOS/iPadOS](https://github.com/immich-app/immich/issues/31803) | 4 |
 | [#31796 Search photo viewer stops at end of currently loaded results instead of loading additional search results](https://github.com/immich-app/immich/issues/31796) | 0 |
 | [#31789 "Shared links" loads much slower than any other page.](https://github.com/immich-app/immich/issues/31789) | 8 |
@@ -46,12 +53,4 @@ Most recently opened:
 | [#31426 Black lines above and below thumbnails on some images](https://github.com/immich-app/immich/issues/31426) | 3 |
 | [#31420 password p_SQLll;~{W\Q<2frstHjWulFNKLB$(& doesn't work with ios app](https://github.com/immich-app/immich/issues/31420) | 4 |
 | [#31397 Mobile album displays blank thumbnail when a Live Photo has only the .MOV component](https://github.com/immich-app/immich/issues/31397) | 0 |
-| [#31387 Mobile (Android): photo locations disappear when zooming out and reappear when zooming in](https://github.com/immich-app/immich/issues/31387) | 1 |
-| [#31347 On this day memories does not allow spam taps](https://github.com/immich-app/immich/issues/31347) | 0 |
-| [#31332 Edited assets are skipped by a full Smart Search re-index and never get an embedding](https://github.com/immich-app/immich/issues/31332) | 0 |
-| [#31330 XMP rating not detected on AVI video file](https://github.com/immich-app/immich/issues/31330) | 2 |
-| [#31312 Unhelpful error messages reported by CLI](https://github.com/immich-app/immich/issues/31312) | 0 |
-| [#31298 HEIC files downloaded on local device will not display a thumbnail](https://github.com/immich-app/immich/issues/31298) | 0 |
-| [#31291 Workflow album selector displays album description alongside album name](https://github.com/immich-app/immich/issues/31291) | 0 |
-| [#31289 Smart Switch-migrated Apple Live Photos (now Samsung Motion Photos) lack standard MicroVideo metadata and are not recognized by Immich](https://github.com/immich-app/immich/issues/31289) | 5 |
-| [#31267 UI: Favorite heart remains filled after removing favorite (first click shows toast but heart stays filled)](https://github.com/immich-app/immich/issues/31267) | 3 |
+| [#31387 Mobile (Android): photo locations disappear when zooming out and reappear when zooming in](https://github.com/immich-app/immich/issues/31387) | 2 |

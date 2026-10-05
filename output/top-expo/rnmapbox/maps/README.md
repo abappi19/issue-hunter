@@ -1,8 +1,8 @@
 # rnmapbox/maps
 
-Generated: 2026-10-03T09:43:11.075262+00:00
+Generated: 2026-10-05T11:14:53.347924+00:00
 
-- Unassigned: 60+
+- Unassigned: 66+
 - [View all unassigned issues](https://github.com/rnmapbox/maps/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -16,15 +16,12 @@ Most recently opened:
 | [#4276 [Bug]: MarkerView drift on Android during pan/zoom with `@rnmapbox/maps@10.3.2`](https://github.com/rnmapbox/maps/issues/4276) | 0 |
 | [#4273 [Bug]: Android: initial camera from Camera defaultSettings lands at latitude 0 on a cold style cache](https://github.com/rnmapbox/maps/issues/4273) | 0 |
 | [#4272 [Bug]:  MapView flickers and some Scratches line  while zooming in and out on some devices](https://github.com/rnmapbox/maps/issues/4272) | 1 |
-| [#4268 [Bug]: HeatmapLayer is missing the LayerPropsCommon codepart, so on iOS it never receives sourceLayer or filter](https://github.com/rnmapbox/maps/issues/4268) | 0 |
-| [#4260 [Bug]: iOS 26: SIGTRAP in RNMBXImages.addImages (placeholderImage force unwrap)](https://github.com/rnmapbox/maps/issues/4260) | 0 |
 | [#4257 [Bug]: addCustomHeader URL regex matching fails on Android for partial/substring matches](https://github.com/rnmapbox/maps/issues/4257) | 0 |
 | [#4250 [Bug]: iOS fatal crash — mutex lock failed: Invalid argument in MapboxCommon wss_backend::Service::write](https://github.com/rnmapbox/maps/issues/4250) | 1 |
 | [#4230 [Bug]: Android app crashes - createPack() throwing error while downloading and app crashes on getPacks()](https://github.com/rnmapbox/maps/issues/4230) | 1 |
 | [#4225 [Bug]: LocationPuck leaks one fused-location provider (thread + native memory) per MapView destroy on Android](https://github.com/rnmapbox/maps/issues/4225) | 0 |
 | [#4224 [Bug]: Black map / zero native initialisation on Android 15 (Pixel 9) with Expo SDK 54 + React Native 0.81 Environment:](https://github.com/rnmapbox/maps/issues/4224) | 0 |
 | [#4217 [Bug]: `setCamera` with bounds and padding applies "ghost padding" after other `setCamera` with padding](https://github.com/rnmapbox/maps/issues/4217) | 1 |
-| [#4216 [Bug]: HeatmapLayer does not respect filter like other layers](https://github.com/rnmapbox/maps/issues/4216) | 0 |
 | [#4213 [Bug]: Android: onCameraChanged fires with [0,0] on launch](https://github.com/rnmapbox/maps/issues/4213) | 0 |
 | [#4203 [Bug]: changing centerCoordinate prop doesn't move camera when screen is not focused](https://github.com/rnmapbox/maps/issues/4203) | 0 |
 | [#4192 [Bug]: dense onCameraChanged traffic during gestures can overwhelm JS without a native throttle](https://github.com/rnmapbox/maps/issues/4192) | 3 |
@@ -69,3 +66,12 @@ Most recently opened:
 | [#3644 [Bug]: When projection globe, maxZoomLevel of camera gets ignored](https://github.com/rnmapbox/maps/issues/3644) | 0 |
 | [#3634 [Bug]: Using `<Images>` with native views on iOS causes touch interation to stop working for part of map](https://github.com/rnmapbox/maps/issues/3634) | 1 |
 | [#3611 [Bug]: Update tileUrl not working](https://github.com/rnmapbox/maps/issues/3611) | 3 |
+| [#3599 [Bug]: The `CameraPadding` lists all edges as being required even though the code allows them to be optional](https://github.com/rnmapbox/maps/issues/3599) | 0 |
+| [#3597 [Bug]: Event handlers not called in web environment](https://github.com/rnmapbox/maps/issues/3597) | 3 |
+| [#3591 [Bug]: TypeScript Error with "noUncheckedIndexedAccess" in tsconfig.json](https://github.com/rnmapbox/maps/issues/3591) | 2 |
+| [#3574 [Bug]:  Warning: Connect(Component): Support for defaultProps will be removed from memo components in a future major release. Use JavaScript default parameters instead.](https://github.com/rnmapbox/maps/issues/3574) | 0 |
+| [#3504 [Bug]: MarkerView coordinate on iOS is not animating](https://github.com/rnmapbox/maps/issues/3504) | 1 |
+| [#3503 [Bug]: Changing map style when using a raster layer causes error](https://github.com/rnmapbox/maps/issues/3503) | 3 |
+| [#3495 [Bug]: isGestureActive is always false on android devices](https://github.com/rnmapbox/maps/issues/3495) | 5 |
+| [#3488 Zoom level not applied correctly when switching from setting camera with `centerCoordinate` to `bounds`](https://github.com/rnmapbox/maps/issues/3488) | 8 |
+| [#3458 When we give custom style url it gives blank on borders of that url any custom url it give blank only](https://github.com/rnmapbox/maps/issues/3458) | 0 |

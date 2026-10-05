@@ -1,8 +1,8 @@
 # dapr/dapr
 
-Generated: 2026-10-03T09:43:20.309717+00:00
+Generated: 2026-10-05T11:15:05.594142+00:00
 
-- Unassigned: 29+
+- Unassigned: 25+
 - [View all unassigned issues](https://github.com/dapr/dapr/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -34,7 +34,3 @@ Most recently opened:
 | [#10316 Add a .claude/ Claude Code config for contributors](https://github.com/dapr/dapr/issues/10316) | 0 |
 | [#10310 Injector admission handler reads the full request body without a size limit](https://github.com/dapr/dapr/issues/10310) | 0 |
 | [#10272 gRPC MaxHeaderListSize is set 1024x too large due to leftover ReadBufferSize<<10 shift](https://github.com/dapr/dapr/issues/10272) | 0 |
-| [#10248 Move the Placement service into Scheduler](https://github.com/dapr/dapr/issues/10248) | 0 |
-| [#10246 Workflow API: distinguish activities from child workflows](https://github.com/dapr/dapr/issues/10246) | 0 |
-| [#10245 Workflow executor image provenance via identity certificates](https://github.com/dapr/dapr/issues/10245) | 0 |
-| [#10244 Workflow provenance: record who scheduled a workflow and who raised its events](https://github.com/dapr/dapr/issues/10244) | 1 |

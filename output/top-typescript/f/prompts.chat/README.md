@@ -1,15 +1,14 @@
 # f/prompts.chat
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 28
+- Unassigned: 27
 - [View all unassigned issues](https://github.com/f/prompts.chat/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#1276 邀请 awesome-chatgpt-prompts 加入 GithubStarMate，让更多人发现你的作品](https://github.com/f/prompts.chat/issues/1276) | 0 |
 | [#1275 Account deletion request — @abelasvir](https://github.com/f/prompts.chat/issues/1275) | 0 |
 | [#1270 Report: Unauthorized account and personal information](https://github.com/f/prompts.chat/issues/1270) | 3 |
 | [#1268 Add ContHunt remote MCP server](https://github.com/f/prompts.chat/issues/1268) | 1 |

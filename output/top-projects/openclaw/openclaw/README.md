@@ -1,52 +1,43 @@
 # openclaw/openclaw
 
-Generated: 2026-10-03T09:42:25.196854+00:00
+Generated: 2026-10-05T11:13:54.472669+00:00
 
-- Unassigned: 41+
+- Unassigned: 32+
 - [View all unassigned issues](https://github.com/openclaw/openclaw/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#164220 Auto-compaction failure dead-ends every following turn; fall back to a deterministic reduction instead](https://github.com/openclaw/openclaw/issues/164220) | 2 |
-| [#164214 [Bug]: Package publication recovery permanently stuck in `publishing` after an external write to the live package (macOS, 2026.9.8)](https://github.com/openclaw/openclaw/issues/164214) | 2 |
-| [#164212 [Feature]: make the host-local media type allowlist configurable (opt-in to send any file type)](https://github.com/openclaw/openclaw/issues/164212) | 1 |
-| [#164211 acpx: managed MCP bridges (`openclaw-plugin-tools`, `openclaw-tools`) fail with ERR_MODULE_NOT_FOUND on packaged installs — ACP agents get no plugin tools](https://github.com/openclaw/openclaw/issues/164211) | 2 |
-| [#164209 Update failure: package-doctor (2026.9.7)](https://github.com/openclaw/openclaw/issues/164209) | 1 |
-| [#164201 [Feature]: Title: [UX] Main session (Home) cannot be deleted or archived — only workaround wipes all sessions](https://github.com/openclaw/openclaw/issues/164201) | 1 |
-| [#164191 Codex settled-turn finalization: one current-turn field over 64 KiB makes recovery context unavailable](https://github.com/openclaw/openclaw/issues/164191) | 1 |
-| [#164188 [Bug]: package-swap permission failure does not identify rejected recovery object](https://github.com/openclaw/openclaw/issues/164188) | 3 |
-| [#164179 Update failure: candidate-doctor (2026.9.7)](https://github.com/openclaw/openclaw/issues/164179) | 1 |
-| [#164178 [Feature]: Make the task-runner bind address configurable](https://github.com/openclaw/openclaw/issues/164178) | 1 |
-| [#164176 Update failure: reconcile:abandoned (2026.9.6)](https://github.com/openclaw/openclaw/issues/164176) | 1 |
-| [#164174 Update failure: gateway-recovery-verification (2026.9.7)](https://github.com/openclaw/openclaw/issues/164174) | 1 |
-| [#164167 buzz: a mentioned agent gets no thread context (not the root, not the replied-to message), and historyLimit's 1 KB budget is too small to compensate](https://github.com/openclaw/openclaw/issues/164167) | 1 |
-| [#164164 Updater repeats configuration, schema, and package metadata work](https://github.com/openclaw/openclaw/issues/164164) | 1 |
-| [#164162 [Bug]: Core update converts managed Codex exact spec to floating spec and triggers audit warning](https://github.com/openclaw/openclaw/issues/164162) | 1 |
-| [#164149 [Bug]: Skill commands strip indentation and blank lines inside multiline arguments](https://github.com/openclaw/openclaw/issues/164149) | 1 |
-| [#164148 [Bug]: Gmail Pub/Sub hook re-fires duplicate alerts for a single event, no dedupe on historyId/messageId](https://github.com/openclaw/openclaw/issues/164148) | 2 |
-| [#164147 [Bug]: Approval notifications skip iOS devices when production and sandbox relay registrations coexist](https://github.com/openclaw/openclaw/issues/164147) | 2 |
-| [#164146 [Bug]: Backup and restore replace a supported older exec approval policy with deny-all](https://github.com/openclaw/openclaw/issues/164146) | 1 |
-| [#164145 [Feature]: Remove unused exec approval branches and registration argument](https://github.com/openclaw/openclaw/issues/164145) | 1 |
-| [#164144 [Docs Bug]: exec-approvals promises automatic conversion of old policies that require doctor --fix](https://github.com/openclaw/openclaw/issues/164144) | 1 |
-| [#164143 [Docs Bug]: exec-approvals incorrectly says edits to approved command fields cause rejection](https://github.com/openclaw/openclaw/issues/164143) | 1 |
-| [#164141 [Bug]: subagent completion delivery window (30 min) aborts the requester turn the completion started](https://github.com/openclaw/openclaw/issues/164141) | 1 |
-| [#164132 claude-cli MCP bridge binds to the first client's scopes after gateway start (owner/admin turns then get 'missing scope: operator.admin')](https://github.com/openclaw/openclaw/issues/164132) | 1 |
-| [#164118 Update failure: pnpm-staging-preflight (2026.9.7)](https://github.com/openclaw/openclaw/issues/164118) | 2 |
-| [#164115 [Bug]: Status summaries ignore agent-local model aliases](https://github.com/openclaw/openclaw/issues/164115) | 2 |
-| [#164113 [Bug]: update fails at updater-runtime-retention with FICLONE EPERM inside an unprivileged LXC container (seccomp blocks ioctl)](https://github.com/openclaw/openclaw/issues/164113) | 2 |
-| [#164109 Telegram token redaction pattern masks Atlassian account IDs in tool results (breaks Jira assignee)](https://github.com/openclaw/openclaw/issues/164109) | 1 |
-| [#164100 test: stabilize beta FRV timing-sensitive lanes](https://github.com/openclaw/openclaw/issues/164100) | 2 |
-| [#164090 Update failure: global-install-failed (2026.9.4)](https://github.com/openclaw/openclaw/issues/164090) | 1 |
-| [#164076 Memory index: sessions source is indexed while session search stays gated behind experimental.sessionMemory — content unretrievable and "Dirty: yes" never clears](https://github.com/openclaw/openclaw/issues/164076) | 2 |
-| [#164074 Native update recovery stuck at publication-complete when retained previous package fingerprint changes](https://github.com/openclaw/openclaw/issues/164074) | 1 |
-| [#164066 [Bug]: 2026.9.8 managed update still rolls back: activation Doctor refuses with "undergoing offline maintenance" (#160671 and #163803 are on main, not in 9.8)](https://github.com/openclaw/openclaw/issues/164066) | 2 |
-| [#164065 Telegram requireMention does not gate bare slash commands in groups](https://github.com/openclaw/openclaw/issues/164065) | 1 |
-| [#164034 [Bug]: Installer falsely reports a persisted PATH update from profile text](https://github.com/openclaw/openclaw/issues/164034) | 1 |
-| [#164026 [Bug]: Android explicit Reconnect does not re-enter the existing TLS trust review](https://github.com/openclaw/openclaw/issues/164026) | 1 |
-| [#164023 Update failure: runtime-verification-failed (2026.9.4)](https://github.com/openclaw/openclaw/issues/164023) | 2 |
-| [#164017 [Docs Bug]: No hosting guide for Everpod on the provider picker](https://github.com/openclaw/openclaw/issues/164017) | 1 |
-| [#164006 [Feature]: warn agent/owner when AGENTS.md grows past bootstrapMaxChars — rules in the clipped middle are silently not injected](https://github.com/openclaw/openclaw/issues/164006) | 2 |
-| [#164004 Bound ACP /new and /reset can abort their own acknowledgement during cleanup](https://github.com/openclaw/openclaw/issues/164004) | 1 |
-| [#163994 Update failure: requested (2026.9.7)](https://github.com/openclaw/openclaw/issues/163994) | 2 |
+| [#165527 perf(macos): use cron events instead of polling the open status menu](https://github.com/openclaw/openclaw/issues/165527) | 1 |
+| [#165526 [Feature]: Render presentation select menus as native Adaptive Card ChoiceSets on MS Teams](https://github.com/openclaw/openclaw/issues/165526) | 1 |
+| [#165522 [Bug]: chat.inject notes render as run activity (and identical notes merge) in Control UI until history reload](https://github.com/openclaw/openclaw/issues/165522) | 2 |
+| [#165520 [Bug]: sessions_send watch does not wake when a visible target turn completes](https://github.com/openclaw/openclaw/issues/165520) | 1 |
+| [#165516 CLI `message send` is not Gateway-routed for Signal: boots a second full runtime and re-runs the agent DB integrity check per send](https://github.com/openclaw/openclaw/issues/165516) | 1 |
+| [#165509 Control UI: PDF attachment preview renders blank (blob iframe blocked by inherited `object-src 'none'`)](https://github.com/openclaw/openclaw/issues/165509) | 1 |
+| [#165501 heartbeat (isolatedSession) sessions have message tool filtered out, breaking cron-driven delivery even though plugin declares describeMessageTool](https://github.com/openclaw/openclaw/issues/165501) | 1 |
+| [#165500 [Bug]: Same-session announcements can consume another active request's accepted chat input](https://github.com/openclaw/openclaw/issues/165500) | 1 |
+| [#165482 [Feature]: Opt-in setting to show subagent run rows in the sidebar](https://github.com/openclaw/openclaw/issues/165482) | 1 |
+| [#165476 [Bug]: OpenAI subscription chat baseUrl leaks into memory embedding requests](https://github.com/openclaw/openclaw/issues/165476) | 2 |
+| [#165463 [Bug]: Overload same-model retry omits latest user request and answers a previous task in a dashboard session](https://github.com/openclaw/openclaw/issues/165463) | 2 |
+| [#165460 [Bug]: Codex byte-fuse preflight drops the turn when the context engine declines compaction](https://github.com/openclaw/openclaw/issues/165460) | 1 |
+| [#165459 [Bug]: Durable commitTurn messages carry no transcript entry ids](https://github.com/openclaw/openclaw/issues/165459) | 1 |
+| [#165458 [Bug]: headless launch pairs --headless=new with --disable-gpu, stripping the GPU stack it was meant to keep](https://github.com/openclaw/openclaw/issues/165458) | 2 |
+| [#165452 Memory provenance: a clean agent write on top of an unobserved file change is recorded `untrusted` for good](https://github.com/openclaw/openclaw/issues/165452) | 1 |
+| [#165450 [Feature]: Discord guest mode for public repository questions (parity with the X channel)](https://github.com/openclaw/openclaw/issues/165450) | 1 |
+| [#165440 Telegram package acceptance can time out after matching only two policy-reload replies](https://github.com/openclaw/openclaw/issues/165440) | 1 |
+| [#165433 [Bug]: chat.send rejects reconnect envelopes with unexpected property '__controlUiReconnectResume' when client is not an Operator UI client](https://github.com/openclaw/openclaw/issues/165433) | 1 |
+| [#165429 CI: worker-turn launcher remote handoff test can exhaust the shard timeout](https://github.com/openclaw/openclaw/issues/165429) | 1 |
+| [#165427 CI: mcp-show-redact E2E can connect with mismatched ephemeral Gateway token](https://github.com/openclaw/openclaw/issues/165427) | 1 |
+| [#165422 CI: native conversation UI E2E click can stall after locator resolves](https://github.com/openclaw/openclaw/issues/165422) | 1 |
+| [#165421 [Bug]: Control UI context window widget renders stale maxTokens (128k) after model switch / restart](https://github.com/openclaw/openclaw/issues/165421) | 1 |
+| [#165414 [Bug]: opencode-go/plugin-provider models still fail strict resolution on 2026.9.8, and a non-empty models.providers entry also shadows the plugin catalog (follow-up to #142793, #144016, #157847)](https://github.com/openclaw/openclaw/issues/165414) | 1 |
+| [#165391 [Bug]: Control UI dashboard shows N session rows but sessions.list / RPC show M (M << N)](https://github.com/openclaw/openclaw/issues/165391) | 1 |
+| [#165364 Update failure: updater-runtime-retention (2026.9.7)](https://github.com/openclaw/openclaw/issues/165364) | 1 |
+| [#165363 talk.catalog reports no stt-tts readiness or transport, so local-only installs cannot enable Talk](https://github.com/openclaw/openclaw/issues/165363) | 2 |
+| [#165342 [Bug]: inbound extra replaces host session, sender, and admission fields](https://github.com/openclaw/openclaw/issues/165342) | 1 |
+| [#165329 [Bug]: exec auto-reviewer verdict "deny" does not always prevent execution (fail-open) under tools.exec.mode=auto](https://github.com/openclaw/openclaw/issues/165329) | 2 |
+| [#165314 [Bug]: Shallow Git update status overcounts commits despite a visible merge base](https://github.com/openclaw/openclaw/issues/165314) | 1 |
+| [#165312 [Bug]: Browser tab stays blocked after one screenshot timeout ("previous screenshot or emulation action was cancelled but is still running")](https://github.com/openclaw/openclaw/issues/165312) | 1 |
+| [#165296 Update failure: managed-service-handoff-unavailable (2026.9.4)](https://github.com/openclaw/openclaw/issues/165296) | 1 |
+| [#165278 [Bug]: Automations schema grows under Control UI admin management=also on the same session](https://github.com/openclaw/openclaw/issues/165278) | 2 |

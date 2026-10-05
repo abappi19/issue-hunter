@@ -1,14 +1,17 @@
 # mermaid-js/mermaid
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 22+
+- Unassigned: 17+
 - [View all unassigned issues](https://github.com/mermaid-js/mermaid/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#8382 chore: roll out @zenuml/core v4.4.1](https://github.com/mermaid-js/mermaid/issues/8382) | 0 |
+| [#8369 DarkMode on TreeView Renders Black Text, no background](https://github.com/mermaid-js/mermaid/issues/8369) | 0 |
+| [#8368 ELK: re-centred edge label overlaps a parallel edge after terminal straightening](https://github.com/mermaid-js/mermaid/issues/8368) | 0 |
 | [#8357 Website flickering as it tries to re-render images repeatedly](https://github.com/mermaid-js/mermaid/issues/8357) | 1 |
 | [#8355 Swimlanes: Nodes in single swimlane not displayed in order in which they appear in source code](https://github.com/mermaid-js/mermaid/issues/8355) | 0 |
 | [#8352 v12.0.0: Circle nodes are awkwardly large even with short content](https://github.com/mermaid-js/mermaid/issues/8352) | 3 |
@@ -23,11 +26,3 @@ Most recently opened:
 | [#8208 feat(GitGraph): Add option to reuse branch lanes if there are no commits after a branch is merged and has no new commits](https://github.com/mermaid-js/mermaid/issues/8208) | 1 |
 | [#8205 fix(treemap): trailing whitespace after leaf value causes parse error](https://github.com/mermaid-js/mermaid/issues/8205) | 1 |
 | [#8202 [Flowchart] Rendering fails when an edge targets a subgraph ID](https://github.com/mermaid-js/mermaid/issues/8202) | 1 |
-| [#8196 Unify comment stripping: detectType's anyCommentRegex vs preprocessDiagram's cleanupComments](https://github.com/mermaid-js/mermaid/issues/8196) | 0 |
-| [#8195 defaultConfig.class silently drops seven schema defaults](https://github.com/mermaid-js/mermaid/issues/8195) | 0 |
-| [#8188 Gantt: a task line with four or more metadata items throws an internal TypeError instead of reporting a parse error](https://github.com/mermaid-js/mermaid/issues/8188) | 0 |
-| [#8187 Waveform Diagram Support](https://github.com/mermaid-js/mermaid/issues/8187) | 0 |
-| [#8184 Palette theme variables are interpolated into CSS without validation](https://github.com/mermaid-js/mermaid/issues/8184) | 1 |
-| [#8175 Colour the use case diagram by role, with numbered system boundaries](https://github.com/mermaid-js/mermaid/issues/8175) | 1 |
-| [#8172 ELK: `elk.cycleBreakingStrategy` is silently stripped from frontmatter/init config — missing from `defaultConfig.elk`](https://github.com/mermaid-js/mermaid/issues/8172) | 2 |
-| [#8170 Several theme variables across multiple diagram types are dropped by frontmatter sanitization](https://github.com/mermaid-js/mermaid/issues/8170) | 1 |

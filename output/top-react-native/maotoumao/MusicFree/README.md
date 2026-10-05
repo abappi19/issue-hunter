@@ -1,8 +1,8 @@
 # maotoumao/MusicFree
 
-Generated: 2026-10-03T09:43:01.413532+00:00
+Generated: 2026-10-05T11:14:41.029470+00:00
 
-- Unassigned: 94+
+- Unassigned: 93+
 - [View all unassigned issues](https://github.com/maotoumao/MusicFree/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -102,4 +102,3 @@ Most recently opened:
 | [#501 歌单管理:建议歌单编辑可以搜索指定的文件夹下的音频](https://github.com/maotoumao/MusicFree/issues/501) | 1 |
 | [#500 可以添加K歌功能吗](https://github.com/maotoumao/MusicFree/issues/500) | 0 |
 | [#499 本地歌曲显示、播放时调整音高(变调)](https://github.com/maotoumao/MusicFree/issues/499) | 0 |
-| [#497 音量平衡设计](https://github.com/maotoumao/MusicFree/issues/497) | 0 |

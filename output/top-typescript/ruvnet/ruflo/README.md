@@ -1,14 +1,31 @@
 # ruvnet/ruflo
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 41+
+- Unassigned: 46+
 - [View all unassigned issues](https://github.com/ruvnet/ruflo/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#3753 [Dream Cycle 2026-10-05] performance: mmrRerank incremental running-max cache, O(limit^2 x N) -> O(limit x N) + security,hive-mind scan](https://github.com/ruvnet/ruflo/issues/3753) | 0 |
+| [#3736 Failed to install ruflo via bun](https://github.com/ruvnet/ruflo/issues/3736) | 0 |
+| [#3693 Mixed native SQLite copies can detach a live AgentDB handle during graph writer idle close](https://github.com/ruvnet/ruflo/issues/3693) | 2 |
+| [#3692 System-prefix embedding cache is unwritable for runtime users; mock fallback stays cached](https://github.com/ruvnet/ruflo/issues/3692) | 0 |
+| [#3691 agentdb_pattern-store ignores failed storeEntry result and falsely acknowledges persistence](https://github.com/ruvnet/ruflo/issues/3691) | 2 |
+| [#3688 ruflo-swarm 0.3.1 function-hook modules manifest is rejected by native Codex hook discovery](https://github.com/ruvnet/ruflo/issues/3688) | 1 |
+| [#3686 bug(memory): match each cache key independently during invalidation](https://github.com/ruvnet/ruflo/issues/3686) | 0 |
+| [#3684 bug(embeddings): serialize persistent cache initialization](https://github.com/ruvnet/ruflo/issues/3684) | 0 |
+| [#3682 bug(cli): preserve settled worker task outcomes](https://github.com/ruvnet/ruflo/issues/3682) | 0 |
+| [#3680 bug(embeddings): use collision-resistant persistent cache keys](https://github.com/ruvnet/ruflo/issues/3680) | 0 |
+| [#3678 bug(memory): account for replacement sizes before cache admission](https://github.com/ruvnet/ruflo/issues/3678) | 0 |
+| [#3676 bug(shared): honor zero limits and offset-only event queries](https://github.com/ruvnet/ruflo/issues/3676) | 0 |
+| [#3674 bug(shared): settle synchronously rejected queued bulkhead tasks](https://github.com/ruvnet/ruflo/issues/3674) | 0 |
+| [#3672 bug(mcp): reserve new connections before async acquisition yields](https://github.com/ruvnet/ruflo/issues/3672) | 0 |
+| [#3670 bug(cli): normalize non-Error retry rejections](https://github.com/ruvnet/ruflo/issues/3670) | 0 |
+| [#3668 bug(shared): release settled retry timeout timers](https://github.com/ruvnet/ruflo/issues/3668) | 0 |
+| [#3662 SONA trajectories persist but are not consumed by hooks_route or indexed when steps are present](https://github.com/ruvnet/ruflo/issues/3662) | 0 |
 | [#3649 [Dream Cycle 2026-10-03] memory: HNSWIndex serialize/deserialize drops quantizer state, re-breaking fixed PQ dispatch on reload + plugins,automation scan](https://github.com/ruvnet/ruflo/issues/3649) | 0 |
 | [#3635 harness](https://github.com/ruvnet/ruflo/issues/3635) | 0 |
 | [#3633 ruflo-adr: edge keys use '->', which the memory key validator rejects, so no edges are stored](https://github.com/ruvnet/ruflo/issues/3633) | 0 |
@@ -38,15 +55,3 @@ Most recently opened:
 | [#3511 ReDoS hang in analyze circular/modules/boundaries/dependencies; security scan -o json/sarif silently ignored](https://github.com/ruvnet/ruflo/issues/3511) | 1 |
 | [#3509 mcp-bridge: opt-in `codex` backend still launches `@openai/codex mcp-server`, which current Codex CLI no longer has](https://github.com/ruvnet/ruflo/issues/3509) | 3 |
 | [#3508 Read-only memory route/peek: which stores a cwd resolves to, their rows and last write, without creating anything](https://github.com/ruvnet/ruflo/issues/3508) | 2 |
-| [#3475 [Dream Cycle 2026-09-27] intelligence: expose fisherDecayRate via env override + capabilities,memory scan](https://github.com/ruvnet/ruflo/issues/3475) | 0 |
-| [#3450 memory purge and delete leave the AgentDB mirror: purged data stays readable through MCP](https://github.com/ruvnet/ruflo/issues/3450) | 3 |
-| [#3449 config set cannot configure the daemon: wrong file, nested keys, and a value of 0 rejected](https://github.com/ruvnet/ruflo/issues/3449) | 1 |
-| [#3447 hooks post-command keeps every command forever with an embedding: no TTL, cap or cleanup](https://github.com/ruvnet/ruflo/issues/3447) | 1 |
-| [#3446 Backup and distill (CLI and daemon) never cover agentdb-memory.db, where MCP writes land](https://github.com/ruvnet/ruflo/issues/3446) | 3 |
-| [#3419 Question: do Codex plugin hook processes inherit the parent environment? (supported way to pass env vars to ruflo's Codex hooks)](https://github.com/ruvnet/ruflo/issues/3419) | 1 |
-| [#3418 Add ruflo doctor components for the MiniLM picker (CLAUDE_FLOW_ROUTER_EMBEDDER) and MCP governance (RUFLO_MCP_ENFORCE_POLICY)](https://github.com/ruvnet/ruflo/issues/3418) | 1 |
-| [#3417 Make the MCP tool-governance audit log path configurable and per-project, with rotation](https://github.com/ruvnet/ruflo/issues/3417) | 1 |
-| [#3416 Add --json output to ruflo doctor](https://github.com/ruvnet/ruflo/issues/3416) | 1 |
-| [#3411 Coordinated disclosure: github-safe.js helper interpolates argv into a shell string passed to execSync (AS-S001)](https://github.com/ruvnet/ruflo/issues/3411) | 4 |
-| [#3408 Security research: reproduce A2M metadata attraction and adversarial MCP output steering](https://github.com/ruvnet/ruflo/issues/3408) | 0 |
-| [#3394 [Dream Cycle 2026-09-22] intelligence: EWCConsolidator.updateFisherFromConfidences() inverts its own EMA direction, defeating EWC++'s anti-forgetting purpose + capabilities,memory scan](https://github.com/ruvnet/ruflo/issues/3394) | 1 |

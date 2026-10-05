@@ -1,16 +1,16 @@
 # karakeep-app/karakeep
 
-Generated: 2026-10-03T09:43:01.413532+00:00
+Generated: 2026-10-05T11:14:41.029470+00:00
 
-- Unassigned: 47+
+- Unassigned: 46+
 - [View all unassigned issues](https://github.com/karakeep-app/karakeep/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#3139 [FR] Button placement and consistency](https://github.com/karakeep-app/karakeep/issues/3139) | 0 |
 | [#3134 [Substack] iOS share links capture referral overlay instead of article](https://github.com/karakeep-app/karakeep/issues/3134) | 0 |
-| [#3133 Screenshots render CJK (Chinese/Japanese/Korean) text as tofu boxes — karakeep-chrome image is missing CJK fonts](https://github.com/karakeep-app/karakeep/issues/3133) | 2 |
 | [#3131 Per-user (not instance-wide) cookie upload and storage for authenticated crawling](https://github.com/karakeep-app/karakeep/issues/3131) | 1 |
 | [#3117 CLI: `bookmarks add` exits 0 when some links fail, and `--json` output is followed by non-JSON lines](https://github.com/karakeep-app/karakeep/issues/3117) | 1 |
 | [#3107 BUG: AI tagging leaks prompt text into tags / produces run-away 90+ tag lists](https://github.com/karakeep-app/karakeep/issues/3107) | 0 |
@@ -29,14 +29,11 @@ Most recently opened:
 | [#3041 Uploaded filenames lose all non-ASCII characters and the original is not preserved](https://github.com/karakeep-app/karakeep/issues/3041) | 0 |
 | [#3039 Issue for non utf8 website](https://github.com/karakeep-app/karakeep/issues/3039) | 0 |
 | [#3038 Enrich bookmarks with outside discussions and mentions](https://github.com/karakeep-app/karakeep/issues/3038) | 2 |
-| [#3033 Back button in Mobile App broken](https://github.com/karakeep-app/karakeep/issues/3033) | 1 |
 | [#3032 FR: extended offline cache for reading](https://github.com/karakeep-app/karakeep/issues/3032) | 10 |
 | [#3031 -is:inlist smart list query does not exclude bookmarks added to another smart list (only works for manual lists)](https://github.com/karakeep-app/karakeep/issues/3031) | 0 |
 | [#3030 Bookmarks saved from mobile app don't appear in an open web session until manual refresh](https://github.com/karakeep-app/karakeep/issues/3030) | 0 |
-| [#3029 macOS web app: title bar renders white in dark mode (missing dark theme-color)](https://github.com/karakeep-app/karakeep/issues/3029) | 0 |
 | [#3028 PDF preview fails to render: iframe sandbox blocks script execution](https://github.com/karakeep-app/karakeep/issues/3028) | 0 |
 | [#3027 Settings > User Info page crashes with "NotFoundError: Failed to execute 'removeChild'" (v0.33.2)](https://github.com/karakeep-app/karakeep/issues/3027) | 1 |
-| [#3026 [Feature Request] Enable chromium crawler browser extensions](https://github.com/karakeep-app/karakeep/issues/3026) | 2 |
 | [#3018 iOS Share Extension successfully saves bookmark but leaves originating app frozen/unresponsive](https://github.com/karakeep-app/karakeep/issues/3018) | 3 |
 | [#3011 Remember Cleanups](https://github.com/karakeep-app/karakeep/issues/3011) | 0 |
 | [#2994 Custom timeouts for OpenAI and Ollama based inference don't work at the moment](https://github.com/karakeep-app/karakeep/issues/2994) | 0 |
@@ -56,3 +53,5 @@ Most recently opened:
 | [#2927 feat: Split Tag rule settings from global to specific static lists](https://github.com/karakeep-app/karakeep/issues/2927) | 0 |
 | [#2923 Bookmarks generate duplicate attachments](https://github.com/karakeep-app/karakeep/issues/2923) | 0 |
 | [#2922 The ability to change user email](https://github.com/karakeep-app/karakeep/issues/2922) | 2 |
+| [#2920 OAuth Sign-In Bypasses Mandatory Email Verification](https://github.com/karakeep-app/karakeep/issues/2920) | 0 |
+| [#2908 Video asset opens as a black page from Manage Assets and cannot be played](https://github.com/karakeep-app/karakeep/issues/2908) | 0 |

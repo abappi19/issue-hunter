@@ -1,6 +1,6 @@
 # react-navigation/react-navigation
 
-Generated: 2026-10-03T09:43:01.413532+00:00
+Generated: 2026-10-05T11:14:41.029470+00:00
 
 - Unassigned: 58+
 - [View all unassigned issues](https://github.com/react-navigation/react-navigation/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,13 +9,12 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#13273 Opening the drawer no longer dismisses the keyboard](https://github.com/react-navigation/react-navigation/issues/13273) | 1 |
 | [#13262 Bottom tab bar disappears permanently after rotating on iOS 26+ with tabBarHideOnKeyboard](https://github.com/react-navigation/react-navigation/issues/13262) | 1 |
 | [#13257 [iOS] [V8] Native bottom tabs: no way to adjust icon/label spacing on iOS (react-native-screens   supports it, bottom-tabs never forwards it)](https://github.com/react-navigation/react-navigation/issues/13257) | 1 |
 | [#13250 react-navigation/core 7.20 decode-uri-component: Denial of service via exponential decoding of malformed percent-encoded input  from query-string](https://github.com/react-navigation/react-navigation/issues/13250) | 2 |
 | [#13234 core: `react` peer dependency fails strict installs for renderers that alias `react` (Lynx)](https://github.com/react-navigation/react-navigation/issues/13234) | 2 |
-| [#13231 Nested navigation params are ignored when reusing the same params object](https://github.com/react-navigation/react-navigation/issues/13231) | 4 |
-| [#13226 iOS 27 Beta 7 - Native header press scrolls list up](https://github.com/react-navigation/react-navigation/issues/13226) | 9 |
-| [#13219 Default background is not rgb(255, 255, 255)](https://github.com/react-navigation/react-navigation/issues/13219) | 6 |
+| [#13231 Nested navigation params are ignored when reusing the same params object](https://github.com/react-navigation/react-navigation/issues/13231) | 5 |
 | [#13213 Second stacked modal skips its opening animation on Android](https://github.com/react-navigation/react-navigation/issues/13213) | 0 |
 | [#13210 Stack swipe-back release hitches on the new architecture: pop is dispatched 16ms into the close animation](https://github.com/react-navigation/react-navigation/issues/13210) | 3 |
 | [#13192 [Android] navigate reorder-on-getId leaves an rn-screens leak that freezes touches on an underlying nested-navigator screen](https://github.com/react-navigation/react-navigation/issues/13192) | 2 |
@@ -67,3 +66,4 @@ Most recently opened:
 | [#12794 Android Talkback is announcing old screens Pressable title when navigating away](https://github.com/react-navigation/react-navigation/issues/12794) | 3 |
 | [#12782 [ios][TabNavigator][newArch Only] Refresh control gets stuck when tabbing away while refresh is active](https://github.com/react-navigation/react-navigation/issues/12782) | 9 |
 | [#12779 headerLeft headerRight onPress touch event issue on older iOS devices than iPhone XR](https://github.com/react-navigation/react-navigation/issues/12779) | 3 |
+| [#12739 [Android] `formSheet` below keyboard when input is focus](https://github.com/react-navigation/react-navigation/issues/12739) | 0 |

@@ -1,17 +1,18 @@
 # ant-design/ant-design
 
-Generated: 2026-10-03T09:42:38.239543+00:00
+Generated: 2026-10-05T11:14:10.672067+00:00
 
-- Unassigned: 12+
+- Unassigned: 13+
 - [View all unassigned issues](https://github.com/ant-design/ant-design/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#59455 [Bug] Masonry: items are not rendered during SSR and cause blank initial render](https://github.com/ant-design/ant-design/issues/59455) | 1 |
-| [#59453 feat(Breadcrumb): Support default aria-label and aria-current="page" for WAI-ARIA compliance](https://github.com/ant-design/ant-design/issues/59453) | 0 |
-| [#59426 Make right sided menu expandable on the antd website](https://github.com/ant-design/ant-design/issues/59426) | 1 |
+| [#59473 [Feature Request] Tooltip: Add Smart Placement with Automatic Collision detect](https://github.com/ant-design/ant-design/issues/59473) | 1 |
+| [#59470 Pagination 设置 disabled 后，部分按钮仍可通过 Tab 键聚焦](https://github.com/ant-design/ant-design/issues/59470) | 2 |
+| [#59453 feat(Breadcrumb): Support default aria-label and aria-current="page" for WAI-ARIA compliance](https://github.com/ant-design/ant-design/issues/59453) | 1 |
+| [#59426 Make right sided menu expandable on the antd website](https://github.com/ant-design/ant-design/issues/59426) | 2 |
 | [#59350 DatePicker allow to select date before minDate](https://github.com/ant-design/ant-design/issues/59350) | 3 |
 | [#59349 表格滚动条](https://github.com/ant-design/ant-design/issues/59349) | 2 |
 | [#59292 Fluid hover interaction for interactive components](https://github.com/ant-design/ant-design/issues/59292) | 2 |

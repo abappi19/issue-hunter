@@ -1,6 +1,6 @@
 # mattpocock/skills
 
-Generated: 2026-10-03T09:42:25.196854+00:00
+Generated: 2026-10-05T11:13:54.472669+00:00
 
 - Unassigned: 99+
 - [View all unassigned issues](https://github.com/mattpocock/skills/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,11 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#1166 Skill proposal: agent-chat-ux for productivity (branch ready on fork)](https://github.com/mattpocock/skills/issues/1166) | 0 |
+| [#1165 improve-codebase-architecture docs: stale "diagnosing-bugs hands back here" survived #1121](https://github.com/mattpocock/skills/issues/1165) | 0 |
+| [#1164 Claude Code plugin does not update - still stuck on version 1.2.3](https://github.com/mattpocock/skills/issues/1164) | 1 |
+| [#1162 This has quickly become complicated](https://github.com/mattpocock/skills/issues/1162) | 3 |
+| [#1156 to-spec: a readability layer for the person reviewing the spec](https://github.com/mattpocock/skills/issues/1156) | 0 |
 | [#1154 grilling: question numbers restart at Q1 in a later round, colliding with answers already given](https://github.com/mattpocock/skills/issues/1154) | 0 |
 | [#1153 v1.3: CONTEXT.md → GLOSSARY.md rename has no migration path for existing repos](https://github.com/mattpocock/skills/issues/1153) | 1 |
 | [#1152 Proposal: experimental HTML questionnaire mode for batch grilling](https://github.com/mattpocock/skills/issues/1152) | 1 |
@@ -20,7 +25,7 @@ Most recently opened:
 | [#1143 GitLab issue-tracker template: `glab issue list -F json` prints a table, and "the map's children" has no command](https://github.com/mattpocock/skills/issues/1143) | 0 |
 | [#1142 wizard: editing the script while a wizard is running kills it (bash reads incrementally); patch parses the whole file before the first prompt](https://github.com/mattpocock/skills/issues/1142) | 0 |
 | [#1141 retro: include subagent sessions as primary sources after implement-spec](https://github.com/mattpocock/skills/issues/1141) | 0 |
-| [#1138 setup: fix GitHub issue-tracker template (read body + native gh sub-issue/dependency flags)](https://github.com/mattpocock/skills/issues/1138) | 2 |
+| [#1138 setup: fix GitHub issue-tracker template (read body + native gh sub-issue/dependency flags)](https://github.com/mattpocock/skills/issues/1138) | 3 |
 | [#1137 Add Jira as a first-class issue tracker, via Atlassian's official CLI (`acli`)](https://github.com/mattpocock/skills/issues/1137) | 1 |
 | [#1135 Star Graph](https://github.com/mattpocock/skills/issues/1135) | 0 |
 | [#1134 Proposal: /implement keeps a running implementation-notes file (design decisions, deviations, tradeoffs, open questions)](https://github.com/mattpocock/skills/issues/1134) | 0 |
@@ -31,10 +36,9 @@ Most recently opened:
 | [#1128 Proposal: ping-pong skill for short, direct back-and-forth](https://github.com/mattpocock/skills/issues/1128) | 0 |
 | [#1125 Proposal: grilling puts visual options in front of the user as wireframes](https://github.com/mattpocock/skills/issues/1125) | 0 |
 | [#1124 Proposal: choose a verification strategy before /implement reaches for /tdd](https://github.com/mattpocock/skills/issues/1124) | 1 |
-| [#1123 Remove the harness-specific Skill tool dependency from grill-me and grill-with-docs](https://github.com/mattpocock/skills/issues/1123) | 2 |
+| [#1123 Remove the harness-specific Skill tool dependency from grill-me and grill-with-docs](https://github.com/mattpocock/skills/issues/1123) | 3 |
 | [#1119 Proposal: `whiteboard-defense` — grill me on the code I just changed](https://github.com/mattpocock/skills/issues/1119) | 0 |
 | [#1118 setup-matt-pocock-skills: `issue_dependencies_summary` is not a valid `gh issue view --json` field](https://github.com/mattpocock/skills/issues/1118) | 1 |
-| [#1117 diagnosing-bugs: consider an invocation-safe post-mortem step (and a stale ask-matt reference)](https://github.com/mattpocock/skills/issues/1117) | 1 |
 | [#1116 to-tickets: check whether a proposed wave can actually be built in parallel](https://github.com/mattpocock/skills/issues/1116) | 0 |
 | [#1115 grilling: later rounds refer to earlier questions by number only, forcing scroll-back](https://github.com/mattpocock/skills/issues/1115) | 1 |
 | [#1114 domain-modeling: ADR-FORMAT.md should say how to edit an ADR (rewrite in place, not append amendments)](https://github.com/mattpocock/skills/issues/1114) | 0 |
@@ -89,7 +93,7 @@ Most recently opened:
 | [#1051 Contribution ready: /red-team, the optional pre-implementation spec review from #633](https://github.com/mattpocock/skills/issues/1051) | 0 |
 | [#1047 Contribution ready: tickets carry Gherkin scenarios + QA checklist; implement verifies the run before committing](https://github.com/mattpocock/skills/issues/1047) | 0 |
 | [#1045 Proposal: add subtractive-review skill](https://github.com/mattpocock/skills/issues/1045) | 0 |
-| [#1044 code-review: gate findings that replace a branch or a guard](https://github.com/mattpocock/skills/issues/1044) | 0 |
+| [#1044 code-review: gate findings that replace a branch or a guard](https://github.com/mattpocock/skills/issues/1044) | 1 |
 | [#1043 Add a skill to decompose requirements based on bounded context](https://github.com/mattpocock/skills/issues/1043) | 2 |
 | [#1042 triage: no state role can say the work already exists, so `wontfix` and `ready-for-human` are overloaded to say it](https://github.com/mattpocock/skills/issues/1042) | 0 |
 | [#1041 wizard: write_env never assigns the shell variable, so later stages read ${KEY:-default} as the default](https://github.com/mattpocock/skills/issues/1041) | 5 |
@@ -104,7 +108,3 @@ Most recently opened:
 | [#1030 Use `.scratch/` instead of the workstation temp folder for `/handoff` skill outputs](https://github.com/mattpocock/skills/issues/1030) | 0 |
 | [#1026 setup-matt-pocock-skills: support GitHub Project fields for triage states](https://github.com/mattpocock/skills/issues/1026) | 0 |
 | [#1020 prototype/wayfinder: "throwaway" research and prototype branches can never actually be deleted — and they keep piling up](https://github.com/mattpocock/skills/issues/1020) | 1 |
-| [#1019 Shorthand `/prototype` conflicts with hidden new Claude Code built-in skill `/prototype`](https://github.com/mattpocock/skills/issues/1019) | 0 |
-| [#1018 grilling: agent repeatedly slips into "quiz-grading" mode during HITL rounds and stalls waiting for the user to supply questions](https://github.com/mattpocock/skills/issues/1018) | 0 |
-| [#1016 implement: confusion about code review order](https://github.com/mattpocock/skills/issues/1016) | 0 |
-| [#1015 Grilling is not a spec generator — it should bound meaning](https://github.com/mattpocock/skills/issues/1015) | 0 |

@@ -1,14 +1,15 @@
 # donnemartin/system-design-primer
 
-Generated: 2026-10-03T09:42:25.196854+00:00
+Generated: 2026-10-05T11:13:54.472669+00:00
 
-- Unassigned: 35+
+- Unassigned: 36+
 - [View all unassigned issues](https://github.com/donnemartin/system-design-primer/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#1410 Read Mint category overrides from the configured instance map](https://github.com/donnemartin/system-design-primer/issues/1410) | 0 |
 | [#1407 Bug: Generator exhaustion in SpendingByCategory reducer yields 0 instead of total](https://github.com/donnemartin/system-design-primer/issues/1407) | 0 |
 | [#1405 Bug: AttributeError: module 'sys' has no attribute 'MAXSIZE' in BlackJackHand.score](https://github.com/donnemartin/system-design-primer/issues/1405) | 0 |
 | [#1403 Bug: AttributeError when instantiating Vehicle in parking_lot.py and missing Enum import in parking_lot.ipynb](https://github.com/donnemartin/system-design-primer/issues/1403) | 0 |
