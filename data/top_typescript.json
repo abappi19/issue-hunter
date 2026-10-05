@@ -8,15 +8,15 @@
   "denoland/deno",
   "angular/angular",
   "ant-design/ant-design",
-  "oven-sh/bun",
   "ruvnet/RuView",
+  "oven-sh/bun",
   "storybookjs/storybook",
   "mermaid-js/mermaid",
   "bytedance/deer-flow",
   "nestjs/nest",
   "enaqx/awesome-react",
   "headroomlabs-ai/headroom",
-  "unionlabs/union",
   "ruvnet/ruflo",
+  "unionlabs/union",
   "strapi/strapi"
 ]
