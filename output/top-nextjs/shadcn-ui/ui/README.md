@@ -1,14 +1,15 @@
 # shadcn-ui/ui
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 21+
+- Unassigned: 22+
 - [View all unassigned issues](https://github.com/shadcn-ui/ui/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#12179 [bug]: Docs : ToolTipTrigger `render` prop error](https://github.com/shadcn-ui/ui/issues/12179) | 0 |
 | [#12121 [bug]: Base UI Select trigger renders a stray "▼" inside the chevron (Select.Icon default children merged into render)](https://github.com/shadcn-ui/ui/issues/12121) | 0 |
 | [#12119 [bug]: React Aria Tooltip demo on docs doesn't show on first hover and renders below the trigger after scrolling](https://github.com/shadcn-ui/ui/issues/12119) | 2 |
 | [#12112 [bug]: Translucent menu preset: backdrop-blur on the ::before pseudo computes but never paints in Chromium (menu is see-through, not frosted)](https://github.com/shadcn-ui/ui/issues/12112) | 0 |
@@ -29,4 +30,4 @@ Most recently opened:
 | [#11904 Progress drops value before Root: bar is indeterminate for assistive tech](https://github.com/shadcn-ui/ui/issues/11904) | 2 |
 | [#11859 [bug]: Separator offset](https://github.com/shadcn-ui/ui/issues/11859) | 0 |
 | [#11857 Add ui to awesome-ai-plugins?](https://github.com/shadcn-ui/ui/issues/11857) | 0 |
-| [#11854 [bug]: Registry components import cn from the package and ignore aliases.utils, which silently disables a project's tailwind-merge config](https://github.com/shadcn-ui/ui/issues/11854) | 1 |
+| [#11854 [bug]: Registry components import cn from the package and ignore aliases.utils, which silently disables a project's tailwind-merge config](https://github.com/shadcn-ui/ui/issues/11854) | 2 |

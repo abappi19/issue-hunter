@@ -1,14 +1,15 @@
 # gitroomhq/postiz-app
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 49+
+- Unassigned: 51+
 - [View all unassigned issues](https://github.com/gitroomhq/postiz-app/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#2213 Threads: support the `topic_tag` parameter (re-opening #1497, which was closed by the stale bot)](https://github.com/gitroomhq/postiz-app/issues/2213) | 0 |
 | [#2199 Invite link registration is broken: always creates a new org for the invited user, invite context silently dropped (15-min cookie vs 2-day JWT)](https://github.com/gitroomhq/postiz-app/issues/2199) | 0 |
 | [#2198 Feature request: warn when registering an organization whose name matches an existing org (self-host UX)](https://github.com/gitroomhq/postiz-app/issues/2198) | 0 |
 | [#2197 Feature: use a ChatGPT subscription for Postiz AI features (Sign in with ChatGPT plan usage)](https://github.com/gitroomhq/postiz-app/issues/2197) | 0 |
@@ -28,7 +29,7 @@ Most recently opened:
 | [#2057 Backend silently fails to start after restart: orphaned Node processes keep port 3000 (EADDRINUSE)](https://github.com/gitroomhq/postiz-app/issues/2057) | 0 |
 | [#2056 Postiz Cloud: YouTube 7-day analytics miss recent posts (stale platform rollup)](https://github.com/gitroomhq/postiz-app/issues/2056) | 0 |
 | [#2055 Postiz Cloud: TikTok analytics stuck on "Refresh Channel" after reconnect](https://github.com/gitroomhq/postiz-app/issues/2055) | 1 |
-| [#2036 [DOUBT] Can Meta ban accounts for using Postiz self-hosted?](https://github.com/gitroomhq/postiz-app/issues/2036) | 0 |
+| [#2036 [DOUBT] Can Meta ban accounts for using Postiz self-hosted?](https://github.com/gitroomhq/postiz-app/issues/2036) | 1 |
 | [#2035 Orchestrator's Temporal worker never retries a failed initial connection — silently stops polling forever, no crash, no log after the first attempt](https://github.com/gitroomhq/postiz-app/issues/2035) | 3 |
 | [#2026 Backend hangs on cold boot without binding its port when Temporal isn't ready yet (docker-compose)](https://github.com/gitroomhq/postiz-app/issues/2026) | 1 |
 | [#2019 [Bug] Slack integration persists posts to Postiz queue but never delivers to Slack workspace (missing bot `chat:write` scope)](https://github.com/gitroomhq/postiz-app/issues/2019) | 0 |
@@ -58,3 +59,4 @@ Most recently opened:
 | [#1854 Postiz Cloud TikTok Direct Post fails with reached_active_user_cap](https://github.com/gitroomhq/postiz-app/issues/1854) | 1 |
 | [#1847 LinkedIn: first comments show literal backslashes before #, (, ) — LTF escaping applied to the plain-text Comments API](https://github.com/gitroomhq/postiz-app/issues/1847) | 0 |
 | [#1845 Missing viewport meta tag breaks mobile rendering](https://github.com/gitroomhq/postiz-app/issues/1845) | 0 |
+| [#1838 HeyGen video generation broken  provider uses deprecated legacy API and only lists private avatars](https://github.com/gitroomhq/postiz-app/issues/1838) | 0 |

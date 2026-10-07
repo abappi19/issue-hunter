@@ -1,6 +1,6 @@
 # ngrx/platform
 
-Generated: 2026-10-05T11:15:05.594142+00:00
+Generated: 2026-10-07T10:54:21.978827+00:00
 
 - Unassigned: 50
 - [View all unassigned issues](https://github.com/ngrx/platform/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)

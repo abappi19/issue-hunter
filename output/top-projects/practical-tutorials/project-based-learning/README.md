@@ -1,8 +1,8 @@
 # practical-tutorials/project-based-learning
 
-Generated: 2026-10-05T11:13:54.472669+00:00
+Generated: 2026-10-07T10:53:10.146519+00:00
 
-- Unassigned: 46+
+- Unassigned: 45+
 - [View all unassigned issues](https://github.com/practical-tutorials/project-based-learning/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -54,4 +54,3 @@ Most recently opened:
 | [#689 Learn Javascript Easily ](https://github.com/practical-tutorials/project-based-learning/issues/689) | 3 |
 | [#688 Lear](https://github.com/practical-tutorials/project-based-learning/issues/688) | 0 |
 | [#683 Dead website link to codewall.co.uk](https://github.com/practical-tutorials/project-based-learning/issues/683) | 1 |
-| [#681 Python learning ](https://github.com/practical-tutorials/project-based-learning/issues/681) | 1 |

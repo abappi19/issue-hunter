@@ -1,6 +1,6 @@
 # karakeep-app/karakeep
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
 - Unassigned: 46+
 - [View all unassigned issues](https://github.com/karakeep-app/karakeep/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,11 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#3148 [Feature Request] Toggle dark mode according to system settings](https://github.com/karakeep-app/karakeep/issues/3148) | 0 |
+| [#3147 Open all and export as...](https://github.com/karakeep-app/karakeep/issues/3147) | 0 |
+| [#3146 Embedding Jobs marked "Active" even though no embedding model configured](https://github.com/karakeep-app/karakeep/issues/3146) | 0 |
+| [#3145 REST API (/api/v1) returns 401 for all API keys after connecting the mobile app — persists across container restarts (tRPC unaffected)](https://github.com/karakeep-app/karakeep/issues/3145) | 0 |
+| [#3143 [FR] Keep folders/lists unfolded](https://github.com/karakeep-app/karakeep/issues/3143) | 0 |
 | [#3139 [FR] Button placement and consistency](https://github.com/karakeep-app/karakeep/issues/3139) | 0 |
 | [#3134 [Substack] iOS share links capture referral overlay instead of article](https://github.com/karakeep-app/karakeep/issues/3134) | 0 |
 | [#3131 Per-user (not instance-wide) cookie upload and storage for authenticated crawling](https://github.com/karakeep-app/karakeep/issues/3131) | 1 |
@@ -50,8 +55,3 @@ Most recently opened:
 | [#2952 After months of working excellently, hoarding ARCHIVE.IS content needs captcha solving again](https://github.com/karakeep-app/karakeep/issues/2952) | 0 |
 | [#2942 Direct upload / take picture with iOS app](https://github.com/karakeep-app/karakeep/issues/2942) | 1 |
 | [#2941 Proposal: contribute remaining MCP tools (feeds, assets, bookmark listing/relationships, create-tag)](https://github.com/karakeep-app/karakeep/issues/2941) | 5 |
-| [#2927 feat: Split Tag rule settings from global to specific static lists](https://github.com/karakeep-app/karakeep/issues/2927) | 0 |
-| [#2923 Bookmarks generate duplicate attachments](https://github.com/karakeep-app/karakeep/issues/2923) | 0 |
-| [#2922 The ability to change user email](https://github.com/karakeep-app/karakeep/issues/2922) | 2 |
-| [#2920 OAuth Sign-In Bypasses Mandatory Email Verification](https://github.com/karakeep-app/karakeep/issues/2920) | 0 |
-| [#2908 Video asset opens as a black page from Manage Assets and cannot be played](https://github.com/karakeep-app/karakeep/issues/2908) | 0 |

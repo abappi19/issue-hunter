@@ -1,15 +1,22 @@
 # microsoft/vscode
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 60+
+- Unassigned: 54+
 - [View all unassigned issues](https://github.com/microsoft/vscode/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#339733 solve the issue](https://github.com/microsoft/vscode/issues/339733) | 0 |
+| [#340261 [Markdown Preview] Option to keep focus when opening local file links](https://github.com/microsoft/vscode/issues/340261) | 0 |
+| [#340260 Github Copilot gets stuck in planning mode](https://github.com/microsoft/vscode/issues/340260) | 1 |
+| [#340258 Session Sync Silent Error](https://github.com/microsoft/vscode/issues/340258) | 0 |
+| [#340236 [chat-perf] layoutDurationMs regressed 20–39% in 8 chat scenarios](https://github.com/microsoft/vscode/issues/340236) | 0 |
+| [#340057 [Error] unhandlederror-<syntax> TypeScript Server Error (6.0.3) Cannot read properties of undefined (reading...](https://github.com/microsoft/vscode/issues/340057) | 2 |
+| [#339996 [chat-perf] layoutDurationMs regressed 23–46% in 7 chat scenarios (first run)](https://github.com/microsoft/vscode/issues/339996) | 0 |
+| [#339900 Install Plugin from Source reveals plugins in the legacy details UI](https://github.com/microsoft/vscode/issues/339900) | 1 |
+| [#339793 Submission cancelled](https://github.com/microsoft/vscode/issues/339793) | 1 |
 | [#339661 [chat-perf] layoutDurationMs regressed 21–39% in 8 chat scenarios](https://github.com/microsoft/vscode/issues/339661) | 0 |
 | [#339576 [chat-perf] layoutDurationMs regressed 20–33% in 10 chat scenarios](https://github.com/microsoft/vscode/issues/339576) | 0 |
 | [#339570 it maybe me](https://github.com/microsoft/vscode/issues/339570) | 2 |
@@ -56,16 +63,3 @@ Most recently opened:
 | [#332592 Unable to open Live Share](https://github.com/microsoft/vscode/issues/332592) | 2 |
 | [#332577 Extension API: Allow WebviewPanel to be programmatically pinned or unclosable](https://github.com/microsoft/vscode/issues/332577) | 0 |
 | [#332515 Need a command to copy all errors/warnings in the Problems panel](https://github.com/microsoft/vscode/issues/332515) | 1 |
-| [#332231 regression in 1.134.0: cannot search old chat sessions via `workbench.action.quickOpen`](https://github.com/microsoft/vscode/issues/332231) | 0 |
-| [#331898 VS Code Remote-SSH: The vscode server failed to start SSH](https://github.com/microsoft/vscode/issues/331898) | 0 |
-| [#331882 Extension webviews deadlock on cold startup until built-in GitHub Copilot Chat extension is toggled](https://github.com/microsoft/vscode/issues/331882) | 0 |
-| [#331810 Remote Tunnel Access is broken](https://github.com/microsoft/vscode/issues/331810) | 0 |
-| [#331769 Agents window incorrectly parses SSH config](https://github.com/microsoft/vscode/issues/331769) | 2 |
-| [#331744 The AI change includes already applied changes from the past.](https://github.com/microsoft/vscode/issues/331744) | 0 |
-| [#331671 Agents session from windows to linux wrong file path separator](https://github.com/microsoft/vscode/issues/331671) | 2 |
-| [#331613 Extension Host crashes with Signal: unknown (code 134) and No socket factory found for Managed(1) on Remote-SSH](https://github.com/microsoft/vscode/issues/331613) | 1 |
-| [#331605 Codespace not loading anymore](https://github.com/microsoft/vscode/issues/331605) | 0 |
-| [#331546 Remote tunnel service status client can take over tunnel ownership](https://github.com/microsoft/vscode/issues/331546) | 0 |
-| [#331229 Chat session renaming](https://github.com/microsoft/vscode/issues/331229) | 3 |
-| [#331039 Agent Host "Allow remote session access" hangs and triggers Unexpected end of JSON input on VS Code 1.133.0](https://github.com/microsoft/vscode/issues/331039) | 0 |
-| [#331006 Opening editor Chat destroys standalone Agent session and creates phantom copilotcli session](https://github.com/microsoft/vscode/issues/331006) | 3 |

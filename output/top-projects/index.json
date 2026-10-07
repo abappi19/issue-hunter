@@ -1,10 +1,10 @@
 {
   "title": "Top Open-Source Projects",
-  "generated_at": "2026-10-05T11:13:54.472669+00:00",
+  "generated_at": "2026-10-07T10:53:10.146519+00:00",
   "repos": [
     {
       "repo": "codecrafters-io/build-your-own-x",
-      "unassigned": "17+"
+      "unassigned": "19+"
     },
     {
       "repo": "sindresorhus/awesome",
@@ -12,11 +12,11 @@
     },
     {
       "repo": "public-apis/public-apis",
-      "unassigned": "6+"
+      "unassigned": "3+"
     },
     {
       "repo": "freeCodeCamp/freeCodeCamp",
-      "unassigned": "31+"
+      "unassigned": "28+"
     },
     {
       "repo": "EbookFoundation/free-programming-books",
@@ -24,7 +24,7 @@
     },
     {
       "repo": "openclaw/openclaw",
-      "unassigned": "32+"
+      "unassigned": "42+"
     },
     {
       "repo": "donnemartin/system-design-primer",
@@ -32,7 +32,7 @@
     },
     {
       "repo": "nilbuild/developer-roadmap",
-      "unassigned": 0
+      "unassigned": 1
     },
     {
       "repo": "jwasham/coding-interview-university",
@@ -40,27 +40,27 @@
     },
     {
       "repo": "obra/superpowers",
-      "unassigned": "60+"
+      "unassigned": "68+"
     },
     {
       "repo": "practical-tutorials/project-based-learning",
-      "unassigned": "46+"
+      "unassigned": "45+"
     },
     {
       "repo": "mattpocock/skills",
-      "unassigned": "99+"
+      "unassigned": "97+"
     },
     {
       "repo": "affaan-m/ECC",
-      "unassigned": "7+"
+      "unassigned": "11+"
     },
     {
       "repo": "NousResearch/hermes-agent",
-      "unassigned": "39+"
+      "unassigned": "27+"
     },
     {
       "repo": "react/react",
-      "unassigned": "32+"
+      "unassigned": "31+"
     },
     {
       "repo": "TheAlgorithms/Python",
@@ -68,19 +68,19 @@
     },
     {
       "repo": "vuejs/vue",
-      "unassigned": "31+"
+      "unassigned": "30+"
     },
     {
       "repo": "anomalyco/opencode",
-      "unassigned": "1+"
+      "unassigned": "0+"
     },
     {
       "repo": "ossu/computer-science",
-      "unassigned": 18
+      "unassigned": 17
     },
     {
       "repo": "n8n-io/n8n",
-      "unassigned": "8+"
+      "unassigned": "6+"
     }
   ]
 }

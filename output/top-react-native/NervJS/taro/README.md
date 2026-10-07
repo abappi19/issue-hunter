@@ -1,14 +1,15 @@
 # NervJS/taro
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
-- Unassigned: 78+
+- Unassigned: 77+
 - [View all unassigned issues](https://github.com/NervJS/taro/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#19515 [H5] chooseMedia 多选时 tempFiles 按加载完成先后排序，与 FileList 顺序不一致](https://github.com/NervJS/taro/issues/19515) | 0 |
 | [#19504 [mini-runner] Prerender produces wrong snapshots for sub-package pages (silent, no error/warning)](https://github.com/NervJS/taro/issues/19504) | 1 |
 | [#19501 交互如下 主包（tabbar页）navigateTo -> 独立分包再 navigateTo > 到独立分包 后，执行navigateBack后页面无响应](https://github.com/NervJS/taro/issues/19501) | 1 |
 | [#19497 添加对vite8支持，让runner插件能作为 rolldown插件](https://github.com/NervJS/taro/issues/19497) | 2 |
@@ -85,5 +86,3 @@ Most recently opened:
 | [#18604 使用vue3+vite创建的项目的断点无法正常工作](https://github.com/NervJS/taro/issues/18604) | 1 |
 | [#18602 微信小程序鸿蒙环境，状态更新时长显著长于android/ios](https://github.com/NervJS/taro/issues/18602) | 0 |
 | [#18574 CI: nodejs.yml workflow 缺少 aarch64-apple-darwin target 映射](https://github.com/NervJS/taro/issues/18574) | 0 |
-| [#18571 模板选择为 react nutui, 使用 vite作为构建工具，在小程序开发模式启动时nutui引入的Button组件未显示，所有组件样式未按需引入](https://github.com/NervJS/taro/issues/18571) | 1 |
-| [#18566 官方提供的模版项目什么时候能够同步更新？](https://github.com/NervJS/taro/issues/18566) | 4 |

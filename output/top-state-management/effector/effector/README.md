@@ -1,8 +1,8 @@
 # effector/effector
 
-Generated: 2026-10-05T11:15:05.594142+00:00
+Generated: 2026-10-07T10:54:21.978827+00:00
 
-- Unassigned: 72+
+- Unassigned: 70+
 - [View all unassigned issues](https://github.com/effector/effector/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -79,5 +79,3 @@ Most recently opened:
 | [#795 createGate throw error `There is a store without sid in this scope, its value is omitted` with ssr](https://github.com/effector/effector/issues/795) | 0 |
 | [#794 useStoreMap unexpected behavior when undefined returned from fn](https://github.com/effector/effector/issues/794) | 3 |
 | [#778 Get index in `useList` hook simultaneously with `getKey`](https://github.com/effector/effector/issues/778) | 1 |
-| [#775 Differtents factorie SIDs for client and server Next.js units](https://github.com/effector/effector/issues/775) | 4 |
-| [#769 Typeguards in `match` of `split` are not working in config overload](https://github.com/effector/effector/issues/769) | 1 |

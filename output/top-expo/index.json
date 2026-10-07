@@ -1,10 +1,10 @@
 {
   "title": "Top Expo Projects",
-  "generated_at": "2026-10-05T11:14:53.347924+00:00",
+  "generated_at": "2026-10-07T10:54:09.574341+00:00",
   "repos": [
     {
       "repo": "expo/expo",
-      "unassigned": "13+"
+      "unassigned": "23+"
     },
     {
       "repo": "infinitered/ignite",
@@ -24,11 +24,11 @@
     },
     {
       "repo": "AmanVarshney01/create-better-t-stack",
-      "unassigned": "75+"
+      "unassigned": "74+"
     },
     {
       "repo": "callstack/agent-device",
-      "unassigned": "79+"
+      "unassigned": "81+"
     },
     {
       "repo": "obytes/react-native-template-obytes",
@@ -40,11 +40,11 @@
     },
     {
       "repo": "CherryHQ/cherry-studio-app",
-      "unassigned": 13
+      "unassigned": 17
     },
     {
       "repo": "expo/examples",
-      "unassigned": "72+"
+      "unassigned": "71+"
     },
     {
       "repo": "heroui-inc/heroui-native",
@@ -52,11 +52,11 @@
     },
     {
       "repo": "elie222/rakazo",
-      "unassigned": 20
+      "unassigned": 21
     },
     {
       "repo": "enzomanuelmangano/demos",
-      "unassigned": 1
+      "unassigned": 2
     },
     {
       "repo": "galio-org/galio",
@@ -68,15 +68,15 @@
     },
     {
       "repo": "jpudysz/react-native-unistyles",
-      "unassigned": 21
-    },
-    {
-      "repo": "rnmapbox/maps",
-      "unassigned": "66+"
+      "unassigned": 13
     },
     {
       "repo": "BlackHatDevX/openspot-music-app",
       "unassigned": 7
+    },
+    {
+      "repo": "rnmapbox/maps",
+      "unassigned": "66+"
     },
     {
       "repo": "microsoft/vscode-react-native",

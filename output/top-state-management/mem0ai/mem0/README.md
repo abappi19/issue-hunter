@@ -1,33 +1,36 @@
 # mem0ai/mem0
 
-Generated: 2026-10-05T11:15:05.594142+00:00
+Generated: 2026-10-07T10:54:21.978827+00:00
 
-- Unassigned: 72+
+- Unassigned: 68+
 - [View all unassigned issues](https://github.com/mem0ai/mem0/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#7546 VectorStoreBase.list returns nested list — ChromaDB and LangChain stores affected](https://github.com/mem0ai/mem0/issues/7546) | 2 |
-| [#7542 search and add paths throw "TypeError: this.client.search is not a function" on mem0ai@3.0.7](https://github.com/mem0ai/mem0/issues/7542) | 1 |
+| [#7561 Python OSS: metadata-only and expiration-only updates unnecessarily call the embedding provider](https://github.com/mem0ai/mem0/issues/7561) | 1 |
+| [#7559 bug(pi-agent-plugin): MEM0_APP_ID is ignored, so git worktrees get a separate project memory pool](https://github.com/mem0ai/mem0/issues/7559) | 0 |
+| [#7556 Python OSS: text content parts drop message name and actor_id with infer=False](https://github.com/mem0ai/mem0/issues/7556) | 1 |
+| [#7554 Hermes Mem0 OSS pgvector: driver lost on managed-runtime rebuild; backend health and OpenAI-compatible URL diagnostics](https://github.com/mem0ai/mem0/issues/7554) | 1 |
+| [#7549 Claude Code plugin 0.3.3 on Windows: healthy DB quarantined on transient errors, api-key rename race, stdin decoded as cp1252](https://github.com/mem0ai/mem0/issues/7549) | 1 |
+| [#7546 VectorStoreBase.list returns nested list — ChromaDB and LangChain stores affected](https://github.com/mem0ai/mem0/issues/7546) | 4 |
 | [#7541 AWS Bedrock: Nova no-tools path uses non-Converse message/parse shapes](https://github.com/mem0ai/mem0/issues/7541) | 0 |
-| [#7535 Search ranks an outdated memory above its update: `score_and_rank` has no recency term (follow-up to #4896)](https://github.com/mem0ai/mem0/issues/7535) | 5 |
+| [#7535 Search ranks an outdated memory above its update: `score_and_rank` has no recency term (follow-up to #4896)](https://github.com/mem0ai/mem0/issues/7535) | 6 |
 | [#7531 hermes-plugin-mem0: telemetry on by default, memory_id not path-encoded in self-hosted mode, mem0ai uninstallable on win-arm64](https://github.com/mem0ai/mem0/issues/7531) | 0 |
-| [#7529 bug(memory): AND condition silently overwrites a sibling top-level filter key](https://github.com/mem0ai/mem0/issues/7529) | 1 |
+| [#7529 bug(memory): AND condition silently overwrites a sibling top-level filter key](https://github.com/mem0ai/mem0/issues/7529) | 2 |
 | [#7527 bug(vector_stores/qdrant): "Payload indexes have no effect" warning on default config; entity store treats shared local client as remote](https://github.com/mem0ai/mem0/issues/7527) | 4 |
 | [#7526 OpenAI LLM: support custom default_headers (needed for OpenCode Go / session-header relays)](https://github.com/mem0ai/mem0/issues/7526) | 2 |
 | [#7523 bug(llms): o4-mini is not classified as a reasoning model, so temperature/top_p/max_tokens are sent on every call](https://github.com/mem0ai/mem0/issues/7523) | 3 |
 | [#7522 bug(llms): _get_supported_params silently drops every caller kwarg on reasoning models](https://github.com/mem0ai/mem0/issues/7522) | 2 |
 | [#7518 mem0-ts: fastembed ^2.1.0 downloads models from a Qdrant GCS bucket that is being shut down](https://github.com/mem0ai/mem0/issues/7518) | 0 |
-| [#7516 ElasticsearchDB.get() returns None for a backend failure, which already means "no such vector"](https://github.com/mem0ai/mem0/issues/7516) | 3 |
+| [#7516 ElasticsearchDB.get() returns None for a backend failure, which already means "no such vector"](https://github.com/mem0ai/mem0/issues/7516) | 4 |
 | [#7514 Controlled 3-arm experiment on mem0 write-time compression (full artifacts) + a DolphinBench recompute offer](https://github.com/mem0ai/mem0/issues/7514) | 0 |
 | [#7513 Memory export lacks a canonical JSON conformance path — strict profile v1 + cross-engine vectors ready (follow-up to #7497)](https://github.com/mem0ai/mem0/issues/7513) | 0 |
 | [#7504 _safe_deepcopy_config blanks credentials on clones that are then used to open a connection](https://github.com/mem0ai/mem0/issues/7504) | 2 |
-| [#7503 GoogleMatchingEngine logs the full service account private key at DEBUG](https://github.com/mem0ai/mem0/issues/7503) | 2 |
 | [#7502 bug(memory): history() returns the wrong audit order when created_at values carry different UTC offsets](https://github.com/mem0ai/mem0/issues/7502) | 4 |
 | [#7500 RFC #7376 work item: canonical JSON export digest (strict profile v1) + cross-runtime conformance vectors](https://github.com/mem0ai/mem0/issues/7500) | 3 |
-| [#7499 Add IBM Db2 Vector Store and Search Capability](https://github.com/mem0ai/mem0/issues/7499) | 1 |
+| [#7499 Add IBM Db2 Vector Store and Search Capability](https://github.com/mem0ai/mem0/issues/7499) | 2 |
 | [#7498 Issue on docs](https://github.com/mem0ai/mem0/issues/7498) | 0 |
 | [#7495 TS SDK: Qdrant search fails with @qdrant/js-client-rest 1.19 (client.search removed)](https://github.com/mem0ai/mem0/issues/7495) | 2 |
 | [#7492 http_client_proxies is silently dropped by every provider except the three Azure paths (docs promise All)](https://github.com/mem0ai/mem0/issues/7492) | 2 |
@@ -62,7 +65,7 @@ Most recently opened:
 | [#7413 Weaviate vector store: identify Mem0 with the X-Weaviate-Client-Integration header](https://github.com/mem0ai/mem0/issues/7413) | 0 |
 | [#7399 docs: Gemini LLM examples still use retired gemini-2.0-flash IDs](https://github.com/mem0ai/mem0/issues/7399) | 1 |
 | [#7398 Bundle the ollama embedder in the self-hosted server image](https://github.com/mem0ai/mem0/issues/7398) | 1 |
-| [#7397 Self-hosted server: no health endpoint; dashboard healthcheck stays green while the API is down](https://github.com/mem0ai/mem0/issues/7397) | 0 |
+| [#7397 Self-hosted server: no health endpoint; dashboard healthcheck stays green while the API is down](https://github.com/mem0ai/mem0/issues/7397) | 1 |
 | [#7396 Self-hosted server: let the official SDK's MemoryClient work against it (platform API compatibility)](https://github.com/mem0ai/mem0/issues/7396) | 0 |
 | [#7393 test_rejects_symlink_outside_bundle fails on Windows without symlink privilege](https://github.com/mem0ai/mem0/issues/7393) | 1 |
 | [#7391 feat(vector-store): add NeuG as an optional vector store backend (native vector + full-text + graph)](https://github.com/mem0ai/mem0/issues/7391) | 0 |
@@ -74,10 +77,3 @@ Most recently opened:
 | [#7355 mem0 TypeScript ignores env-specified proxy settings (http_proxy, HTTPS_PROXY) when talking to model providers](https://github.com/mem0ai/mem0/issues/7355) | 2 |
 | [#7352 docs: Python multimodal examples recreate clients with vision disabled](https://github.com/mem0ai/mem0/issues/7352) | 0 |
 | [#7347 bug(vector_stores/azure-ai-search): telemetry helpers operate on the memory index — a user's memory is silently re-scoped to the telemetry id](https://github.com/mem0ai/mem0/issues/7347) | 4 |
-| [#7346 Claude Code plugin reports "API key missing" after a successful `mem0 login` — `plugin_sync` only updates pre-existing entries](https://github.com/mem0ai/mem0/issues/7346) | 2 |
-| [#7342 Windows: Cursor plugin 0.2.13 spawns hung Git Bash (mintty) windows on Read hooks](https://github.com/mem0ai/mem0/issues/7342) | 3 |
-| [#7336 [Bug] AWS Bedrock: legacy amazon (Titan) responses always parse to '' — _parse_response reads a 'completion' field Titan never returns](https://github.com/mem0ai/mem0/issues/7336) | 7 |
-| [#7333 bug(server): configured LLM API key appears unset in dashboard](https://github.com/mem0ai/mem0/issues/7333) | 2 |
-| [#7317 _extract_count recurses into non-dict model_dump(), allocating ~2GB before silently returning None](https://github.com/mem0ai/mem0/issues/7317) | 3 |
-| [#7314 PGVector destructor closes externally supplied connection_pool](https://github.com/mem0ai/mem0/issues/7314) | 1 |
-| [#7313 Docs: BaseEmbedderConfig says openai_base_url defaults to api.openai.com, but two env vars come first](https://github.com/mem0ai/mem0/issues/7313) | 2 |

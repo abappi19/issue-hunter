@@ -1,6 +1,6 @@
 # BlackHatDevX/openspot-music-app
 
-Generated: 2026-10-05T11:14:53.347924+00:00
+Generated: 2026-10-07T10:54:09.574341+00:00
 
 - Unassigned: 7
 - [View all unassigned issues](https://github.com/BlackHatDevX/openspot-music-app/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,7 +9,7 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#78 About Downloading](https://github.com/BlackHatDevX/openspot-music-app/issues/78) | 0 |
+| [#78 About Downloading](https://github.com/BlackHatDevX/openspot-music-app/issues/78) | 1 |
 | [#75 Can't install on arch linux](https://github.com/BlackHatDevX/openspot-music-app/issues/75) | 0 |
 | [#73 Cannot Import Spotify Playlists](https://github.com/BlackHatDevX/openspot-music-app/issues/73) | 2 |
 | [#72 Cannot delete downloads](https://github.com/BlackHatDevX/openspot-music-app/issues/72) | 0 |

@@ -1,14 +1,15 @@
 # mattermost/mattermost
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
-- Unassigned: 11+
+- Unassigned: 10+
 - [View all unassigned issues](https://github.com/mattermost/mattermost/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#39013 [Bug]: Full email notifications omit content of attachment-only incoming webhook posts](https://github.com/mattermost/mattermost/issues/39013) | 0 |
 | [#38839 [Bug]: Rich text editor (Beta): with an inline edit open, typing or pasting outside a text box goes into the edited post instead of the message box](https://github.com/mattermost/mattermost/issues/38839) | 1 |
 | [#38818 [Docs]: The documentation mentions a 'custom emoji limit', but in the code this doesn't seem to exist](https://github.com/mattermost/mattermost/issues/38818) | 1 |
 | [#38814 [Bug]: Middle mouse clicking an image and canceling the tab causes application crash](https://github.com/mattermost/mattermost/issues/38814) | 1 |
@@ -18,5 +19,3 @@ Most recently opened:
 | [#38767 [Bug]: Invisible text cursor in light theme on Windows desktop app (OS dark mode conflict)](https://github.com/mattermost/mattermost/issues/38767) | 0 |
 | [#38753 [Bug]: generated link and webpage for invite user indicates "invalid link" in firefox but works with Chrome](https://github.com/mattermost/mattermost/issues/38753) | 1 |
 | [#38686 Plugin API: add sidebar category deletion](https://github.com/mattermost/mattermost/issues/38686) | 1 |
-| [#38673 [Bug]: Real-time message delivery and unread badge broken on web client](https://github.com/mattermost/mattermost/issues/38673) | 1 |
-| [#38669 [Bug]: Connected Workspaces shared-channel member sync fails when RestrictCreationToDomains is enabled](https://github.com/mattermost/mattermost/issues/38669) | 1 |

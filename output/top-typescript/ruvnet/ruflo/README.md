@@ -1,19 +1,22 @@
 # ruvnet/ruflo
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 46+
+- Unassigned: 40+
 - [View all unassigned issues](https://github.com/ruvnet/ruflo/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#3883 Follow-up to #3693: other read-write SQLite opens still use the CLI's own better-sqlite3 copy](https://github.com/ruvnet/ruflo/issues/3883) | 0 |
+| [#3878 [Dream Cycle 2026-10-07] intelligence: EWC regularization is a silent no-op in all 3 SONA modes, even after pending #3622 lands + capabilities,memory scan](https://github.com/ruvnet/ruflo/issues/3878) | 0 |
+| [#3834 [Dream Cycle 2026-10-06] security: settings.json risk scanner wired into hooks session-restore (scoped) + intelligence,swarm scan](https://github.com/ruvnet/ruflo/issues/3834) | 0 |
+| [#3816 ruflo-console: a minted x.ruv.io invite reaches Claude via console_state; guidance errors draw OSC/bidi escapes; tag characters reach a submitted prompt](https://github.com/ruvnet/ruflo/issues/3816) | 1 |
+| [#3807 Decisions needed after the ruflo-mods 0.3.12 executed QA pass (9 items)](https://github.com/ruvnet/ruflo/issues/3807) | 1 |
+| [#3785 Decisions needed after the v3.52.0 mod hardening run](https://github.com/ruvnet/ruflo/issues/3785) | 0 |
 | [#3753 [Dream Cycle 2026-10-05] performance: mmrRerank incremental running-max cache, O(limit^2 x N) -> O(limit x N) + security,hive-mind scan](https://github.com/ruvnet/ruflo/issues/3753) | 0 |
-| [#3736 Failed to install ruflo via bun](https://github.com/ruvnet/ruflo/issues/3736) | 0 |
-| [#3693 Mixed native SQLite copies can detach a live AgentDB handle during graph writer idle close](https://github.com/ruvnet/ruflo/issues/3693) | 2 |
-| [#3692 System-prefix embedding cache is unwritable for runtime users; mock fallback stays cached](https://github.com/ruvnet/ruflo/issues/3692) | 0 |
-| [#3691 agentdb_pattern-store ignores failed storeEntry result and falsely acknowledges persistence](https://github.com/ruvnet/ruflo/issues/3691) | 2 |
+| [#3692 System-prefix embedding cache is unwritable for runtime users; mock fallback stays cached](https://github.com/ruvnet/ruflo/issues/3692) | 2 |
 | [#3688 ruflo-swarm 0.3.1 function-hook modules manifest is rejected by native Codex hook discovery](https://github.com/ruvnet/ruflo/issues/3688) | 1 |
 | [#3686 bug(memory): match each cache key independently during invalidation](https://github.com/ruvnet/ruflo/issues/3686) | 0 |
 | [#3684 bug(embeddings): serialize persistent cache initialization](https://github.com/ruvnet/ruflo/issues/3684) | 0 |
@@ -44,14 +47,5 @@ Most recently opened:
 | [#3560 swarm/consensus: ByzantineConsensus rejects unanimous votes for n ≤ 2 and stalls on one crash for n = 3](https://github.com/ruvnet/ruflo/issues/3560) | 1 |
 | [#3558 plugins: cost-tracker, adr and metaharness run `npx @claude-flow/cli@latest` instead of the installed ruflo when installed from the marketplace](https://github.com/ruvnet/ruflo/issues/3558) | 2 |
 | [#3548 hooks_intelligence_attention: mode "hyperbolic" has no implementation and returns a misleading "Install @ruvector/attention" stub note](https://github.com/ruvnet/ruflo/issues/3548) | 1 |
-| [#3547 daemon: `daemon start --workers` is ignored; the selection never reaches WorkerDaemon (#1968 follow-up)](https://github.com/ruvnet/ruflo/issues/3547) | 1 |
+| [#3547 daemon: `daemon start --workers` is ignored; the selection never reaches WorkerDaemon (#1968 follow-up)](https://github.com/ruvnet/ruflo/issues/3547) | 2 |
 | [#3542 npx init is generating error](https://github.com/ruvnet/ruflo/issues/3542) | 1 |
-| [#3538 [Dream Cycle 2026-09-29] swarm: spawnAgent() auto-domain branch skips pool.add() + ruview,ruvector-integration scan](https://github.com/ruvnet/ruflo/issues/3538) | 0 |
-| [#3532 🔄 Rollback Incident: [Brief Description]](https://github.com/ruvnet/ruflo/issues/3532) | 1 |
-| [#3529 test: init-memory-package-resolver-2545 fails whenever vitest runs through pnpm's bin shim (NODE_PATH exposes the workspace's own @claude-flow/memory)](https://github.com/ruvnet/ruflo/issues/3529) | 1 |
-| [#3527 init: every `ruflo init` pins "model": "claude-sonnet-5" in .claude/settings.json, overriding the user's own model (the repo's own settings.json does too)](https://github.com/ruvnet/ruflo/issues/3527) | 1 |
-| [#3518 feat: durable missions with typed waits and explicit side-effect reconciliation](https://github.com/ruvnet/ruflo/issues/3518) | 1 |
-| [#3516 [Dream Cycle 2026-09-28] memory: mmrRerank() cosine running-max-cache + plugins,automation scan](https://github.com/ruvnet/ruflo/issues/3516) | 0 |
-| [#3511 ReDoS hang in analyze circular/modules/boundaries/dependencies; security scan -o json/sarif silently ignored](https://github.com/ruvnet/ruflo/issues/3511) | 1 |
-| [#3509 mcp-bridge: opt-in `codex` backend still launches `@openai/codex mcp-server`, which current Codex CLI no longer has](https://github.com/ruvnet/ruflo/issues/3509) | 3 |
-| [#3508 Read-only memory route/peek: which stores a cwd resolves to, their rows and last write, without creating anything](https://github.com/ruvnet/ruflo/issues/3508) | 2 |

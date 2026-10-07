@@ -1,14 +1,14 @@
 {
   "title": "Top TypeScript Projects",
-  "generated_at": "2026-10-05T11:14:10.672067+00:00",
+  "generated_at": "2026-10-07T10:53:26.616234+00:00",
   "repos": [
     {
       "repo": "n8n-io/n8n",
-      "unassigned": "8+"
+      "unassigned": "6+"
     },
     {
       "repo": "microsoft/vscode",
-      "unassigned": "60+"
+      "unassigned": "54+"
     },
     {
       "repo": "f/prompts.chat",
@@ -16,35 +16,35 @@
     },
     {
       "repo": "langchain-ai/langchain",
-      "unassigned": "81+"
+      "unassigned": "77+"
     },
     {
       "repo": "immich-app/immich",
-      "unassigned": "45+"
+      "unassigned": "33+"
     },
     {
       "repo": "microsoft/TypeScript",
-      "unassigned": "49+"
+      "unassigned": "37+"
     },
     {
       "repo": "denoland/deno",
-      "unassigned": "48+"
+      "unassigned": "50+"
     },
     {
       "repo": "angular/angular",
-      "unassigned": "31+"
+      "unassigned": "34+"
     },
     {
       "repo": "ant-design/ant-design",
-      "unassigned": "13+"
+      "unassigned": "14+"
     },
     {
       "repo": "ruvnet/RuView",
-      "unassigned": "23+"
+      "unassigned": "11+"
     },
     {
       "repo": "oven-sh/bun",
-      "unassigned": "39+"
+      "unassigned": "59+"
     },
     {
       "repo": "storybookjs/storybook",
@@ -52,15 +52,15 @@
     },
     {
       "repo": "mermaid-js/mermaid",
-      "unassigned": "17+"
+      "unassigned": "16+"
     },
     {
       "repo": "bytedance/deer-flow",
-      "unassigned": "32+"
+      "unassigned": "40+"
     },
     {
       "repo": "nestjs/nest",
-      "unassigned": 13
+      "unassigned": 12
     },
     {
       "repo": "enaqx/awesome-react",
@@ -68,11 +68,11 @@
     },
     {
       "repo": "headroomlabs-ai/headroom",
-      "unassigned": "34+"
+      "unassigned": "43+"
     },
     {
       "repo": "ruvnet/ruflo",
-      "unassigned": "46+"
+      "unassigned": "40+"
     },
     {
       "repo": "unionlabs/union",
@@ -80,7 +80,7 @@
     },
     {
       "repo": "strapi/strapi",
-      "unassigned": "16+"
+      "unassigned": "19+"
     }
   ]
 }

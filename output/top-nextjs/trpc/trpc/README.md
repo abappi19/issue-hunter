@@ -1,8 +1,8 @@
 # trpc/trpc
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 28+
+- Unassigned: 25+
 - [View all unassigned issues](https://github.com/trpc/trpc/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -13,7 +13,6 @@ Most recently opened:
 | [#7596 bug: [Docs] Next.js Integration documentation references deprecated prefetch functions](https://github.com/trpc/trpc/issues/7596) | 1 |
 | [#7502 bug: PING sent twice when keepAlive is enabled in fastifyTRPCPlugin](https://github.com/trpc/trpc/issues/7502) | 2 |
 | [#7446 bug: multipart/form-data procedures fail behind express 5 body parsers ("Failed to parse body as FormData")](https://github.com/trpc/trpc/issues/7446) | 0 |
-| [#7441 Add minia2a — x402 marketplace for AI agent API monetization](https://github.com/trpc/trpc/issues/7441) | 0 |
 | [#7439 wsLink: AbortSignal on operations is ignored — abort does not cancel in-flight requests or subscriptions](https://github.com/trpc/trpc/issues/7439) | 0 |
 | [#7436 feat: defered execution of requests. Respond to client early, but continue handling the request](https://github.com/trpc/trpc/issues/7436) | 0 |
 | [#7378 Enhancement: middleware context type should be inferred from multiple middlewares](https://github.com/trpc/trpc/issues/7378) | 1 |
@@ -35,5 +34,3 @@ Most recently opened:
 | [#6977 bug: onError not reporting original error](https://github.com/trpc/trpc/issues/6977) | 2 |
 | [#6971 feat: support WebTransport](https://github.com/trpc/trpc/issues/6971) | 1 |
 | [#6950 feat: support using fetchEventSource for subscriptions](https://github.com/trpc/trpc/issues/6950) | 7 |
-| [#6947 feat: Distinguish handled and unhandled exceptions](https://github.com/trpc/trpc/issues/6947) | 3 |
-| [#6936 feat: customize lastEventId input field name](https://github.com/trpc/trpc/issues/6936) | 1 |

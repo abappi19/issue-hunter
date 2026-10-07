@@ -1,22 +1,27 @@
 # angular/angular
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 31+
+- Unassigned: 34+
 - [View all unassigned issues](https://github.com/angular/angular/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#71182 Angular Router can restart navigation forever when a guard returns a redirect cycle, wedging SSR workers](https://github.com/angular/angular/issues/71182) | 0 |
-| [#71181 docs: Usage of signals outside of signal form to drive rules?](https://github.com/angular/angular/issues/71181) | 0 |
+| [#71220 An effect that destroys itself keeps tracking the signals it reads afterwards](https://github.com/angular/angular/issues/71220) | 0 |
+| [#71219 Angular i18n markers in a translation can overwrite an existing `TNode` and disable sanitization](https://github.com/angular/angular/issues/71219) | 1 |
+| [#71216 Security: distinct HTML attributes stall Angular SSR workers during sanitization](https://github.com/angular/angular/issues/71216) | 0 |
+| [#71212 docs: ARIA Tabs and Accordion guides state the wrong preserveContent default](https://github.com/angular/angular/issues/71212) | 0 |
+| [#71210 feat(router/testing): Add navigate method to RouterTestingHarness](https://github.com/angular/angular/issues/71210) | 1 |
+| [#71207 Declarative URL-scoped groups of HTTP interceptors](https://github.com/angular/angular/issues/71207) | 3 |
+| [#71198 docs: Forms Overview lacks equal signal forms consideration](https://github.com/angular/angular/issues/71198) | 0 |
+| [#71197 docs: mention `set` of `linkedSignal` in its Skill](https://github.com/angular/angular/issues/71197) | 0 |
+| [#71195 Deeply nested HTML stalls Angular SSR worker during sanitization](https://github.com/angular/angular/issues/71195) | 0 |
 | [#71178 docs: route resource params reading queryParams()['key'] inline still refetches on unrelated query changes (22.2.0)](https://github.com/angular/angular/issues/71178) | 1 |
-| [#71172 NG8011 is reported when an `@let` declaration is next to the projected node of a control flow block](https://github.com/angular/angular/issues/71172) | 0 |
 | [#71164 docs/skills: no `getErrors()` example for signal forms](https://github.com/angular/angular/issues/71164) | 0 |
-| [#71162 Inline `<svg>` at the root of a control flow block is not matched by an `ng-content` tag selector](https://github.com/angular/angular/issues/71162) | 0 |
 | [#71160 Support [disabled] attribute on [formField] inputs](https://github.com/angular/angular/issues/71160) | 1 |
-| [#71155 Reactive Forms: formControlName with no matching control crashes in production with a raw TypeError](https://github.com/angular/angular/issues/71155) | 8 |
+| [#71155 Reactive Forms: formControlName with no matching control crashes in production with a raw TypeError](https://github.com/angular/angular/issues/71155) | 10 |
 | [#71149 Signal forms: submit() runs the action before debounced child values are synced](https://github.com/angular/angular/issues/71149) | 0 |
 | [#71147 bug(schematics): signal queries/style schematics run more than once](https://github.com/angular/angular/issues/71147) | 0 |
 | [#71138 Hydration cleanup mutates arrays stored in @let when the @let is read from a nested view](https://github.com/angular/angular/issues/71138) | 2 |
@@ -26,7 +31,6 @@ Most recently opened:
 | [#71093 Private members used only in the template are reported as unused (TS6133)](https://github.com/angular/angular/issues/71093) | 0 |
 | [#71092 Document the NG0904 error](https://github.com/angular/angular/issues/71092) | 0 |
 | [#71089 WritableResource composition](https://github.com/angular/angular/issues/71089) | 2 |
-| [#71073 Clarify Zed support status in Angular Language Service documentation](https://github.com/angular/angular/issues/71073) | 1 |
 | [#71066 Provide an option to control template access to TypeScript private members](https://github.com/angular/angular/issues/71066) | 15 |
 | [#71056 request| feat(form): Ability to programmatically submit a SignalForm](https://github.com/angular/angular/issues/71056) | 1 |
 | [#71050 Nested `&` selectors inside `:host` get `_ngcontent` attribute and no longer match (regression in 22.2.0)](https://github.com/angular/angular/issues/71050) | 0 |
@@ -39,4 +43,3 @@ Most recently opened:
 | [#70927 Expose template source locations in dev mode to jump from the DOM to the template](https://github.com/angular/angular/issues/70927) | 1 |
 | [#70926 Angular SSR: Domino active formatting reconstruction can cause heap exhaustion](https://github.com/angular/angular/issues/70926) | 2 |
 | [#70923 Destroying a transplanted view twice removes another live view from change detection](https://github.com/angular/angular/issues/70923) | 0 |
-| [#70919 Route-level resources: feedback on previous-value semantics, parallel loads, typed errors, and input type safety](https://github.com/angular/angular/issues/70919) | 1 |

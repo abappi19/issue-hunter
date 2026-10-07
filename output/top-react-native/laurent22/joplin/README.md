@@ -1,21 +1,24 @@
 # laurent22/joplin
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
-- Unassigned: 82+
+- Unassigned: 86+
 - [View all unassigned issues](https://github.com/laurent22/joplin/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#16778 MCP: return the enclosing section with each `search_notes` result](https://github.com/laurent22/joplin/issues/16778) | 0 |
+| [#16777 Update MCP tool `read_note` to reduce token consumption](https://github.com/laurent22/joplin/issues/16777) | 1 |
+| [#16758 Stop external editing when a note is locked on another device](https://github.com/laurent22/joplin/issues/16758) | 0 |
 | [#16750 Web: Decrypting sync items is slow](https://github.com/laurent22/joplin/issues/16750) | 0 |
 | [#16745 Table editor: Pressing Enter during IME composition blurs cell and inserts text outside table](https://github.com/laurent22/joplin/issues/16745) | 0 |
-| [#16743 AI Chat: inconsistent behaviour for private-network providers](https://github.com/laurent22/joplin/issues/16743) | 0 |
-| [#16734 iOS: Double selection in Markdown editor](https://github.com/laurent22/joplin/issues/16734) | 2 |
+| [#16743 AI Chat: inconsistent behaviour for private-network providers](https://github.com/laurent22/joplin/issues/16743) | 1 |
+| [#16734 iOS: Double selection in Markdown editor](https://github.com/laurent22/joplin/issues/16734) | 3 |
 | [#16733 iOS: Selection handles sometimes styled inconsistently or cut off near the start/end of notes](https://github.com/laurent22/joplin/issues/16733) | 0 |
 | [#16721 Desktop: Upgrade app banner shows the wrong minimum app version](https://github.com/laurent22/joplin/issues/16721) | 2 |
-| [#16720 Joplin editor will alway "eat" space between "##", "*" and non-English.](https://github.com/laurent22/joplin/issues/16720) | 1 |
+| [#16720 Joplin editor will alway "eat" space between "##", "*" and non-English.](https://github.com/laurent22/joplin/issues/16720) | 2 |
 | [#16716 Problem with the option descriptions in settings](https://github.com/laurent22/joplin/issues/16716) | 0 |
 | [#16697 Updating the Viewer font size does not reflect in the notes text](https://github.com/laurent22/joplin/issues/16697) | 0 |
 | [#16691 Joplin becomes very laggy/sluggish after enabling the AI feature, while the rest of the system remains responsive.](https://github.com/laurent22/joplin/issues/16691) | 3 |
@@ -34,13 +37,10 @@ Most recently opened:
 | [#16638 Matched underscores disappear from note titles when typing the title](https://github.com/laurent22/joplin/issues/16638) | 3 |
 | [#16630 Vim mode: Cursor wraps to top when pressing "j" at the end of file](https://github.com/laurent22/joplin/issues/16630) | 0 |
 | [#16625 Mobile: Update appearance of notebook picker in note editor](https://github.com/laurent22/joplin/issues/16625) | 0 |
-| [#16615 Android: Can't access note body with screen reader](https://github.com/laurent22/joplin/issues/16615) | 2 |
 | [#16610 Mobile: Note title is not displayed correctly, the top part is hidden](https://github.com/laurent22/joplin/issues/16610) | 8 |
 | [#16605 Duplicate clipboard entries when copying formatted text from WYSIWYG editor](https://github.com/laurent22/joplin/issues/16605) | 0 |
-| [#16603 Add documentation for auto-merge and Resolution UI](https://github.com/laurent22/joplin/issues/16603) | 0 |
 | [#16598 Sharing on Android into Joplin works once, then Joplin gets stuck in a state where we cannot share again until we exit Joplin (screencast provided)](https://github.com/laurent22/joplin/issues/16598) | 1 |
 | [#16596 [Bug] AI Chat fails with OpenAI-compatible provider on vLLM](https://github.com/laurent22/joplin/issues/16596) | 0 |
-| [#16589 iOS app fails to start when built with XCode 27: "UIScene life cycle is required"](https://github.com/laurent22/joplin/issues/16589) | 0 |
 | [#16585 Low contrast when entering access code during sync setup](https://github.com/laurent22/joplin/issues/16585) | 0 |
 | [#16578 The whiteboard is exported as raw JSON/source code instead of a rendered note.](https://github.com/laurent22/joplin/issues/16578) | 2 |
 | [#16574 No Focus when creating new task or note](https://github.com/laurent22/joplin/issues/16574) | 0 |
@@ -72,7 +72,6 @@ Most recently opened:
 | [#16371 Error importing notes from format: one](https://github.com/laurent22/joplin/issues/16371) | 1 |
 | [#16370 install script doesent work](https://github.com/laurent22/joplin/issues/16370) | 3 |
 | [#16367 OCR text is not searched on Android](https://github.com/laurent22/joplin/issues/16367) | 1 |
-| [#16348 Markdown & HTML Exporters fail to convert joplin:// URI links to relative paths during export](https://github.com/laurent22/joplin/issues/16348) | 1 |
 | [#16346 Markdown interactive table editor should be horizontally scrollable instead of wrapped](https://github.com/laurent22/joplin/issues/16346) | 3 |
 | [#16344 Plugin updates blocked after repository URL change for com.dejoyf.inlineTodoGui](https://github.com/laurent22/joplin/issues/16344) | 1 |
 | [#16336 Disallow locked notes in shared notebooks](https://github.com/laurent22/joplin/issues/16336) | 2 |
@@ -91,3 +90,8 @@ Most recently opened:
 | [#16265 [Feature Request] Add MCP endpoint to joplin/server (headless mode)](https://github.com/laurent22/joplin/issues/16265) | 3 |
 | [#16262 Cannot destructure property 'tile' of 'l.pop(...)' as it is undefined.](https://github.com/laurent22/joplin/issues/16262) | 2 |
 | [#16241 Android: shared attachments open inside Joplin's task instead of as their own app](https://github.com/laurent22/joplin/issues/16241) | 3 |
+| [#16240 Android: attached files are stored as `application/octet-stream`, ignoring the file extension](https://github.com/laurent22/joplin/issues/16240) | 0 |
+| [#16239 Desktop: Conflict Resolution  UI](https://github.com/laurent22/joplin/issues/16239) | 2 |
+| [#16233 Whiteboard: When a whiteboard note is trashed, the whiteboard is fully editable instead of being readonly](https://github.com/laurent22/joplin/issues/16233) | 1 |
+| [#16210 [Bug] macOS tray startup creates blank fullscreen Space](https://github.com/laurent22/joplin/issues/16210) | 2 |
+| [#16178 Desktop: Changing profile in the primary instance in Joplin kills the secondary instance](https://github.com/laurent22/joplin/issues/16178) | 0 |

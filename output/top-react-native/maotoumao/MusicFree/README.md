@@ -1,14 +1,15 @@
 # maotoumao/MusicFree
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
-- Unassigned: 93+
+- Unassigned: 92+
 - [View all unassigned issues](https://github.com/maotoumao/MusicFree/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#668 webdav无法2次上传覆盖](https://github.com/maotoumao/MusicFree/issues/668) | 0 |
 | [#661 增加不喜欢列表和蓝牙歌词适配](https://github.com/maotoumao/MusicFree/issues/661) | 0 |
 | [#658 希望加上与其他应用一起播放的设置](https://github.com/maotoumao/MusicFree/issues/658) | 0 |
 | [#657 随机播放音乐，听一阵后就不能切换下一首了。我觉得是随机到最后后，没有做重新循环的逻辑。](https://github.com/maotoumao/MusicFree/issues/657) | 0 |
@@ -100,5 +101,3 @@ Most recently opened:
 | [#503 状态栏歌词](https://github.com/maotoumao/MusicFree/issues/503) | 0 |
 | [#502 歌词音译](https://github.com/maotoumao/MusicFree/issues/502) | 0 |
 | [#501 歌单管理:建议歌单编辑可以搜索指定的文件夹下的音频](https://github.com/maotoumao/MusicFree/issues/501) | 1 |
-| [#500 可以添加K歌功能吗](https://github.com/maotoumao/MusicFree/issues/500) | 0 |
-| [#499 本地歌曲显示、播放时调整音高(变调)](https://github.com/maotoumao/MusicFree/issues/499) | 0 |

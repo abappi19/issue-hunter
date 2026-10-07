@@ -1,17 +1,24 @@
 # denoland/deno
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 48+
+- Unassigned: 50+
 - [View all unassigned issues](https://github.com/denoland/deno/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#36980 Make the search setter keep searchParams in sync with the query](https://github.com/denoland/deno/issues/36980) | 1 |
+| [#36978 Expose the `--mangle-props` option from `esbuild` in `Deno.bundle`.](https://github.com/denoland/deno/issues/36978) | 0 |
+| [#36975 Upgrade the zstd version used by deno-node.](https://github.com/denoland/deno/issues/36975) | 0 |
+| [#36973 deno desktop: preventDefault() on BrowserWindow "close" event does not keep the window open](https://github.com/denoland/deno/issues/36973) | 0 |
+| [#36972 OTel log export replaces Latin-1 characters with U+FFFD when the console line has no character above U+00FF](https://github.com/denoland/deno/issues/36972) | 1 |
+| [#36970 `--watch` restart doesn't kill child processes that were `unref()`'d (leaks one per restart)](https://github.com/denoland/deno/issues/36970) | 4 |
+| [#36966 Deno.serve: request body read alongside a streamed response stops and never resumes (HTTP/1.1)](https://github.com/denoland/deno/issues/36966) | 0 |
+| [#36965 node:https: after piping a ranged `fs.createReadStream()` that is read in one chunk, the next request on the same keep-alive connection is never answered](https://github.com/denoland/deno/issues/36965) | 0 |
 | [#36961 deno lint --fix resets file permissions](https://github.com/denoland/deno/issues/36961) | 0 |
-| [#36960 Missing HTTP_STATUS_* constants in node:http2.constants polyfill](https://github.com/denoland/deno/issues/36960) | 0 |
-| [#36959 zsh: `deno -A` + `Tab` filename completions broken](https://github.com/denoland/deno/issues/36959) | 0 |
+| [#36960 Missing HTTP_STATUS_* constants in node:http2.constants polyfill](https://github.com/denoland/deno/issues/36960) | 1 |
 | [#36954 `deno publish --dry-run` does not check for `actorNotScopeMember`](https://github.com/denoland/deno/issues/36954) | 0 |
 | [#36953 bug: if socket polluted, it leads to an internal error](https://github.com/denoland/deno/issues/36953) | 0 |
 | [#36950 Deno Desktop: upstreaming a series of fixes and features (stable app origin, deep links, window API, …)](https://github.com/denoland/deno/issues/36950) | 2 |
@@ -36,7 +43,7 @@ Most recently opened:
 | [#36896 deno desktop - since macOS 27.0 in dev & webview only windows open with white screen for short period before page rendered.](https://github.com/denoland/deno/issues/36896) | 0 |
 | [#36891 Install matching `@types/*` packages with `--save-types` flag and `saveTypes` option](https://github.com/denoland/deno/issues/36891) | 0 |
 | [#36889 Could not find standalone binary section in dylib](https://github.com/denoland/deno/issues/36889) | 0 |
-| [#36885 Feature request: Support OpenBSD in deno compile](https://github.com/denoland/deno/issues/36885) | 0 |
+| [#36885 Feature request: Support OpenBSD in deno compile](https://github.com/denoland/deno/issues/36885) | 1 |
 | [#36877 Setting target.on<event> = null does not remove listener from EventTarget (hangs AbortSignal.timeout)](https://github.com/denoland/deno/issues/36877) | 1 |
 | [#36876 Support for async `describe` body in `node:test`](https://github.com/denoland/deno/issues/36876) | 2 |
 | [#36874 deno fmt breaks "definition lists" in markdown](https://github.com/denoland/deno/issues/36874) | 1 |
@@ -52,8 +59,3 @@ Most recently opened:
 | [#36850 node:http2 client: 'end' is lost on empty-body (204/HEAD/304) responses when listeners attach after 'response'](https://github.com/denoland/deno/issues/36850) | 0 |
 | [#36841 `Module.registerHooks` never populates `format`, so hooks cannot tell CommonJS from ESM](https://github.com/denoland/deno/issues/36841) | 3 |
 | [#36834 deno x npm:pagefind seemingly fails silently (doesn't spawn child process?)](https://github.com/denoland/deno/issues/36834) | 1 |
-| [#36833 HTTP/2 server: advertise SETTINGS_ENABLE_CONNECT_PROTOCOL for WebSocket-over-h2 (RFC 8441 server side)](https://github.com/denoland/deno/issues/36833) | 0 |
-| [#36832 RUST_BACKTRACE=1 prints a useless Rust stack backtrace on ordinary `deno test` failures](https://github.com/denoland/deno/issues/36832) | 2 |
-| [#36830 deno desktop --allow-net support](https://github.com/denoland/deno/issues/36830) | 0 |
-| [#36829 deno pack warns for a fully typed private runtime module with no public declaration dependency](https://github.com/denoland/deno/issues/36829) | 0 |
-| [#36824 Missing uv_get_osfhandle export causes a crash](https://github.com/denoland/deno/issues/36824) | 0 |

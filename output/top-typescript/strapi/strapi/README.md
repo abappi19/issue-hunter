@@ -1,14 +1,18 @@
 # strapi/strapi
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 16+
+- Unassigned: 19+
 - [View all unassigned issues](https://github.com/strapi/strapi/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#27946 Upgrading to 5.53 made existing content unsaveable (links protocol validation failure)](https://github.com/strapi/strapi/issues/27946) | 6 |
+| [#27944 Document Service resolves and validates relations concurrently on one transaction connection (node-postgres deprecation, the write-path twin of #27645)](https://github.com/strapi/strapi/issues/27944) | 2 |
+| [#27939 addRichTextBlocks custom nodes fail publish: "Block node is of invalid type"](https://github.com/strapi/strapi/issues/27939) | 0 |
+| [#27933 Admin panel breaks on non-latest versions: plugins' ^5.0.0 peer on @strapi/admin installs a second copy](https://github.com/strapi/strapi/issues/27933) | 1 |
 | [#27911 Server code requires the types-only @strapi/types package at runtime, keeping it and typedoc in every production install](https://github.com/strapi/strapi/issues/27911) | 0 |
 | [#27891 Relation shorthand treats documentIds that start with a digit as numeric ids (parseInt in isNumeric)](https://github.com/strapi/strapi/issues/27891) | 2 |
 | [#27882 DELETE /auth/sessions/:sessionId does not declare its path param, so strapi openapi generate emits an invalid spec](https://github.com/strapi/strapi/issues/27882) | 2 |
@@ -24,4 +28,3 @@ Most recently opened:
 | [#27761 Media Library: cropping right after "Replace media" breaks because the cache-busting param is appended to the blob: URL](https://github.com/strapi/strapi/issues/27761) | 4 |
 | [#27749 aws s3 codemods should create s3Options key](https://github.com/strapi/strapi/issues/27749) | 1 |
 | [#27745 Published `.d.ts` files import undeclared modules, so consumer types silently become `any` on non-hoisted installs](https://github.com/strapi/strapi/issues/27745) | 3 |
-| [#27722 Content Release shows stale 'Blocked' status and still publishes despite it — isEntryValid cache is never revalidated at publish time](https://github.com/strapi/strapi/issues/27722) | 2 |

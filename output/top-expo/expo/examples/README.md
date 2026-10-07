@@ -1,8 +1,8 @@
 # expo/examples
 
-Generated: 2026-10-05T11:14:53.347924+00:00
+Generated: 2026-10-07T10:54:09.574341+00:00
 
-- Unassigned: 72+
+- Unassigned: 71+
 - [View all unassigned issues](https://github.com/expo/examples/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -12,11 +12,7 @@ Most recently opened:
 | [#708 create-expo-app with with-tv example fails on Windows (ENOENT + ERR_INVALID_ARG_TYPE)](https://github.com/expo/examples/issues/708) | 0 |
 | [#703 Template shadcn is not working](https://github.com/expo/examples/issues/703) | 1 |
 | [#690 Package dependency issue with react-three-fiber example](https://github.com/expo/examples/issues/690) | 1 |
-| [#689 فاتن الاحترافي 
-](https://github.com/expo/examples/issues/689) | 1 |
 | [#685 Package dependency issue when installing TV Router example](https://github.com/expo/examples/issues/685) | 0 |
-| [#681 App](https://github.com/expo/examples/issues/681) | 0 |
-| [#680 Azhar](https://github.com/expo/examples/issues/680) | 0 |
 | [#679 https://runner-x--rai661361.replit.app](https://github.com/expo/examples/issues/679) | 0 |
 | [#676 AI Music Remix Studio with Expo](https://github.com/expo/examples/issues/676) | 0 |
 | [#674 I’m creating a utility app for the iOS platform. Can you guys help me decide which package I should use instead of the installed one, or which option is better for achieving a real SwiftUI feel and smooth user experience?](https://github.com/expo/examples/issues/674) | 0 |
@@ -82,3 +78,5 @@ Most recently opened:
 | [#285 next-adapter example (MacOSX)](https://github.com/expo/examples/issues/285) | 1 |
 | [#281 @react-navigation/core/lib/module/useTheme.js](https://github.com/expo/examples/issues/281) | 1 |
 | [#268 model.estimateFace is returning empty predictions.](https://github.com/expo/examples/issues/268) | 0 |
+| [#266 Twitter example not working with v41](https://github.com/expo/examples/issues/266) | 0 |
+| [#264 Expo yarn workspaces setup doesn't work for web](https://github.com/expo/examples/issues/264) | 10 |

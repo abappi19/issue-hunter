@@ -1,6 +1,6 @@
 # refinedev/refine
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
 - Unassigned: 22
 - [View all unassigned issues](https://github.com/refinedev/refine/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -16,7 +16,7 @@ Most recently opened:
 | [#7615 [BUG] useImport imports an empty record when the csv file ends with a line break](https://github.com/refinedev/refine/issues/7615) | 1 |
 | [#7613 [BUG] simple-rest deleteOne sends wrong body and drops headers when meta.method is post/put/patch](https://github.com/refinedev/refine/issues/7613) | 0 |
 | [#7612 Suggestion: Add a social preview image for repo sharing](https://github.com/refinedev/refine/issues/7612) | 0 |
-| [#7608 [DOC] Fix broken Tutorial link under Next Steps](https://github.com/refinedev/refine/issues/7608) | 2 |
+| [#7608 [DOC] Fix broken Tutorial link under Next Steps](https://github.com/refinedev/refine/issues/7608) | 3 |
 | [#7607 `spring` returns `NaN` and breaks physics simulation when `config` has `undefined` properties](https://github.com/refinedev/refine/issues/7607) | 2 |
 | [#7606 `delayRender` immediately cancels render with negative timeout when `timeoutInMilliseconds <= 2000`](https://github.com/refinedev/refine/issues/7606) | 1 |
 | [#7605 parseSrt crashes with unhandled TypeError on leading blank lines, whitespace, or comments](https://github.com/refinedev/refine/issues/7605) | 2 |

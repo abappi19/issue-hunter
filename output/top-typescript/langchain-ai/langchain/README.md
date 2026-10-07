@@ -1,40 +1,45 @@
 # langchain-ai/langchain
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 81+
+- Unassigned: 77+
 - [View all unassigned issues](https://github.com/langchain-ai/langchain/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#41085 ollama: `ChatOllama` sends tool results without `tool_name`, so models see them as an unknown tool](https://github.com/langchain-ai/langchain/issues/41085) | 3 |
+| [#41066 langchain-classic: importing a moved agent from `agent_toolkits` raises `ValueError` instead of `ImportError`](https://github.com/langchain-ai/langchain/issues/41066) | 2 |
+| [#41064 core: docstring examples import from nonexistent modules (output_parser, runnable, documents.Blob)](https://github.com/langchain-ai/langchain/issues/41064) | 1 |
+| [#41060 Add SiaMesh x402 Secure Scraper Tool](https://github.com/langchain-ai/langchain/issues/41060) | 0 |
+| [#41051 @wrap_tool_call loses custom ContextT and becomes incompatible with create_agent(context_schema=...)](https://github.com/langchain-ai/langchain/issues/41051) | 2 |
 | [#41029 [Feature] Security Docs: Add Runtime Security Middleware for Agents (Prompt/Command Injection)](https://github.com/langchain-ai/langchain/issues/41029) | 4 |
-| [#41028 docs(langchain): `CodexSandboxExecutionPolicy` docstring attributes macOS Seatbelt to Anthropic](https://github.com/langchain-ai/langchain/issues/41028) | 3 |
-| [#41027 PIIMiddleware `url` detector redacts version numbers, ratios and dotted identifiers ("Node.js/Express", "1.5/2.0", "python3.12/site-packages") as URLs](https://github.com/langchain-ai/langchain/issues/41027) | 2 |
-| [#41026 FilesystemFileSearchMiddleware: `grep_search` swallows ripgrep errors and reports "No matches found"; Python fallback never runs and `max_file_size_mb` is ignored on the ripgrep path](https://github.com/langchain-ai/langchain/issues/41026) | 5 |
+| [#41028 docs(langchain): `CodexSandboxExecutionPolicy` docstring attributes macOS Seatbelt to Anthropic](https://github.com/langchain-ai/langchain/issues/41028) | 4 |
+| [#41027 PIIMiddleware `url` detector redacts version numbers, ratios and dotted identifiers ("Node.js/Express", "1.5/2.0", "python3.12/site-packages") as URLs](https://github.com/langchain-ai/langchain/issues/41027) | 3 |
+| [#41026 FilesystemFileSearchMiddleware: `grep_search` swallows ripgrep errors and reports "No matches found"; Python fallback never runs and `max_file_size_mb` is ignored on the ripgrep path](https://github.com/langchain-ai/langchain/issues/41026) | 6 |
 | [#41025 ModelRetryMiddleware / ToolRetryMiddleware: `retry_on=SomeError` (a bare class) retries every exception](https://github.com/langchain-ai/langchain/issues/41025) | 3 |
-| [#41021 core: `convert_to_openai_messages` raises `KeyError: 'type'` for any content block without a `type` key](https://github.com/langchain-ai/langchain/issues/41021) | 4 |
-| [#41020 nomic: `NomicEmbeddings.embed_image` raises a bare `AssertionError` unless `vision_model` is set, and `vision_model` is rejected by type checkers](https://github.com/langchain-ai/langchain/issues/41020) | 4 |
+| [#41021 core: `convert_to_openai_messages` raises `KeyError: 'type'` for any content block without a `type` key](https://github.com/langchain-ai/langchain/issues/41021) | 5 |
+| [#41020 nomic: `NomicEmbeddings.embed_image` raises a bare `AssertionError` unless `vision_model` is set, and `vision_model` is rejected by type checkers](https://github.com/langchain-ai/langchain/issues/41020) | 6 |
 | [#41016 feat(fireworks): surface LangSmith gateway metadata on successful responses](https://github.com/langchain-ai/langchain/issues/41016) | 3 |
 | [#41010 langchain-core: is_data_content_block recomputes the block types on every call, ~23ms per ChatOpenAI payload](https://github.com/langchain-ai/langchain/issues/41010) | 3 |
-| [#40999 v3 streaming: tool-call block-delta events are snapshots, so their size grows quadratically with the tool-call arguments](https://github.com/langchain-ai/langchain/issues/40999) | 3 |
+| [#40999 v3 streaming: tool-call block-delta events are snapshots, so their size grows quadratically with the tool-call arguments](https://github.com/langchain-ai/langchain/issues/40999) | 4 |
 | [#40996 ModelFallbackMiddleware strips cache_control when falling back to ChatAnthropicMantle](https://github.com/langchain-ai/langchain/issues/40996) | 4 |
 | [#40995 langchain-openai: OpenAI() defaults to gpt-3.5-turbo-instruct (shut down Sep 28) and ChatOpenAI() to gpt-3.5-turbo (shuts down Oct 23)](https://github.com/langchain-ai/langchain/issues/40995) | 1 |
 | [#40984 feat(callbacks): In-memory Zero-Trust Data Sanitization (ZTDS) callback (IETF draft-02)](https://github.com/langchain-ai/langchain/issues/40984) | 0 |
-| [#40977 Two type contracts allow values that the implementations cannot handle or do not return as declared.](https://github.com/langchain-ai/langchain/issues/40977) | 2 |
+| [#40977 Two type contracts allow values that the implementations cannot handle or do not return as declared.](https://github.com/langchain-ai/langchain/issues/40977) | 3 |
 | [#40967 ExperimentalMarkdownSyntaxTextSplitter closes code blocks on shorter or mismatched fences](https://github.com/langchain-ai/langchain/issues/40967) | 3 |
 | [#40965 XMLOutputParser streaming drops valid Unicode root tags](https://github.com/langchain-ai/langchain/issues/40965) | 4 |
 | [#40936 langchain.mcp: support bounded same-call 401 recovery with externally managed credentials](https://github.com/langchain-ai/langchain/issues/40936) | 1 |
 | [#40935 core: Tee leaves its source open when a child is never started](https://github.com/langchain-ai/langchain/issues/40935) | 2 |
-| [#40934 langchain-typesafe: ClassifierResponse has no request id or cost when the classifier is routed through OpenRouter](https://github.com/langchain-ai/langchain/issues/40934) | 5 |
-| [#40926 ollama: `client_kwargs` is mutated in place, so URL credentials leak into the caller's dict and across model instances](https://github.com/langchain-ai/langchain/issues/40926) | 3 |
+| [#40934 langchain-typesafe: ClassifierResponse has no request id or cost when the classifier is routed through OpenRouter](https://github.com/langchain-ai/langchain/issues/40934) | 6 |
+| [#40926 ollama: `client_kwargs` is mutated in place, so URL credentials leak into the caller's dict and across model instances](https://github.com/langchain-ai/langchain/issues/40926) | 4 |
 | [#40918 core: postponed callable annotations break Runnable schemas and tool conversion](https://github.com/langchain-ai/langchain/issues/40918) | 2 |
 | [#40915 [langchain-openai] ChatOpenAI.stream() crashes on a mocked tool-call delta with a null function](https://github.com/langchain-ai/langchain/issues/40915) | 2 |
 | [#40914 ChatPerplexity.stream() crashes with TypeError](https://github.com/langchain-ai/langchain/issues/40914) | 1 |
 | [#40909 ChatOpenAI.stream() crashes on a mocked tool-call delta with null function](https://github.com/langchain-ai/langchain/issues/40909) | 1 |
-| [#40899 langchain-classic: ImportError messages for moved REPL tools link to a deleted SECURITY.md and a deleted discussion](https://github.com/langchain-ai/langchain/issues/40899) | 3 |
-| [#40897 [langchain-openai] Qwen named tool_choice is rejected when thinking mode is enabled](https://github.com/langchain-ai/langchain/issues/40897) | 2 |
+| [#40899 langchain-classic: ImportError messages for moved REPL tools link to a deleted SECURITY.md and a deleted discussion](https://github.com/langchain-ai/langchain/issues/40899) | 4 |
+| [#40897 [langchain-openai] Qwen named tool_choice is rejected when thinking mode is enabled](https://github.com/langchain-ai/langchain/issues/40897) | 3 |
 | [#40896 [langchain-openai] ChatOpenAI accepts stop for o3 and o4-mini, resulting in provider HTTP 400`](https://github.com/langchain-ai/langchain/issues/40896) | 1 |
 | [#40895 [langchain-openai] ChatOpenAI forwards unsupported sampling parameters to gpt-6-astra via Responses API](https://github.com/langchain-ai/langchain/issues/40895) | 1 |
 | [#40892 ChatAnthropic silently drops message-level output_config and clear_at from SystemMessage](https://github.com/langchain-ai/langchain/issues/40892) | 1 |
@@ -81,12 +86,3 @@ Most recently opened:
 | [#40709 LLMToolSelectorMiddleware ignores conversation history on follow-up queries](https://github.com/langchain-ai/langchain/issues/40709) | 2 |
 | [#40704 PIIMiddleware inspects only the newest message of each kind, so PII in supplied history reaches the model and block does not raise](https://github.com/langchain-ai/langchain/issues/40704) | 4 |
 | [#40700 langchain-typesafe: ModelRouterMiddleware overrides ModelFallbackMiddleware fallback models](https://github.com/langchain-ai/langchain/issues/40700) | 2 |
-| [#40694 langchain-typesafe: AutoModeMiddleware classifies a tool call that inner middleware can replace before execution](https://github.com/langchain-ai/langchain/issues/40694) | 3 |
-| [#40688 `ToolRetryMiddleware`: default settings retry non-idempotent tools on ambiguous transport errors, then ask the model to retry again](https://github.com/langchain-ai/langchain/issues/40688) | 11 |
-| [#40678 core: Responses file-URL test overwrites its expected result without asserting it](https://github.com/langchain-ai/langchain/issues/40678) | 5 |
-| [#40677 core: Message chunk addition drops 'name' and fallback 'id', breaking streaming multi-agent metadata and merge_message_runs](https://github.com/langchain-ai/langchain/issues/40677) | 3 |
-| [#40675 anthropic: `FilesystemClaudeTextEditorMiddleware` reads and writes files with the locale encoding so non ascii content breaks on non utf8 systems](https://github.com/langchain-ai/langchain/issues/40675) | 5 |
-| [#40668 Cache writes are counted twice for priority and flex](https://github.com/langchain-ai/langchain/issues/40668) | 3 |
-| [#40664 pyproject.toml is read with the locale encoding in unit tests — full inventory (4 call sites, one missed by #40588, one latent)](https://github.com/langchain-ai/langchain/issues/40664) | 3 |
-| [#40657 PromptTemplate silently accepts empty f-string field `{}` then crashes with IndexError on format](https://github.com/langchain-ai/langchain/issues/40657) | 5 |
-| [#40651 langchain-typesafe: ModelRouterMiddleware raises an opaque RuntimeError when state has no human message](https://github.com/langchain-ai/langchain/issues/40651) | 2 |

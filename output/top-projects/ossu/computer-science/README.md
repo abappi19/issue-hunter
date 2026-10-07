@@ -1,8 +1,8 @@
 # ossu/computer-science
 
-Generated: 2026-10-05T11:13:54.472669+00:00
+Generated: 2026-10-07T10:53:10.146519+00:00
 
-- Unassigned: 18
+- Unassigned: 17
 - [View all unassigned issues](https://github.com/ossu/computer-science/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -11,7 +11,6 @@ Most recently opened:
 |---|---|
 | [#1458 Create computer-science-ja](https://github.com/ossu/computer-science/issues/1458) | 1 |
 | [#1454 _config.yml include: entries reference wrong file paths](https://github.com/ossu/computer-science/issues/1454) | 0 |
-| [#1453 Add minia2a — x402 marketplace where AI agents monetize their APIs](https://github.com/ossu/computer-science/issues/1453) | 0 |
 | [#1441 2 errors in the class based programming course](https://github.com/ossu/computer-science/issues/1441) | 4 |
 | [#1427 RFC: Replace Software Architecture with Freely Available Alternative](https://github.com/ossu/computer-science/issues/1427) | 1 |
 | [#1411 RFC: Add modern AI literacy and safety resources to curriculum](https://github.com/ossu/computer-science/issues/1411) | 3 |

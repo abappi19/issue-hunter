@@ -1,25 +1,32 @@
 # callstack/agent-device
 
-Generated: 2026-10-05T11:14:53.347924+00:00
+Generated: 2026-10-07T10:54:09.574341+00:00
 
-- Unassigned: 79+
+- Unassigned: 81+
 - [View all unassigned issues](https://github.com/callstack/agent-device/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#3220 fix(apple-runner): fence prep spawns after teardown or last-waiter cancellation](https://github.com/callstack/agent-device/issues/3220) | 0 |
-| [#3218 Touch overlay renders at the encoder's maximum frame rate, so record stop outlasts its 90 s request past ~3 minutes](https://github.com/callstack/agent-device/issues/3218) | 0 |
-| [#3216 Explicit macOS surface is lost from recorded actions and replay scripts](https://github.com/callstack/agent-device/issues/3216) | 0 |
-| [#3213 macOS native app backend: follow-ups (guarantees, evidence, persistent helper, session backend)](https://github.com/callstack/agent-device/issues/3213) | 0 |
-| [#3197 .ad files cannot reach off-screen elements, and test --platform skips files without a platform header](https://github.com/callstack/agent-device/issues/3197) | 0 |
+| [#3276 Architecture quality: replace custom graph/layering code with maintained tools, close guardrail gaps, fix collocation (umbrella)](https://github.com/callstack/agent-device/issues/3276) | 0 |
+| [#3270 Host acceptance: end-to-end verification run on iOS and Android from a second machine (ADR 0021 §10)](https://github.com/callstack/agent-device/issues/3270) | 0 |
+| [#3269 Host lease side: allocator contract trim, Simlock adapter, coordinator/journal, renewal, recovery](https://github.com/callstack/agent-device/issues/3269) | 0 |
+| [#3268 Host: install verification builds through Host, including private GitHub Actions artifacts](https://github.com/callstack/agent-device/issues/3268) | 0 |
+| [#3267 Host: request devices by shape (--device "iPhone 16" / "Pixel 7")](https://github.com/callstack/agent-device/issues/3267) | 0 |
+| [#3266 Host: strip client identity, hand the principal to the daemon over loopback, enforce the public route policy](https://github.com/callstack/agent-device/issues/3266) | 0 |
+| [#3265 Host: agent-device host front-end command and persistent service credential](https://github.com/callstack/agent-device/issues/3265) | 0 |
+| [#3264 Host: remote verification through Simlock-backed fresh devices (ADR 0021)](https://github.com/callstack/agent-device/issues/3264) | 2 |
+| [#3263 Let a script hold a device claim while it runs simctl install or simctl launch itself](https://github.com/callstack/agent-device/issues/3263) | 0 |
+| [#3261 iOS parameterized input remains in native XCTest diagnostic logs](https://github.com/callstack/agent-device/issues/3261) | 3 |
+| [#3260 Support private stdin input for CLI fill without secret-bearing argv](https://github.com/callstack/agent-device/issues/3260) | 0 |
+| [#3254 macOS: drive a local app without activating it or moving the real pointer](https://github.com/callstack/agent-device/issues/3254) | 0 |
+| [#3246 Apple runner cache under ~/.agent-device/apple-runner grows without bound (4.4 GB measured)](https://github.com/callstack/agent-device/issues/3246) | 1 |
+| [#3238 iOS: type/fill still reads its pre-focus element after the focus tap, ending the runner session](https://github.com/callstack/agent-device/issues/3238) | 0 |
+| [#3229 Remote lease backend that confines a proxy client to one macOS app](https://github.com/callstack/agent-device/issues/3229) | 0 |
+| [#3213 macOS native app backend: follow-ups (guarantees, evidence, persistent helper, session backend)](https://github.com/callstack/agent-device/issues/3213) | 1 |
 | [#3106 Proposal: non-activating observations, inline screenshot reuse, private input comparison and early response evidence](https://github.com/callstack/agent-device/issues/3106) | 0 |
 | [#3077 Readiness wait: nightly soak and keep-or-drop rule](https://github.com/callstack/agent-device/issues/3077) | 0 |
-| [#3060 iOS: tapping a Flutter password field records an XCTest failure and restarts the runner, although the tap lands](https://github.com/callstack/agent-device/issues/3060) | 0 |
-| [#3052 Android test-IME fill commits into a stale InputConnection session after focus moves to a new field](https://github.com/callstack/agent-device/issues/3052) | 1 |
-| [#3021 role= selector vocabulary diverges from snapshot kind](https://github.com/callstack/agent-device/issues/3021) | 0 |
-| [#2997 Maestro `eraseText` fails on real Android devices: `test` and `replay` cannot opt in to the test IME](https://github.com/callstack/agent-device/issues/2997) | 0 |
 | [#2976 investigate(apple-runner): compare a command-control actor with concrete ownership after the first cleanup wave](https://github.com/callstack/agent-device/issues/2976) | 0 |
 | [#2973 refactor(apple-runner): encapsulate XCTest-channel penalty state](https://github.com/callstack/agent-device/issues/2973) | 0 |
 | [#2972 refactor(apple-runner): classify AX snapshot failure once at acquisition](https://github.com/callstack/agent-device/issues/2972) | 0 |
@@ -83,8 +90,3 @@ Most recently opened:
 | [#1255 Test-fixture gaps for divergence chrome-filter over-filtering live evidence (short-form screen, native inputAccessoryView, runtime-permission action)](https://github.com/callstack/agent-device/issues/1255) | 0 |
 | [#1245 iOS Metro hint doesn't reach expo-dev-client apps (writes bare-RN RCT_jsLocation only)](https://github.com/callstack/agent-device/issues/1245) | 0 |
 | [#646 Improve iOS keyboard return reliability and perf without English label probing](https://github.com/callstack/agent-device/issues/646) | 0 |
-| [#567 Use native scroll telemetry to make scroll top and bottom more deterministic](https://github.com/callstack/agent-device/issues/567) | 0 |
-| [#536 Compact network dump output for long React Native flows](https://github.com/callstack/agent-device/issues/536) | 1 |
-| [#475 Add Apple frame-health sampling to perf](https://github.com/callstack/agent-device/issues/475) | 0 |
-| [#471 Investigate Android snapshot helper secondary-display support](https://github.com/callstack/agent-device/issues/471) | 0 |
-| [#320 test(ios): add live system permission-prompt accept/dismiss/recovery journey](https://github.com/callstack/agent-device/issues/320) | 3 |

@@ -1,14 +1,16 @@
 # 47ng/nuqs
 
-Generated: 2026-10-05T11:15:05.594142+00:00
+Generated: 2026-10-07T10:54:21.978827+00:00
 
-- Unassigned: 19
+- Unassigned: 21
 - [View all unassigned issues](https://github.com/47ng/nuqs/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#1610 Reduce agentic friction](https://github.com/47ng/nuqs/issues/1610) | 0 |
+| [#1608 Next.js Pages Router: empty update returns stale search params after an awaited write](https://github.com/47ng/nuqs/issues/1608) | 3 |
 | [#1602 bug: TanStack Router adapter malforms other query parameters](https://github.com/47ng/nuqs/issues/1602) | 0 |
 | [#1590 bug: TanStack Router adapter adds a second query string on routes with a dynamic segment](https://github.com/47ng/nuqs/issues/1590) | 1 |
 | [#1572 Add an option for opting out of pretty encoding](https://github.com/47ng/nuqs/issues/1572) | 0 |

@@ -1,14 +1,15 @@
 # react-navigation/react-navigation
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
-- Unassigned: 58+
+- Unassigned: 64+
 - [View all unassigned issues](https://github.com/react-navigation/react-navigation/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#13276 Drawer flashes on screen and springs closed when rotating the device while the drawer is closed (stale `translationX` on width change)](https://github.com/react-navigation/react-navigation/issues/13276) | 2 |
 | [#13273 Opening the drawer no longer dismisses the keyboard](https://github.com/react-navigation/react-navigation/issues/13273) | 1 |
 | [#13262 Bottom tab bar disappears permanently after rotating on iOS 26+ with tabBarHideOnKeyboard](https://github.com/react-navigation/react-navigation/issues/13262) | 1 |
 | [#13257 [iOS] [V8] Native bottom tabs: no way to adjust icon/label spacing on iOS (react-native-screens   supports it, bottom-tabs never forwards it)](https://github.com/react-navigation/react-navigation/issues/13257) | 1 |
@@ -37,7 +38,7 @@ Most recently opened:
 | [#12933 Cannot read property 'medium' of undefined - error on @react-navigation/bottom-tabs](https://github.com/react-navigation/react-navigation/issues/12933) | 2 |
 | [#12932 headerTintColor does not work on iOS 26.](https://github.com/react-navigation/react-navigation/issues/12932) | 2 |
 | [#12928 [android] Flickering when going back to a bottom-tabs screen with animated elements](https://github.com/react-navigation/react-navigation/issues/12928) | 6 |
-| [#12925 [Android] "formSheet" displays above tab bar in nested layout](https://github.com/react-navigation/react-navigation/issues/12925) | 4 |
+| [#12925 [Android] "formSheet" displays above tab bar in nested layout](https://github.com/react-navigation/react-navigation/issues/12925) | 5 |
 | [#12923 Incorrect safe area inset causing extra blank space at bottom on some devices](https://github.com/react-navigation/react-navigation/issues/12923) | 11 |
 | [#12922 Material Top Tabs Navigator is crashing the app after a validation "right operand of 'in' is not an object"](https://github.com/react-navigation/react-navigation/issues/12922) | 3 |
 | [#12911 [Android] Issues with initial state contains `formSheet`](https://github.com/react-navigation/react-navigation/issues/12911) | 1 |
@@ -67,3 +68,8 @@ Most recently opened:
 | [#12782 [ios][TabNavigator][newArch Only] Refresh control gets stuck when tabbing away while refresh is active](https://github.com/react-navigation/react-navigation/issues/12782) | 9 |
 | [#12779 headerLeft headerRight onPress touch event issue on older iOS devices than iPhone XR](https://github.com/react-navigation/react-navigation/issues/12779) | 3 |
 | [#12739 [Android] `formSheet` below keyboard when input is focus](https://github.com/react-navigation/react-navigation/issues/12739) | 0 |
+| [#12736 LinkingOptions losing types](https://github.com/react-navigation/react-navigation/issues/12736) | 2 |
+| [#12734 NativeStackView is not applying `display: none` consistently to blurred screens.](https://github.com/react-navigation/react-navigation/issues/12734) | 3 |
+| [#12731 [Android] Material Top Tabs don't scroll correctly in RTL layout](https://github.com/react-navigation/react-navigation/issues/12731) | 1 |
+| [#12717 [Android] TextInput autofill fails but works after background/foreground cycle - regression of #12210](https://github.com/react-navigation/react-navigation/issues/12717) | 8 |
+| [#12713 Android transparentModal bug in material-top-tabs](https://github.com/react-navigation/react-navigation/issues/12713) | 2 |

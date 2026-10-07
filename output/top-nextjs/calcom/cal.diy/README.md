@@ -1,14 +1,20 @@
 # calcom/cal.diy
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 17+
+- Unassigned: 19+
 - [View all unassigned issues](https://github.com/calcom/cal.diy/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#30304 [App Store] Add DialogHub as a link-as-an-app (AI chat agent that books via Cal.com API v2)](https://github.com/calcom/cal.diy/issues/30304) | 0 |
+| [#30303 Show first or last available slot per availability interval](https://github.com/calcom/cal.diy/issues/30303) | 0 |
+| [#30302 Booking page crashes with "RangeError: Invalid time value" on invalid ?month= or ?date= query params](https://github.com/calcom/cal.diy/issues/30302) | 1 |
+| [#30300 Event type update toast shows the previous title instead of the saved one](https://github.com/calcom/cal.diy/issues/30300) | 0 |
+| [#30298 Feature request: Silent retention cleanup for historical bookings](https://github.com/calcom/cal.diy/issues/30298) | 0 |
+| [#30293 Booking email verification fails for plus aliases with impersonation protection enabled](https://github.com/calcom/cal.diy/issues/30293) | 1 |
 | [#30271 Date overrides split into duplicate days, and today's override disappears, when the server TZ is not UTC](https://github.com/calcom/cal.diy/issues/30271) | 1 |
 | [#30269 Allow Google Meet as location when the destination calendar is Outlook / Office 365](https://github.com/calcom/cal.diy/issues/30269) | 1 |
 | [#30266 Duration limits are checked in the server time zone at booking time](https://github.com/calcom/cal.diy/issues/30266) | 0 |
@@ -22,7 +28,3 @@ Most recently opened:
 | [#30234 fix(security): redact standard OAuth access_token and refresh_token in redactSensitiveData](https://github.com/calcom/cal.diy/issues/30234) | 0 |
 | [#30227 Booking page timezone selector keeps default cursor instead of pointer](https://github.com/calcom/cal.diy/issues/30227) | 3 |
 | [#30226 RangeError: invalid_argument on the public booking page when the browser autofills the form](https://github.com/calcom/cal.diy/issues/30226) | 1 |
-| [#30196 Security: PolinRider malware detected in open PR #27220](https://github.com/calcom/cal.diy/issues/30196) | 1 |
-| [#30195 [CalDAV] Booking page offers slots that fail at submit with "No available users found"](https://github.com/calcom/cal.diy/issues/30195) | 0 |
-| [#30194 Flexible payment options for bookings](https://github.com/calcom/cal.diy/issues/30194) | 2 |
-| [#30193 Embed: let the host page set the booker language](https://github.com/calcom/cal.diy/issues/30193) | 1 |

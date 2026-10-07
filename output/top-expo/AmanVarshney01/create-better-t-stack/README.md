@@ -1,8 +1,8 @@
 # AmanVarshney01/create-better-t-stack
 
-Generated: 2026-10-05T11:14:53.347924+00:00
+Generated: 2026-10-07T10:54:09.574341+00:00
 
-- Unassigned: 75+
+- Unassigned: 74+
 - [View all unassigned issues](https://github.com/AmanVarshney01/create-better-t-stack/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -83,4 +83,3 @@ Most recently opened:
 | [#725 Hono server crashes on vercel](https://github.com/AmanVarshney01/create-better-t-stack/issues/725) | 2 |
 | [#717 Drizzle throws SQL type conflict  - Argument of type 'SQL' is not assignable to parameter of type 'SQL](https://github.com/AmanVarshney01/create-better-t-stack/issues/717) | 5 |
 | [#716 feat(cli): Add Commet as payments option](https://github.com/AmanVarshney01/create-better-t-stack/issues/716) | 1 |
-| [#708 feat(web) Add Japanese translation of documentation](https://github.com/AmanVarshney01/create-better-t-stack/issues/708) | 1 |

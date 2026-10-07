@@ -1,18 +1,31 @@
 # obra/superpowers
 
-Generated: 2026-10-05T11:13:54.472669+00:00
+Generated: 2026-10-07T10:53:10.146519+00:00
 
-- Unassigned: 60+
+- Unassigned: 68+
 - [View all unassigned issues](https://github.com/obra/superpowers/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#2474 requesting-code-review: verification must cover the changed files' own build config and the real deploy path](https://github.com/obra/superpowers/issues/2474) | 0 |
+| [#2473 brainstorming / writing-plans: commit the spec/plan by path so pre-staged changes are not swept in](https://github.com/obra/superpowers/issues/2473) | 0 |
+| [#2472 subagent-driven-development: interactive/manual verification steps in a brief must be bounded by command flags, not by prose](https://github.com/obra/superpowers/issues/2472) | 1 |
+| [#2471 subagent-driven-development: deferred "minor" findings are graded by likelihood only — add recoverability](https://github.com/obra/superpowers/issues/2471) | 0 |
+| [#2470 subagent-driven-development: plan-verbatim code passes its own tests — reviewers need adversarial probes per named risk, including the seam with unchanged code](https://github.com/obra/superpowers/issues/2470) | 0 |
+| [#2469 subagent-driven-development: document a tool-only fallback for each helper script](https://github.com/obra/superpowers/issues/2469) | 0 |
+| [#2468 writing-plans: a task that reads from a row-capped service should name the cap, and its fake should enforce it](https://github.com/obra/superpowers/issues/2468) | 0 |
+| [#2467 executing-plans: task-done assumes every task commits — no-commit tasks record an empty range indistinguishable from a forgotten commit](https://github.com/obra/superpowers/issues/2467) | 0 |
+| [#2465 Support a handoff section (template or hook) in brainstorming specs, for downstream tools](https://github.com/obra/superpowers/issues/2465) | 0 |
+| [#2462 create desktop mobile apparatus ](https://github.com/obra/superpowers/issues/2462) | 0 |
+| [#2461 user@example.com](https://github.com/obra/superpowers/issues/2461) | 0 |
+| [#2460 systematic-debugging: example prints secret value; find-polluter.sh false 'clean' result and unsafe file loop](https://github.com/obra/superpowers/issues/2460) | 1 |
+| [#2459 task-brief: alphanumeric task IDs ("Task A1", "Task B2") are never recognised as task headings](https://github.com/obra/superpowers/issues/2459) | 0 |
 | [#2458 executing-plans: a test-writing step should end in its own run](https://github.com/obra/superpowers/issues/2458) | 1 |
 | [#2456 key need made](https://github.com/obra/superpowers/issues/2456) | 0 |
 | [#2455 executing-plans and subagent-driven-development: the main/master consent rule does not defer to a declared branch policy](https://github.com/obra/superpowers/issues/2455) | 0 |
-| [#2454 Prompt audit against Claude Fable 5.1: pressure language and update suppressors in using-superpowers, executing-plans, subagent-driven-development](https://github.com/obra/superpowers/issues/2454) | 0 |
+| [#2454 Prompt audit against Claude Fable 5.1: pressure language and update suppressors in using-superpowers, executing-plans, subagent-driven-development](https://github.com/obra/superpowers/issues/2454) | 1 |
 | [#2453 writing-plans Review Focus: name three edge classes that verified plans still missed (largest allowed value, failure after a side effect, rapid successive writes)](https://github.com/obra/superpowers/issues/2453) | 0 |
 | [#2452 writing-plans / test-driven-development: a test for a protective layer is evidence only once it fails when the layer is weakened](https://github.com/obra/superpowers/issues/2452) | 0 |
 | [#2451 subagent-driven-development / executing-plans: the final report should be derived from a plan-to-diff mapping, not written freely](https://github.com/obra/superpowers/issues/2451) | 0 |
@@ -43,7 +56,7 @@ Most recently opened:
 | [#2416 offline ide](https://github.com/obra/superpowers/issues/2416) | 0 |
 | [#2415 0919898048483](https://github.com/obra/superpowers/issues/2415) | 0 |
 | [#2413 writing-plans / task-reviewer: a plan step that infers identity from a string's shape ships its collision case unless the rubric asks for it](https://github.com/obra/superpowers/issues/2413) | 0 |
-| [#2408 writing-plans: the plan's code was built twice during planning, then the handoff offered to implement it a third time](https://github.com/obra/superpowers/issues/2408) | 0 |
+| [#2408 writing-plans: the plan's code was built twice during planning, then the handoff offered to implement it a third time](https://github.com/obra/superpowers/issues/2408) | 1 |
 | [#2406 task-brief: the last task of a section absorbs the following non-Task heading and its prose](https://github.com/obra/superpowers/issues/2406) | 0 |
 | [#2405 task-brief: task number is an unanchored, unescaped regex prefix, so the wrong task is returned with exit 0](https://github.com/obra/superpowers/issues/2405) | 0 |
 | [#2404 task-done-style test steps abort silently on empty logs under set -euo pipefail](https://github.com/obra/superpowers/issues/2404) | 0 |
@@ -64,8 +77,3 @@ Most recently opened:
 | [#2344 RELEASE-NOTES say a deleted .superpowers/sdd/progress.md can be recovered from git log; it cannot](https://github.com/obra/superpowers/issues/2344) | 1 |
 | [#2342 executing-plans: task-done ledgers the last log line as the test result, so `node --test` runs record `# duration_ms …` instead of pass/fail](https://github.com/obra/superpowers/issues/2342) | 11 |
 | [#2332 Workflow has first-class specs/plans but no durable QA/acceptance artifact layer](https://github.com/obra/superpowers/issues/2332) | 8 |
-| [#2316 finishing-a-development-branch: PR review has no lifecycle transition back to merge/release](https://github.com/obra/superpowers/issues/2316) | 2 |
-| [#2314 writing-plans: discover and reuse available QA tools before inventing bespoke verification](https://github.com/obra/superpowers/issues/2314) | 2 |
-| [#2309 writing-plans: self-review misses task-state/DAG closure in executable plans](https://github.com/obra/superpowers/issues/2309) | 8 |
-| [#2307 SDD helper scripts prompt for an app on Windows when invoked from PowerShell](https://github.com/obra/superpowers/issues/2307) | 0 |
-| [#2298 subagent-driven-development: review-package renders commit subjects only, so the task reviewer reports commit-body disclosures as undisclosed changes](https://github.com/obra/superpowers/issues/2298) | 1 |

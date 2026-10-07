@@ -1,6 +1,6 @@
 # milind-soni/OpenMausBot
 
-Generated: 2026-10-05T11:14:53.347924+00:00
+Generated: 2026-10-07T10:54:09.574341+00:00
 
 - Unassigned: 40+
 - [View all unassigned issues](https://github.com/milind-soni/OpenMausBot/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,10 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#2425 Glass pop-ups flash between blurred and unblurred on Windows (backdrop-filter compositing)](https://github.com/milind-soni/OpenMausBot/issues/2425) | 0 |
+| [#2424 Live calls: allow the microphone for the active self-hosted server in the desktop app](https://github.com/milind-soni/OpenMausBot/issues/2424) | 0 |
+| [#2383 Feature: open a bot conversation from an external dashboard via desktop deep links](https://github.com/milind-soni/OpenMausBot/issues/2383) | 0 |
+| [#2324 Proposal: owner-scoped remote MCP endpoint (/mcp) so a hosted agent can coordinate bots](https://github.com/milind-soni/OpenMausBot/issues/2324) | 0 |
 | [#2301 Cua Spaces as an optional Local VM backend](https://github.com/milind-soni/OpenMausBot/issues/2301) | 0 |
 | [#2298 iOS app freezes for about a minute right after opening](https://github.com/milind-soni/OpenMausBot/issues/2298) | 0 |
 | [#2294 We need to use Google Gemini 3.8 Live for live video call.](https://github.com/milind-soni/OpenMausBot/issues/2294) | 0 |
@@ -20,7 +24,6 @@ Most recently opened:
 | [#2183 Sidebar: Routines/Triggers/Apps footer rows have no collapse option (regression from the hover Tools menu)](https://github.com/milind-soni/OpenMausBot/issues/2183) | 2 |
 | [#2170 Cursor driver: authenticate(cursor_login) before every session breaks API-key setups and opens browser logins](https://github.com/milind-soni/OpenMausBot/issues/2170) | 0 |
 | [#2167 Feature request: Add Groq to Model Providers & Accounts Management](https://github.com/milind-soni/OpenMausBot/issues/2167) | 0 |
-| [#2166 Bug: Groq models fail with tool validation error for unrequested 'JSON' tool](https://github.com/milind-soni/OpenMausBot/issues/2166) | 0 |
 | [#2140 Add microsandbox for cross-platform, hardware-isolated local computers](https://github.com/milind-soni/OpenMausBot/issues/2140) | 0 |
 | [#2086 Feature request: Add “Always allow” to permission requests and automatically update the bot allowlist](https://github.com/milind-soni/OpenMausBot/issues/2086) | 0 |
 | [#2085 Feature: first-class support for split edge VPS (ARM) + amd64 compute host (custom domain, tunnel, SSE)](https://github.com/milind-soni/OpenMausBot/issues/2085) | 0 |
@@ -46,6 +49,3 @@ Most recently opened:
 | [#1914 Managed marketplace still capped at 500: deployed composio broker drops the caller cursor (worker-direct repro)](https://github.com/milind-soni/OpenMausBot/issues/1914) | 1 |
 | [#1896 Chat: multiple currency amounts in one paragraph render as garbled LaTeX ($…$ treated as inline math)](https://github.com/milind-soni/OpenMausBot/issues/1896) | 0 |
 | [#1883 Antigravity Full Access unavailable for self-hosted AWS workspace / Chief of Staff bot delegation requires repeated approval](https://github.com/milind-soni/OpenMausBot/issues/1883) | 0 |
-| [#1880 [i18n] Complete Simplified Chinese (zh) translation — 1280 keys missing](https://github.com/milind-soni/OpenMausBot/issues/1880) | 4 |
-| [#1856 openai-compat bot on a Local VM gets no computer or browser tools (Claude on the same bot and VM does)](https://github.com/milind-soni/OpenMausBot/issues/1856) | 1 |
-| [#1852 using codex, but it doesn't see all the models](https://github.com/milind-soni/OpenMausBot/issues/1852) | 1 |

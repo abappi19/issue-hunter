@@ -1,21 +1,24 @@
 # TanStack/router
 
-Generated: 2026-10-05T11:15:05.594142+00:00
+Generated: 2026-10-07T10:54:21.978827+00:00
 
-- Unassigned: 23+
+- Unassigned: 27+
 - [View all unassigned issues](https://github.com/TanStack/router/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#8627 Since start-server-core 1.169.36, middleware that copies the page Response drops the connection when `Response` is wrapped](https://github.com/TanStack/router/issues/8627) | 2 |
+| [#8623 Code splitter does not support the method shorthand syntax](https://github.com/TanStack/router/issues/8623) | 0 |
+| [#8614 Start: import protection keeps a parsed AST per module in dev (hundreds of MB in large apps)](https://github.com/TanStack/router/issues/8614) | 0 |
 | [#8585 [router-core] Node warns about circular access to replaceRouteChunk](https://github.com/TanStack/router/issues/8585) | 0 |
-| [#8584 SSR crash on Vercel: "object is not iterable" in handleServerRoutes after upgrading to react-start@1.168.60 (start-server-core@1.169.39)](https://github.com/TanStack/router/issues/8584) | 2 |
+| [#8584 SSR crash on Vercel: "object is not iterable" in handleServerRoutes after upgrading to react-start@1.168.60 (start-server-core@1.169.39)](https://github.com/TanStack/router/issues/8584) | 3 |
 | [#8558 router-core: dehydrated match updatedAt (`u`) is the render's wall clock, so prerendered HTML is not reproducible (no SOURCE_DATE_EPOCH support)](https://github.com/TanStack/router/issues/8558) | 0 |
 | [#8550 Inline scripts are duplicated after hydration when the CSP nonce is sent in a header](https://github.com/TanStack/router/issues/8550) | 0 |
 | [#8546 [Start] Generated route preloads should default to fetchPriority="low" (they delay first paint at High)](https://github.com/TanStack/router/issues/8546) | 1 |
 | [#8545 Start + Rsbuild: server-only routes are not pruned from the client route tree](https://github.com/TanStack/router/issues/8545) | 0 |
-| [#8544 Start + Rsbuild: plugin forces `server.compress: false`, overriding user config](https://github.com/TanStack/router/issues/8544) | 1 |
+| [#8544 Start + Rsbuild: plugin forces `server.compress: false`, overriding user config](https://github.com/TanStack/router/issues/8544) | 2 |
 | [#8543 Start + Rsbuild: SPA mode dev server SSRs routes and runs loaders on the server](https://github.com/TanStack/router/issues/8543) | 0 |
 | [#8521 A request aborted by the client is logged as an unhandled 500](https://github.com/TanStack/router/issues/8521) | 1 |
 | [#8516 Start prerender: in-page fragment links (`/#section`) are crawled as separate pages and listed in sitemap.xml](https://github.com/TanStack/router/issues/8516) | 0 |
@@ -32,3 +35,4 @@ Most recently opened:
 | [#8464 Early hints emit as=script on rel=modulepreload, producing "preloaded but not used" warnings for every route chunk](https://github.com/TanStack/router/issues/8464) | 2 |
 | [#8448 parseLocation keeps the raw publicHref when rewrite is set, so a non-canonical search string re-runs every loader after hydration](https://github.com/TanStack/router/issues/8448) | 0 |
 | [#8447 start-plugin-core: the dev server-fn id validator's recovery can never succeed — it transforms under the one flag that skips the compile](https://github.com/TanStack/router/issues/8447) | 1 |
+| [#8446 If you pass createServerOnlyFn(...) directly as an argument to createServerFn().handler(), it will generate a broken server function.](https://github.com/TanStack/router/issues/8446) | 3 |

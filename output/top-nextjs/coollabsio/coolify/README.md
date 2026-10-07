@@ -1,14 +1,21 @@
 # coollabsio/coolify
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 47+
+- Unassigned: 50+
 - [View all unassigned issues](https://github.com/coollabsio/coolify/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#12110 [Bug]: No Container Terminals visible](https://github.com/coollabsio/coolify/issues/12110) | 0 |
+| [#12106 Hatchet one-click signup blocks on email verification without SMTP](https://github.com/coollabsio/coolify/issues/12106) | 0 |
+| [#12105 Hatchet dashboard API fails before RabbitMQ listener is ready](https://github.com/coollabsio/coolify/issues/12105) | 1 |
+| [#12104 [Bug]: Public database proxy keeps the database's old IP after the database container restarts](https://github.com/coollabsio/coolify/issues/12104) | 2 |
+| [#12102 [Bug]: Empty space under card titles when the description is empty](https://github.com/coollabsio/coolify/issues/12102) | 1 |
+| [#12101 [Bug]: Invalid saved log filters prevent runtime log viewer startup](https://github.com/coollabsio/coolify/issues/12101) | 1 |
+| [#12098 [Bug]: Domains page poll floods the high queue with ServerFilesFromServerJob](https://github.com/coollabsio/coolify/issues/12098) | 0 |
 | [#12094 [Bug]: SigNoz template: ClickHouse system logs grow without limit](https://github.com/coollabsio/coolify/issues/12094) | 1 |
 | [#12083 API: custom_nginx_configuration is written to default.conf base64-encoded and cannot be cleared](https://github.com/coollabsio/coolify/issues/12083) | 2 |
 | [#12077 [Bug]: Railpack fails with Node.js v26 + pnpm v11](https://github.com/coollabsio/coolify/issues/12077) | 0 |
@@ -47,12 +54,8 @@ Most recently opened:
 | [#11881 [Bug]: Allowed API IPs is not enforced on the /mcp endpoint](https://github.com/coollabsio/coolify/issues/11881) | 1 |
 | [#11869 [Bug]: Clicking an option in a table dropdown calls window.close() and closes the browser tab](https://github.com/coollabsio/coolify/issues/11869) | 2 |
 | [#11868 [Bug]: Proxy update warning persists on v4.3.21 after upgrading Traefik to v3.7.13](https://github.com/coollabsio/coolify/issues/11868) | 5 |
-| [#11861 [Bug]: Sentinel 1.0.1 storage collector logs `cannot stat mount source` WARN for every volume every 15 min — Coolify starts it without `HOST_MOUNT_PREFIX` / `STORAGE_VOLUMES_ENABLED=false`](https://github.com/coollabsio/coolify/issues/11861) | 0 |
+| [#11861 [Bug]: Sentinel 1.0.1 storage collector logs `cannot stat mount source` WARN for every volume every 15 min — Coolify starts it without `HOST_MOUNT_PREFIX` / `STORAGE_VOLUMES_ENABLED=false`](https://github.com/coollabsio/coolify/issues/11861) | 1 |
 | [#11855 [Bug]: Supabase deployment/restart fails because minio/mc image cannot be pulled](https://github.com/coollabsio/coolify/issues/11855) | 8 |
 | [#11815 [Bug]: Sorting feature doesn't work on backups page](https://github.com/coollabsio/coolify/issues/11815) | 0 |
 | [#11814 [Bug]: Deleting scheduled task throws 404](https://github.com/coollabsio/coolify/issues/11814) | 0 |
 | [#11813 [Bug]: Stale coolify browser tab sets theme to custom](https://github.com/coollabsio/coolify/issues/11813) | 0 |
-| [#11806 [Bug]: Profile Picture not loading](https://github.com/coollabsio/coolify/issues/11806) | 4 |
-| [#11803 [Bug]: Local Sentinel hardcodes port 8000 and Sync reports false health](https://github.com/coollabsio/coolify/issues/11803) | 2 |
-| [#11802 [Bug]: Manually set instance public IPv4 is overwritten on every restart](https://github.com/coollabsio/coolify/issues/11802) | 0 |
-| [#11801 [Bug]: "Update available" badge overlaps the team selector in the top navigation](https://github.com/coollabsio/coolify/issues/11801) | 1 |

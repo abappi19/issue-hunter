@@ -1,15 +1,17 @@
 # ant-design/ant-design
 
-Generated: 2026-10-05T11:14:10.672067+00:00
+Generated: 2026-10-07T10:53:26.616234+00:00
 
-- Unassigned: 13+
+- Unassigned: 14+
 - [View all unassigned issues](https://github.com/ant-design/ant-design/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#59473 [Feature Request] Tooltip: Add Smart Placement with Automatic Collision detect](https://github.com/ant-design/ant-design/issues/59473) | 1 |
+| [#59486 Transfer ignores numeric zero in selectAllLabels](https://github.com/ant-design/ant-design/issues/59486) | 0 |
+| [#59485 Table: semantic classNames/styles for scroll holders in fixed-header mode (header.holder / body.holder)](https://github.com/ant-design/ant-design/issues/59485) | 0 |
+| [#59473 [Feature Request] Tooltip: Add Smart Placement with Automatic Collision detect](https://github.com/ant-design/ant-design/issues/59473) | 3 |
 | [#59470 Pagination 设置 disabled 后，部分按钮仍可通过 Tab 键聚焦](https://github.com/ant-design/ant-design/issues/59470) | 2 |
 | [#59453 feat(Breadcrumb): Support default aria-label and aria-current="page" for WAI-ARIA compliance](https://github.com/ant-design/ant-design/issues/59453) | 1 |
 | [#59426 Make right sided menu expandable on the antd website](https://github.com/ant-design/ant-design/issues/59426) | 2 |
@@ -21,4 +23,3 @@ Most recently opened:
 | [#59043 Form preserve 无效，貌似是配合 initialValues 时会这样](https://github.com/ant-design/ant-design/issues/59043) | 2 |
 | [#58980 Keyboard focus never enters an open Dropdown menu, so keyboard users cannot operate it (biggest of 12 conformance findings, shared ahead of publication)](https://github.com/ant-design/ant-design/issues/58980) | 6 |
 | [#58972 [Tracker] 任务清单](https://github.com/ant-design/ant-design/issues/58972) | 4 |
-| [#58836 [Form] Support per-rule validation debounce without delaying synchronous rules](https://github.com/ant-design/ant-design/issues/58836) | 4 |

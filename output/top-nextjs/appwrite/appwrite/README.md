@@ -1,14 +1,31 @@
 # appwrite/appwrite
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 29+
+- Unassigned: 37+
 - [View all unassigned issues](https://github.com/appwrite/appwrite/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#14222 🐛 Bug Report: Transaction bulkUpdate changes rows that do not match the filter](https://github.com/appwrite/appwrite/issues/14222) | 0 |
+| [#14221 🐛 Bug Report: String values that look like operator JSON are executed as operators](https://github.com/appwrite/appwrite/issues/14221) | 0 |
+| [#14220 🐛 Bug Report: Postgres adapter truncates float columns to 14 digits](https://github.com/appwrite/appwrite/issues/14220) | 0 |
+| [#14219 🐛 Bug Report: Bulk operations in a transaction trigger no events](https://github.com/appwrite/appwrite/issues/14219) | 0 |
+| [#14218 🐛 Bug Report: stringReplace on an encrypted column destroys the value](https://github.com/appwrite/appwrite/issues/14218) | 0 |
+| [#14217 🐛 Bug Report: Operators in a transaction bulkUpdate are applied twice](https://github.com/appwrite/appwrite/issues/14217) | 0 |
+| [#14209 Make Firewall Rules More Flexible](https://github.com/appwrite/appwrite/issues/14209) | 0 |
+| [#14179 🐛 Bug Report: updateRows is only atomic per 1,000 rows](https://github.com/appwrite/appwrite/issues/14179) | 1 |
+| [#14178 🐛 Bug Report: Transaction upsert ignores rowId and creates a new row](https://github.com/appwrite/appwrite/issues/14178) | 1 |
+| [#14177 🐛 Bug Report: Distance queries never use the spatial index](https://github.com/appwrite/appwrite/issues/14177) | 0 |
+| [#14176 🐛 Bug Report: Transaction commit reloads metadata for every operation](https://github.com/appwrite/appwrite/issues/14176) | 0 |
+| [#14175 🐛 Bug Report: Making a column required blocks updates of old rows](https://github.com/appwrite/appwrite/issues/14175) | 0 |
+| [#14174 🐛 Bug Report: Deletes worker fails without a certificate email](https://github.com/appwrite/appwrite/issues/14174) | 0 |
+| [#14173 🐛 Bug Report: getRow returns the pre-commit row after a transaction](https://github.com/appwrite/appwrite/issues/14173) | 0 |
+| [#14155 Declare the Location header on OAuth2 redirect responses in the OpenAPI spec](https://github.com/appwrite/appwrite/issues/14155) | 0 |
+| [#14143 🐛 Bug Report: increment/decrement and operators skip column validation](https://github.com/appwrite/appwrite/issues/14143) | 1 |
+| [#14141 Declare chunked upload headers in the OpenAPI spec](https://github.com/appwrite/appwrite/issues/14141) | 0 |
 | [#14096 🐛 Bug Report: Postgres: row permission checks slow with many user roles](https://github.com/appwrite/appwrite/issues/14096) | 0 |
 | [#14095 🐛 Bug Report: Function executions with bodies > 1 MiB wait 2 s (`Expect: 100-continue`)](https://github.com/appwrite/appwrite/issues/14095) | 0 |
 | [#14094 🐛 Bug Report: Executor opens a new connection per execution, throughput drops under load](https://github.com/appwrite/appwrite/issues/14094) | 1 |
@@ -29,12 +46,3 @@ Most recently opened:
 | [#14076 Monorepo Next Build fails to bundle config](https://github.com/appwrite/appwrite/issues/14076) | 0 |
 | [#14075 🐛 Bug Report: PostgreSQL adapter never uses the `_uid` index – every create, get and update by row ID scans the whole table](https://github.com/appwrite/appwrite/issues/14075) | 1 |
 | [#14049 Custom domain serves the shared default certificate after issuance succeeds (no TLS activation created)](https://github.com/appwrite/appwrite/issues/14049) | 0 |
-| [#14031 Why can't I find kotlin runtime from create functions](https://github.com/appwrite/appwrite/issues/14031) | 0 |
-| [#14007 Calling `flush()` on a cache backed by the `Filesystem` adapter leads runtime failures](https://github.com/appwrite/appwrite/issues/14007) | 2 |
-| [#13985 Favicon uses the original page URL to resolve relative icon links after a redirect](https://github.com/appwrite/appwrite/issues/13985) | 1 |
-| [#13920 Guvicorn/Hot Swap Issues in Local Functions Running Python](https://github.com/appwrite/appwrite/issues/13920) | 2 |
-| [#13810 🚀 Enhancement: [Upload] button for Storage File View to update content](https://github.com/appwrite/appwrite/issues/13810) | 1 |
-| [#13808 🐛 Bug Report: Deleting a storage bucket leaves its files on S3-compatible storage](https://github.com/appwrite/appwrite/issues/13808) | 1 |
-| [#13768 Membership realtime delete event not properly firing on client sdks](https://github.com/appwrite/appwrite/issues/13768) | 0 |
-| [#13766 TablesDB: deleting a row with an empty two-way manyToOne (onDelete: setNull) returns 500 general_unknown](https://github.com/appwrite/appwrite/issues/13766) | 1 |
-| [#13733 Deny adding identity if the email differs from the current logged-in user email](https://github.com/appwrite/appwrite/issues/13733) | 2 |

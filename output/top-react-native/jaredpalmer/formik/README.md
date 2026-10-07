@@ -1,6 +1,6 @@
 # jaredpalmer/formik
 
-Generated: 2026-10-05T11:14:41.029470+00:00
+Generated: 2026-10-07T10:53:57.244268+00:00
 
 - Unassigned: 59+
 - [View all unassigned issues](https://github.com/jaredpalmer/formik/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -9,6 +9,7 @@ Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#4085 [Security] Harden validation error merging against deepmerge prototype poisoning (CVE-2026-93753)](https://github.com/jaredpalmer/formik/issues/4085) | 0 |
 | [#4065 [Formik Website] Responsive layout issue – missing horizontal padding on large screens](https://github.com/jaredpalmer/formik/issues/4065) | 0 |
 | [#4063 `formik` fails with pnpm strict mode — missing peerDependency on `@types/react`](https://github.com/jaredpalmer/formik/issues/4063) | 0 |
 | [#4061 [TypeScript] SharedRenderProps.component has incorrect type React.ComponentType<T | void> instead of React.ComponentType<T>](https://github.com/jaredpalmer/formik/issues/4061) | 0 |
@@ -67,4 +68,3 @@ Most recently opened:
 | [#3895 Your Discord Server not working](https://github.com/jaredpalmer/formik/issues/3895) | 2 |
 | [#3893 Fix issue reporting template for feature requests](https://github.com/jaredpalmer/formik/issues/3893) | 0 |
 | [#3888 Typescript compilation error with formik 2.4.5](https://github.com/jaredpalmer/formik/issues/3888) | 1 |
-| [#3885 FieldArray, Binding element 'form' implicitly has an 'any' type.](https://github.com/jaredpalmer/formik/issues/3885) | 1 |

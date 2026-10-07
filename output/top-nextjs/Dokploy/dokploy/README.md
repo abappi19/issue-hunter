@@ -1,26 +1,32 @@
 # Dokploy/dokploy
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 49+
+- Unassigned: 53+
 - [View all unassigned issues](https://github.com/Dokploy/dokploy/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#5604 Upgrade better-auth to 1.7: what breaks in Dokploy and a tested migration path](https://github.com/Dokploy/dokploy/issues/5604) | 1 |
+| [#5602 Default HTTPS + Let's Encrypt for newly created domains](https://github.com/Dokploy/dokploy/issues/5602) | 1 |
+| [#5601 Multi-server shared storage orchestration and monitoring for Docker Swarm](https://github.com/Dokploy/dokploy/issues/5601) | 1 |
+| [#5600 Service card description overflows into adjacent cards](https://github.com/Dokploy/dokploy/issues/5600) | 1 |
+| [#5598 Add LibreDB Studio as an optional database editor for Dokploy databases](https://github.com/Dokploy/dokploy/issues/5598) | 4 |
+| [#5594 Proposal: Native Build & Push support for Docker Swarm Stacks using 'docker compose build --push'](https://github.com/Dokploy/dokploy/issues/5594) | 1 |
+| [#5592 feat: optional Backup on Deploy (run selected backups before deploy)](https://github.com/Dokploy/dokploy/issues/5592) | 1 |
+| [#5589 Fix mobile service header overflow on service pages](https://github.com/Dokploy/dokploy/issues/5589) | 1 |
+| [#5588 Manageable session expiration time](https://github.com/Dokploy/dokploy/issues/5588) | 1 |
 | [#5586 Webhook deployments do not set serverId, so all servers share one build queue](https://github.com/Dokploy/dokploy/issues/5586) | 1 |
-| [#5581 Server terminal and remote terminal windows collapse instantly on browser zoom](https://github.com/Dokploy/dokploy/issues/5581) | 1 |
-| [#5580 Preview deployments for stacked PRs](https://github.com/Dokploy/dokploy/issues/5580) | 1 |
 | [#5579 processEnvVars does not substitute variables in [[config.env]] tables](https://github.com/Dokploy/dokploy/issues/5579) | 1 |
 | [#5576 feat(ai): allow custom HTTP headers per AI provider configuration](https://github.com/Dokploy/dokploy/issues/5576) | 1 |
-| [#5574 [UI Bug] Tooltips remain visible and overlap open modals on Remote Servers page](https://github.com/Dokploy/dokploy/issues/5574) | 1 |
 | [#5565 Docker pull often fails with private registry Gitlab during a deployment (Docker compose)](https://github.com/Dokploy/dokploy/issues/5565) | 1 |
 | [#5557 Notification bug (Slack): Build error notification message is exposing SSH keys in notification payload](https://github.com/Dokploy/dokploy/issues/5557) | 2 |
 | [#5555 Permissions: ticking a project should grant access to its services, including future ones](https://github.com/Dokploy/dokploy/issues/5555) | 1 |
 | [#5554 Disabling domain also detaches dokploy-network](https://github.com/Dokploy/dokploy/issues/5554) | 1 |
 | [#5552 Route53 wildcard records show as `\052.example.com` in the DNS records list](https://github.com/Dokploy/dokploy/issues/5552) | 2 |
-| [#5551 After cloning a Nextjs Nixpack app, the apps don't restart after autodeploy](https://github.com/Dokploy/dokploy/issues/5551) | 1 |
+| [#5551 After cloning a Nextjs Nixpack app, the apps don't restart after autodeploy](https://github.com/Dokploy/dokploy/issues/5551) | 3 |
 | [#5550 Project-wide CPU / Memory Limits (Aggregate Resource Quota)](https://github.com/Dokploy/dokploy/issues/5550) | 1 |
 | [#5548 Domain DNS validation false positive when domains resolve to a floating VIP or load balancer in front of a remote server](https://github.com/Dokploy/dokploy/issues/5548) | 1 |
 | [#5546 Make the Projects card on the home dashboard clickable](https://github.com/Dokploy/dokploy/issues/5546) | 2 |
@@ -35,7 +41,7 @@ Most recently opened:
 | [#5511 Phase vault provider: testConnection fails with "401: Token expired or deleted" using a valid Service Account token](https://github.com/Dokploy/dokploy/issues/5511) | 3 |
 | [#5509 Additional Port Mappings: two entries sharing the same targetPort silently overwrite each other (last one wins)](https://github.com/Dokploy/dokploy/issues/5509) | 3 |
 | [#5508 Vault/secrets-provider interpolation doesn't work in the managed database's fields](https://github.com/Dokploy/dokploy/issues/5508) | 1 |
-| [#5504 Orphaned docker-stats monitoring interval keeps rewriting stats files every 1.3s after the websocket closes (~8.7 GB/day of disk writes)](https://github.com/Dokploy/dokploy/issues/5504) | 1 |
+| [#5504 Orphaned docker-stats monitoring interval keeps rewriting stats files every 1.3s after the websocket closes (~8.7 GB/day of disk writes)](https://github.com/Dokploy/dokploy/issues/5504) | 2 |
 | [#5503 500 error when managing domains / HTTPS in Dokploy UI](https://github.com/Dokploy/dokploy/issues/5503) | 1 |
 | [#5501 ## Bug: Dokploy Dashboard Projects Page Returns 404 Error](https://github.com/Dokploy/dokploy/issues/5501) | 1 |
 | [#5500 Feature: Cloud Providers — auto-provision servers (OVH, AWS, DigitalOcean, etc)](https://github.com/Dokploy/dokploy/issues/5500) | 1 |
@@ -56,5 +62,3 @@ Most recently opened:
 | [#5456 Add "S3 Management"](https://github.com/Dokploy/dokploy/issues/5456) | 6 |
 | [#5453 Docker-image apps: any deploy (webhook or API) rewrites the Swarm service spec and drops the app's traefik.* labels → all domains 404](https://github.com/Dokploy/dokploy/issues/5453) | 3 |
 | [#5435 v0.30.6 image ships empty /app/node_modules/postgres/package.json → ERR_INVALID_PACKAGE_CONFIG](https://github.com/Dokploy/dokploy/issues/5435) | 1 |
-| [#5434 Dokploy installation won't converge under Podroid](https://github.com/Dokploy/dokploy/issues/5434) | 1 |
-| [#5433 Application Run Command cannot run chained startup scripts](https://github.com/Dokploy/dokploy/issues/5433) | 1 |

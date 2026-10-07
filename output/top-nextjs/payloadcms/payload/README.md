@@ -1,17 +1,22 @@
 # payloadcms/payload
 
-Generated: 2026-10-05T11:14:26.946312+00:00
+Generated: 2026-10-07T10:53:42.923495+00:00
 
-- Unassigned: 29+
+- Unassigned: 27+
 - [View all unassigned issues](https://github.com/payloadcms/payload/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#18491 3.90: relationship access constraint is appended to the caller's `where` in place — a join field's configured `where` grows on every read until queries hang](https://github.com/payloadcms/payload/issues/18491) | 0 |
-| [#18490 plugin-mcp: revalidatePath/revalidateTag called in hooks during MCP tool calls are silently dropped](https://github.com/payloadcms/payload/issues/18490) | 0 |
-| [#18489 `schedulePublish` server function queues an empty `schedulePublish` job when deleting a scheduled event](https://github.com/payloadcms/payload/issues/18489) | 0 |
+| [#18583 Field labels on richText and custom-component fields are cached in the first admin language rendered](https://github.com/payloadcms/payload/issues/18583) | 0 |
+| [#18565 Jobs (3.x): two runs claim and run the same due jobs; the slower one fails with "Cannot read properties of null (reading 'log')" — please backport #17441](https://github.com/payloadcms/payload/issues/18565) | 1 |
+| [#18531 createImageSizes decodes the source once per image size, all at once, so one upload can take hundreds of MB](https://github.com/payloadcms/payload/issues/18531) | 0 |
+| [#18521 join field: the table header's "Add new" button ignores the create permission](https://github.com/payloadcms/payload/issues/18521) | 2 |
+| [#18498 [plugin-ecommerce] Variant options selector and duplicate-variant validation silently stop at the first 10 join results](https://github.com/payloadcms/payload/issues/18498) | 0 |
+| [#18497 `payload build` requires runtime secrets because it loads the full config (Payload 3 & 4)](https://github.com/payloadcms/payload/issues/18497) | 1 |
+| [#18494 bulkOperationsSingleTransaction: bulk update and delete return documents that were rolled back](https://github.com/payloadcms/payload/issues/18494) | 0 |
+| [#18490 plugin-mcp: revalidatePath/revalidateTag called in hooks during MCP tool calls are silently dropped](https://github.com/payloadcms/payload/issues/18490) | 1 |
 | [#18480 Jobs: `updateJobs` never rolls back when `db.updateJobs` throws, leaking a pool connection per failure (postgres)](https://github.com/payloadcms/payload/issues/18480) | 0 |
 | [#18476 Locale switcher bypasses LeaveWithoutSaving: unsaved changes are discarded on a locale switch (regression of #7215 by #11387)](https://github.com/payloadcms/payload/issues/18476) | 0 |
 | [#18465 createVersion / createGlobalVersion rewrite every older version's latest flag on each save](https://github.com/payloadcms/payload/issues/18465) | 1 |
@@ -31,10 +36,3 @@ Most recently opened:
 | [#18383 A JPEG with an EXIF orientation is recorded with its width and height swapped](https://github.com/payloadcms/payload/issues/18383) | 0 |
 | [#18382 `filesize` of a file fetched from a URL comes from `Content-Length`: 0 when the header is absent](https://github.com/payloadcms/payload/issues/18382) | 0 |
 | [#18380 Hierarchy sidebar tree renders duplicate React keys - Payload v4-canary.34](https://github.com/payloadcms/payload/issues/18380) | 1 |
-| [#18377 feat: Aurora Serverless / RDS Data API database adapter](https://github.com/payloadcms/payload/issues/18377) | 0 |
-| [#18362 Vercel Blob Upload Issues since 3.90.X](https://github.com/payloadcms/payload/issues/18362) | 2 |
-| [#18361 bin.js registerHooks workaround (#17079) causes DEP0205 warning on Node 26; fixed upstream in tsx 4.23.15](https://github.com/payloadcms/payload/issues/18361) | 0 |
-| [#18355 db-mongodb: `where` conditions silently dropped when querying through a relationship with access control](https://github.com/payloadcms/payload/issues/18355) | 1 |
-| [#18352 storage-s3: only the first upload in a process is stored (Local API, Cloudflare R2)](https://github.com/payloadcms/payload/issues/18352) | 1 |
-| [#18348 Autosave drops an edit made while a queued autosave is in flight](https://github.com/payloadcms/payload/issues/18348) | 0 |
-| [#18339 [plugin-ecommerce] initiatePayment never validates variants (variant check nested inside product-only branch)](https://github.com/payloadcms/payload/issues/18339) | 0 |
