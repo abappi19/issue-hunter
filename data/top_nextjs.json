@@ -15,8 +15,8 @@
   "Dokploy/dokploy",
   "LAION-AI/Open-Assistant",
   "gitroomhq/postiz-app",
-  "refinedev/refine",
   "JCodesMore/ai-website-cloner-template",
+  "refinedev/refine",
   "gethomepage/homepage",
   "vercel/swr"
 ]
