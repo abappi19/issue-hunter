@@ -1,14 +1,16 @@
 # docker/compose
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 42
+- Unassigned: 44
 - [View all unassigned issues](https://github.com/docker/compose/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#14288 [BUG] `mode` attribute in `configs` works but raises an unsupported warning](https://github.com/docker/compose/issues/14288) | 3 |
+| [#14285 Build fails with fs.read entitlement error when dockerfile is outside the build context (buildx >= 0.37.2)](https://github.com/docker/compose/issues/14285) | 0 |
 | [#14283 [BUG] Warns about uid/gid, but with inline configs they do work](https://github.com/docker/compose/issues/14283) | 2 |
 | [#14259 pre_start hooks: per_replica: true is accepted by the schema but always rejected at runtime](https://github.com/docker/compose/issues/14259) | 0 |
 | [#14250 Broken "contributing to docker" link in CONTRIBUTING.md](https://github.com/docker/compose/issues/14250) | 0 |

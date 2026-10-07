@@ -1,21 +1,23 @@
 # facebook/react
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 32+
+- Unassigned: 31+
 - [View all unassigned issues](https://github.com/facebook/react/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#37765 Bug: ViewTransition breaks the root when its container is a ShadowRoot](https://github.com/react/react/issues/37765) | 0 |
+| [#37762 Bug: "Cannot commit the same tree as before" (#177) when a throttled Suspense reveal's commit flushes another root's passive effects that update its root synchronously](https://github.com/react/react/issues/37762) | 0 |
+| [#37761 [Compiler Bug]: `purity` reports impure calls in functions that only run from event handlers (closure created inside `.map()`, or closure referencing a later-declared const)](https://github.com/react/react/issues/37761) | 0 |
 | [#37755 Bug: add 3d garphique built on three.js for make easy devlope a game on react ](https://github.com/react/react/issues/37755) | 1 |
 | [#37752 [DevTools] Fabric host-instance map misses releases when public instances are created lazily](https://github.com/react/react/issues/37752) | 0 |
 | [#37751 Bug: ViewTransition reports Chromium's "Transition was aborted because of invalid state. Document hidden" as an uncaught error](https://github.com/react/react/issues/37751) | 1 |
-| [#37747 Bug: clearContainerSparingly throws "reading 'toLowerCase'" when a <link>'s rel is not a string](https://github.com/react/react/issues/37747) | 1 |
+| [#37747 Bug: clearContainerSparingly throws "reading 'toLowerCase'" when a <link>'s rel is not a string](https://github.com/react/react/issues/37747) | 3 |
 | [#37735 [Compiler Bug]: Literal destructuring defaults (`= []` / `= {}`) silently disable memoization when a hook call follows](https://github.com/react/react/issues/37735) | 0 |
 | [#37733 [DevTools Bug]: Profiler crashes for a controlled `memo(forwardRef(...))` component when recording render reasons](https://github.com/react/react/issues/37733) | 0 |
-| [#37728 Bug: [Flight] Client throws `object null is not iterable` reviving an AggregateError whose inner errors have no stack frames](https://github.com/react/react/issues/37728) | 0 |
 | [#37727 [Compiler Bug]: babel seems to not apply `babel-plugin-react-compiler`](https://github.com/react/react/issues/37727) | 0 |
 | [#37718 Bug: o banco de dados do supabase está dando erro](https://github.com/react/react/issues/37718) | 0 |
 | [#37715 Bug:](https://github.com/react/react/issues/37715) | 3 |
@@ -38,6 +40,3 @@ Most recently opened:
 | [#37666 Suspense content is never revealed in a tab that has not been foregrounded](https://github.com/react/react/issues/37666) | 4 |
 | [#37665 eslint-plugin-react-hooks: rules-of-hooks misses early-return violations in components with CJK (non-ASCII) names, and false-positives force disabling it](https://github.com/react/react/issues/37665) | 1 |
 | [#37664 Bug:](https://github.com/react/react/issues/37664) | 0 |
-| [#37655 Bug: false "change in the order of Hooks" warning when a component suspends twice via use()](https://github.com/react/react/issues/37655) | 2 |
-| [#37652 Bug: view-transition-class is replaced by view-transition-name after a Suspense boundary reveals](https://github.com/react/react/issues/37652) | 0 |
-| [#37647 [Compiler Bug]: Rust backend decodes user text that looks like `__SURROGATE_XXXX__` into a lone surrogate](https://github.com/react/react/issues/37647) | 0 |

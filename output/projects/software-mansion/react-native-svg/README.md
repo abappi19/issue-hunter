@@ -1,6 +1,6 @@
 # software-mansion/react-native-svg
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
 - Unassigned: 22+
 - [View all unassigned issues](https://github.com/software-mansion/react-native-svg/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
@@ -10,7 +10,7 @@ Most recently opened:
 | Issue | Comments |
 |---|---|
 | [#3061 [Android] App crashes with NumberFormatException when an SVG has an invalid value like font-size="none"](https://github.com/software-mansion/react-native-svg/issues/3061) | 0 |
-| [#3015 RN 0.87 compatibility - Metro fails to resolve `@react-native/assets-registry/registry` when importing from `react-native-svg/css`](https://github.com/software-mansion/react-native-svg/issues/3015) | 3 |
+| [#3015 RN 0.87 compatibility - Metro fails to resolve `@react-native/assets-registry/registry` when importing from `react-native-svg/css`](https://github.com/software-mansion/react-native-svg/issues/3015) | 4 |
 | [#3006 Fabric/iOS: strokeDasharray cannot be cleared on a recycled view (missing else in RNSVGFabricConversions.h)](https://github.com/software-mansion/react-native-svg/issues/3006) | 2 |
 | [#2994 "instanceHandle is null, event of type topSvgLayout will be dropped" logged repeatedly when SVG components are rapidly recycled in a FlatList](https://github.com/software-mansion/react-native-svg/issues/2994) | 0 |
 | [#2990 [Windows] App crash (use-after-free) in DirectXDeviceManager::DiscardDeviceResources — raw Release() on com_ptr-owned D2D device/context](https://github.com/software-mansion/react-native-svg/issues/2990) | 1 |

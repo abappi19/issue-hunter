@@ -1,8 +1,8 @@
 # software-mansion/react-native-executorch
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 20
+- Unassigned: 18
 - [View all unassigned issues](https://github.com/software-mansion/react-native-executorch/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -10,7 +10,6 @@ Most recently opened:
 | Issue | Comments |
 |---|---|
 | [#1488 Vulkan vs XNNPACK: per model divergences across devices](https://github.com/software-mansion/react-native-executorch/issues/1488) | 1 |
-| [#1456 Deprecate XNNPACK fp32 variants that have a faster, smaller quantized twin](https://github.com/software-mansion/react-native-executorch/issues/1456) | 1 |
 | [#1382 Try to export PrismML Bonsai models](https://github.com/software-mansion/react-native-executorch/issues/1382) | 4 |
 | [#1373 Add MI-GAN inpainting model](https://github.com/software-mansion/react-native-executorch/issues/1373) | 0 |
 | [#1359 Create a separate package that will expose advanced OCR features](https://github.com/software-mansion/react-native-executorch/issues/1359) | 2 |
@@ -20,11 +19,10 @@ Most recently opened:
 | [#1213 Tracking: remove @deprecated symbols at 1.0.0](https://github.com/software-mansion/react-native-executorch/issues/1213) | 0 |
 | [#1143 Add support for GLM-OCR model](https://github.com/software-mansion/react-native-executorch/issues/1143) | 1 |
 | [#1113 Support translation models](https://github.com/software-mansion/react-native-executorch/issues/1113) | 2 |
-| [#1049 Streamline benchmark sections](https://github.com/software-mansion/react-native-executorch/issues/1049) | 0 |
 | [#942 Support img2img](https://github.com/software-mansion/react-native-executorch/issues/942) | 3 |
 | [#769 support qwen3-asr in  speech to text](https://github.com/software-mansion/react-native-executorch/issues/769) | 2 |
 | [#758 Add approval testing for native modules](https://github.com/software-mansion/react-native-executorch/issues/758) | 0 |
-| [#727 Add benchmarking infrastructure](https://github.com/software-mansion/react-native-executorch/issues/727) | 1 |
+| [#724 Add telemetry mechanisms](https://github.com/software-mansion/react-native-executorch/issues/724) | 1 |
 | [#723 Unsloth LLMs support](https://github.com/software-mansion/react-native-executorch/issues/723) | 0 |
 | [#588 Export RoBERTa model](https://github.com/software-mansion/react-native-executorch/issues/588) | 0 |
 | [#572 Implement nsfw support in image classification](https://github.com/software-mansion/react-native-executorch/issues/572) | 2 |

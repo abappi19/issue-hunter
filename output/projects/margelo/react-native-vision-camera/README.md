@@ -1,14 +1,17 @@
 # margelo/react-native-vision-camera
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 27+
+- Unassigned: 28+
 - [View all unassigned issues](https://github.com/margelo/react-native-vision-camera/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#4213 🐛 [Android] Each FrameOutput leaks its native thread (dispose() doesn't shut down the executor; useFrameOutput never disposes)](https://github.com/margelo/react-native-vision-camera/issues/4213) | 0 |
+| [#4211 🐛[IOS] Camera Screen crashes for IOS17.7 and IOS18.6 using v5](https://github.com/margelo/react-native-vision-camera/issues/4211) | 0 |
+| [#4210 Android: CameraX and ML Kit prebuilts prevent a complete GNU_RELRO-compatible package upgrade](https://github.com/margelo/react-native-vision-camera/issues/4210) | 1 |
 | [#4209 🐛 [iOS] SIGABRT in `detachFromFigCaptureSession` when a `CameraSession` is freed by Hermes GC — still on 5.2.3 and `main` (follow-up to #4026)](https://github.com/margelo/react-native-vision-camera/issues/4209) | 0 |
 | [#4208 🐛 Android: rerendering `<Camera>` without a previously set `onPreviewStarted` throws "PreviewView.onPreviewStarted: Value is null, expected an Object"](https://github.com/margelo/react-native-vision-camera/issues/4208) | 0 |
 | [#4207 🐛 Android: `Frame.hasPixelBuffer` is true for PRIVATE frames but `getPixelBuffer()` throws "Unknown HardwareBuffer format"](https://github.com/margelo/react-native-vision-camera/issues/4207) | 0 |
@@ -34,5 +37,3 @@ Most recently opened:
 | [#3845 Neutral zoom?](https://github.com/margelo/react-native-vision-camera/issues/3845) | 2 |
 | [#3834 Android: parallel requestPermission calls leak coroutines and surface as 'JPromise was destroyed'](https://github.com/margelo/react-native-vision-camera/issues/3834) | 1 |
 | [#3823 🛠️ (iOS) Not possible to build for simulator with react-native-vision-camera-barcode-scanner on iOS 26](https://github.com/margelo/react-native-vision-camera/issues/3823) | 20 |
-| [#3688 ✨ Implement High-speed and Slow-motion Recording on Android](https://github.com/margelo/react-native-vision-camera/issues/3688) | 1 |
-| [#3528 ✨ Microphone selection for video](https://github.com/margelo/react-native-vision-camera/issues/3528) | 1 |

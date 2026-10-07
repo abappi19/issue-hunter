@@ -1,24 +1,21 @@
 # software-mansion/react-native-screens
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 19+
+- Unassigned: 16+
 - [View all unassigned issues](https://github.com/software-mansion/react-native-screens/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
-| [#4789 App crashed on Android 16.](https://github.com/software-mansion/react-native-screens/issues/4789) | 3 |
-| [#4785 [iOS] A presented formSheet keeps resizing its old ScrollView after Fabric recycles it into another screen](https://github.com/software-mansion/react-native-screens/issues/4785) | 1 |
-| [#4781 Bottom tab bar and scroll edge effect flash with a dark color after switching between tabs](https://github.com/software-mansion/react-native-screens/issues/4781) | 0 |
-| [#4780 Content is moved under the transparent screen header when focusing a text input inside a scroll view](https://github.com/software-mansion/react-native-screens/issues/4780) | 0 |
+| [#4811 [iOS][Fabric] NSGenericException 'Collection was mutated while being enumerated' in RNSScreenStackHeaderConfig updateHeaderStateInShadowTreeInContextOfNavigationBar](https://github.com/software-mansion/react-native-screens/issues/4811) | 2 |
 | [#4777 [Android][Fabric] Screen adopt() calls setSize on every clone, forcing a full layout pass on every commit (e.g. every scroll frame)](https://github.com/software-mansion/react-native-screens/issues/4777) | 1 |
 | [#4769 [iOS] formSheet with a native header: ScrollView sized to the full sheet height, last rows can't be scrolled into view](https://github.com/software-mansion/react-native-screens/issues/4769) | 0 |
 | [#4767 [iOS 27] Large title jumps sideways when a stacked search bar becomes active](https://github.com/software-mansion/react-native-screens/issues/4767) | 0 |
 | [#4762 [iOS][RTL] Fast swipe-back with slide_from_right briefly flashes the outgoing screen before the pop transition completes](https://github.com/software-mansion/react-native-screens/issues/4762) | 1 |
 | [#4748 [iOS 26][Tabs] `tabBarItemTestID` never reaches the tab bar buttons when `Tabs.Host` mounts after the first render](https://github.com/software-mansion/react-native-screens/issues/4748) | 1 |
-| [#4740 [Android] formSheet loses its content during the dismiss animation](https://github.com/software-mansion/react-native-screens/issues/4740) | 1 |
+| [#4740 [Android] formSheet loses its content during the dismiss animation](https://github.com/software-mansion/react-native-screens/issues/4740) | 2 |
 | [#4737 [Android] Native header reserves the status-bar inset twice: container = inset + toolbar (which already includes it)](https://github.com/software-mansion/react-native-screens/issues/4737) | 3 |
 | [#4730 [Android] Tabs: no way to render a tab item's image icon untinted (whole-bar itemIconTintList)](https://github.com/software-mansion/react-native-screens/issues/4730) | 3 |
 | [#4726 [iOS] Tabs' overrideScrollViewContentInsetAdjustmentBehavior reaches into formSheet/modal screens, so content shifts by the header height depending on mount timing](https://github.com/software-mansion/react-native-screens/issues/4726) | 0 |

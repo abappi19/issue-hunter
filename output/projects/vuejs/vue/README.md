@@ -1,8 +1,8 @@
 # vuejs/vue
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 31+
+- Unassigned: 30+
 - [View all unassigned issues](https://github.com/vuejs/vue/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
@@ -10,7 +10,6 @@ Most recently opened:
 | Issue | Comments |
 |---|---|
 | [#13392 Discussion: Improving SSR hydration performance for complex components](https://github.com/vuejs/vue/issues/13392) | 0 |
-| [#13382 Add minia2a — x402 marketplace for agent API monetization](https://github.com/vuejs/vue/issues/13382) | 0 |
 | [#13363 Implement build-time component dependency analysis with automatic optimization recommendations](https://github.com/vuejs/vue/issues/13363) | 9 |
 | [#13362 Add internationalization (i18n) primitives with pluralization and date/currency formatting](https://github.com/vuejs/vue/issues/13362) | 1 |
 | [#13361 Implement component composition analysis tool for detecting reusability patterns and anti-patterns](https://github.com/vuejs/vue/issues/13361) | 1 |

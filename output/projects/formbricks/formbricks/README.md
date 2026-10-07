@@ -1,21 +1,23 @@
 # formbricks/formbricks
 
-Generated: 2026-10-05T10:04:02.539238+00:00
+Generated: 2026-10-07T09:56:27.683253+00:00
 
-- Unassigned: 74+
+- Unassigned: 77+
 - [View all unassigned issues](https://github.com/formbricks/formbricks/issues?q=is%3Aissue%20is%3Aopen%20no%3Aassignee)
 
 Most recently opened:
 
 | Issue | Comments |
 |---|---|
+| [#9543 One-Click Setup - exited with status code 1](https://github.com/formbricks/formbricks/issues/9543) | 0 |
+| [#9541 S3 storage broken in 6.0.2 on EKS/IRSA: `fast-xml-parser@5.7.0` rejects the `#` entity names that `@aws-sdk/xml-builder` registers (`AssumeRoleWithWebIdentity` fails)](https://github.com/formbricks/formbricks/issues/9541) | 0 |
+| [#9526 Default HTML embed snippet fails to initialize on pages with an AMD loader (React shops, etc.); 500ms setTimeout is unreliable](https://github.com/formbricks/formbricks/issues/9526) | 3 |
 | [#9504 personal-email-domains list is missing private.icloud.com (new Sign in with Apple relay domain)](https://github.com/formbricks/formbricks/issues/9504) | 0 |
-| [#9493 Support pre-provisioned external PostgreSQL for SpiceDB in Docker Compose](https://github.com/formbricks/formbricks/issues/9493) | 1 |
 | [#9455 [Docs] One-Click Setup: mention AAAA records and IPv6 firewall rules](https://github.com/formbricks/formbricks/issues/9455) | 0 |
 | [#9454 Fix one-click Docker installation on Debian and report repository failures](https://github.com/formbricks/formbricks/issues/9454) | 1 |
 | [#8728 Add Zenith as a managed hosting option in the README](https://github.com/formbricks/formbricks/issues/8728) | 1 |
 | [#8715 Publishing an untouched survey rewrites its plain-text headline as rich-text HTML](https://github.com/formbricks/formbricks/issues/8715) | 3 |
-| [#8709 Add the option to specify a reason for single select or multi select questions similar to the "Other" field](https://github.com/formbricks/formbricks/issues/8709) | 2 |
+| [#8709 Add the option to specify a reason for single select or multi select questions similar to the "Other" field](https://github.com/formbricks/formbricks/issues/8709) | 3 |
 | [#8608 feat(i18n): Add Indonesian (id-ID) translation support](https://github.com/formbricks/formbricks/issues/8608) | 0 |
 | [#8305 Randomize question order within a survey](https://github.com/formbricks/formbricks/issues/8305) | 11 |
 | [#7933 Allow configuring scrollbar width in styling](https://github.com/formbricks/formbricks/issues/7933) | 4 |
@@ -83,3 +85,4 @@ Most recently opened:
 | [#6204 Allow to configure OpenGraph description](https://github.com/formbricks/formbricks/issues/6204) | 2 |
 | [#6169 Enterprise Application not working behind a reverse proxy](https://github.com/formbricks/formbricks/issues/6169) | 0 |
 | [#6167 Support for PeerTube video embedding](https://github.com/formbricks/formbricks/issues/6167) | 1 |
+| [#6159 Extend API - Create Project endpoint & API management endpoint](https://github.com/formbricks/formbricks/issues/6159) | 1 |
