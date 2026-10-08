@@ -1,10 +1,8 @@
 name: Collect top-repo issues
 
 on:
-  schedule:
-    # Odd days of the month at 04:00 UTC, after the lists it reads have been
-    # refreshed. Last of the three, so it has the final word on README.md.
-    - cron: "0 4 */2 * *"
+  # Manual only. Run last, after the lists it reads have been refreshed;
+  # it has the final word on README.md.
   workflow_dispatch: {}
 
 permissions:

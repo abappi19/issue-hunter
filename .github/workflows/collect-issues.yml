@@ -1,10 +1,7 @@
 name: Collect open issues
 
 on:
-  schedule:
-    # Odd days of the month at 03:00 UTC, an hour after discovery. The hour
-    # gap keeps the three from pushing to the same branch at once.
-    - cron: "0 3 */2 * *"
+  # Manual only. Run after discover-repos has finished.
   workflow_dispatch: {}
 
 permissions:

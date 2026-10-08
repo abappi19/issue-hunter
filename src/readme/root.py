@@ -15,7 +15,7 @@ DEFAULT_HEADER = f"""# Issue Hunter
 Issue Hunter tracks **unassigned, open issues** across popular open-source
 projects, so contributors can quickly find real work to pick up.
 
-A GitHub Action re-scans every tracked repository on a schedule and rebuilds
+A GitHub Action re-scans every tracked repository when run by hand and rebuilds
 the tables below with the current unassigned-issue count for each one. Click
 a repo's count to jump straight to its live, filtered issue list on GitHub,
 or its name to open its page here, listing the most recently opened
